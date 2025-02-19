@@ -1,0 +1,3469 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75352 ***
+
+
+
+
+
+Anmerkungen zur Transkription
+
+Das Original ist in Fraktur gesetzt. Im Original gesperrter Text ist
+~so ausgezeichnet~. Im Original in Antiqua gesetzter Text ist =so
+markiert= und in kursiv gesetzter Text ist _so markiert_.
+
+Offensichtliche Fehler wurden stillschweigend korrigiert.
+
+
+
+
+DAS PROTISTENREICH.
+
+Eine populäre Uebersicht
+über das
+Formengebiet der niedersten Lebewesen.
+
+
+Mit einem wissenschaftlichen Anhange:
+
+SYSTEM DER PROTISTEN.
+
+
+Von
+
+E. HÆCKEL.
+
+Mit zahlreichen Holzschnitten.
+
+[Illustration]
+
+
+Leipzig.
+
+Ernst Günther’s Verlag.
+
+1878.
+
+
+Alle Rechte vorbehalten.
+
+
+
+
+Für das tiefere Verständniss unserer heutigen Entwicklungslehre und
+der darauf gegründeten einheitlichen Weltanschauung dürften wenige
+Zweige der Naturwissenschaft von so fundamentaler Bedeutung sein,
+wie die Naturgeschichte der niedersten Lebewesen, der sogenannten
+~Protisten~. Denn die urwüchsige Einfachheit im Körperbau und in
+den Lebens-Erscheinungen dieser unvollkommnen »Urwesen« öffnet uns
+erst den wahren Weg für das Verständniss der viel entwickelteren und
+schwierigeren Erscheinungen, welche uns die Anatomie und Physiologie
+der höheren und vollkommneren Organismen, der echten Thiere und
+Pflanzen darbietet. Dennoch ist die Bekanntschaft mit den Protisten
+bisher fast nur auf die gelehrten Fachkreise beschränkt geblieben
+und erst sehr wenig in weitere Kreise eingedrungen. Das ist auch
+leicht erklärlich. Denn die grosse Mehrzahl jener einfachsten
+Lebensformen, die wir im »Protistenreich« zusammenfassen, ist dem
+unbewaffneten Auge völlig verborgen. Erst durch das Mikroskop können
+wir sie erkennen, und meistens erst mit Hülfe starker Vergrösserungen
+ihre Form-Verhältnisse genau erforschen. Aber auch dann ist diese
+Erforschung noch mit vielen Schwierigkeiten und Hindernissen verknüpft.
+Denn die allgemeinen Anschauungen vom lebendigen Organismus, die
+gewöhnlichen Begriffe von den Organen und Functionen der Lebewesen,
+welche wir aus der alltäglichen Anschauung des höheren Thier- und
+Pflanzen-Lebens uns gebildet haben, passen nur wenig oder gar nicht auf
+jene niedersten Lebensformen. Ausserdem ist aber auch die gründliche
+wissenschaftliche Forschung der letzteren kaum vierzig Jahre alt; und
+erst die sehr ausgedehnten und sorgfältigen Untersuchungen der letzten
+zwanzig Jahre haben ihre Kenntniss auf eine solche Höhe gebracht,
+dass wir gegenwärtig wenigstens eine befriedigende Vorstellung von
+der Eigenthümlichkeit und eine klare Einsicht in die Bedeutung des
+Protisten-Reiches gewonnen haben.
+
+Wenn wir nun hier den Versuch wagen, in allgemein-verständlicher Form
+eine kurze Uebersicht über das ganze grosse Protistenreich zu geben,
+und seine hohe Bedeutung für die Entwicklungslehre dem Verständniss der
+gebildeten Kreise näher zu bringen, so sind wir uns der grossen damit
+verknüpften Schwierigkeiten wohl bewusst. Wir glauben aber denselben
+am besten zu begegnen, wenn wir uns auf die gedrungene Zusammenfassung
+des Wichtigsten beschränken, und die Bekanntschaft mit dem höchst
+mannigfaltigen und interessanten Detail dieses unendlich reichen
+Forschungs-Gebietes dem Studium der Special-Werke überantworten.
+Zunächst wird sicher für unsere moderne Entwicklungslehre und weiterhin
+auch für unsere damit verknüpfte monistische Weltauffassung schon viel
+gewonnen sein, wenn eine allgemeine Anschauung von dem weiten Umfang
+des mikroskopischen Lebensreiches, von der Einfachheit und elementaren
+Bedeutung des »kleinsten Lebens« sich einen Platz im Bewusstsein
+unserer gebildeten Kreise erobert hat.
+
+Die niedersten Lebewesen, die wir hier als ~Protisten~, d. h.
+»~Erstlinge~« oder »~Urwesen~« zusammenfassen, werden in weiteren
+Kreisen auch heute noch sehr oft mit den unpassenden Namen Infusorien
+oder ~Infusionsthierchen~ (im weiteren Sinne!) bezeichnet. In
+den systematischen Lehrbüchern der Naturgeschichte werden sie
+meistens als ~Urthiere~ (oder »~Protozoa~«) aufgeführt. Die beste
+deutsche Bezeichnung für die ganze grosse Gruppe wäre vielleicht:
+~Zellinge~ oder Zellwesen; denn es würde dadurch die wesentlichste
+Eigenthümlichkeit ihrer Organisation, die autonome Selbständigkeit und
+permanente Individualität ihres einfachen Zellen-Leibes in präcisester
+Weise ausgedrückt.
+
+Obgleich Viele von der Existenz der meisten mikroskopischen Protisten
+keine Ahnung haben, so kommt dennoch jeder Mensch unendlich oft
+mit ihnen in Berührung. Jeder hat beim Wassertrinken, beim Essen
+von Früchten, Austern und anderen rohen Speisen schon Tausende und
+Millionen von lebenden Protisten verschluckt, ohne sich dessen bewusst
+geworden zu sein. Denn obgleich diese merkwürdigen Geschöpfe von dem
+unbewaffneten Auge des Menschen zum grössten Theile gar nicht erkannt
+oder höchstens als ganz kleine Pünktchen wahrgenommen werden, sind sie
+dennoch in zahllosen, höchst mannigfaltigen und interessanten Formen
+allenthalben über unseren Erdball verbreitet. Unsere Mikroskope weisen
+uns dieselben überall im süssen und salzigen Wasser nach. Alle Bäche
+und Flüsse, alle Teiche und Seen, alle Tümpel und Gräben enthalten
+solche Urthierchen, oft in unglaublicher Masse. Man kann keinen Stein,
+keine Pflanze aus dem Wasser heben, ohne in dem daran haftenden
+schleimigen Ueberzug wenigstens einzelne Infusorien zu finden. Ebenso
+ist das Meer überall von ihnen belebt. Der weiche Schlamm, der den
+Meeresgrund bedeckt, besteht zum grossen Theil aus dergleichen
+Protozoen. Der feine schlammige Ueberzug, der bei ruhigem Wetter
+den klaren Meeresspiegel überzieht, ist aus Milliarden schwimmender
+Infusorien zusammengesetzt. Aber auch der Staub unserer Strassen, der
+Sand unserer Dachrinnen, die Humus-Erde unserer Felder und Wälder,
+enthält Millionen kleinster Infusorien-Keime, sowie eingetrocknete,
+aber noch lebensfähige Körper derselben. Wir brauchen bloss diesen
+Staub und Sand in einem Glase mit etwas Wasser zu übergiessen und
+diesen Aufguss einige Zeit in der Sonne stehen zu lassen, um durch
+unser Mikroskop Massen von beweglichen Infusorien wahrzunehmen;
+theils haben sie sich in kürzester Zeit aus jenen Keimen entwickelt,
+theils sind sie unter dem belebenden Einflusse des Wassers aus ihrem
+Trockenschlafe zu neuem Leben erwacht. Ist es ja doch gerade diese
+Erscheinung, die zu der Benennung: ~Infusoria~ oder Infusionsthierchen,
+d. h. »~Aufgussthierchen~« Veranlassung gab.
+
+Es sind jetzt kaum zweihundert Jahre verflossen, seitdem die
+mikroskopischen Infusorien durch den holländischen Naturforscher ~Anton
+van Leeuwenhoek~ zuerst in einem Topfe voll stehenden Regenwassers
+entdeckt wurden. Die Holländer haben die zweihundertjährige Jubelfeier
+dieser Entdeckung, die damals das grösste Aufsehen erregte, vor wenigen
+Jahren (1875) feierlichst begangen; und sie thaten Recht daran. Denn
+die wissenschaftliche Tragweite derselben ist in der That unermesslich,
+und je mehr wir mit unseren vervollkommneten Mikroskopen in die
+tiefsten Geheimnisse des Lebens eindringen, desto mehr werden wir uns
+ihrer Bedeutung bewusst.
+
+Unsere ganze Anschauung vom Wesen des ~Lebens~ und von der
+~Entwicklung~ der organischen Gestalten ist durch die genauere
+Erkenntniss dieser Urthierchen oder Infusionsthierchen unendlich
+erweitert und gefördert worden. Anatomie und Physiologie,
+Entwickelungsgeschichte und Systematik verdanken ihr die wichtigsten
+Aufschlüsse. Selbst für die Geologie haben sie eine ausserordentliche
+Bedeutung erlangt. Denn diese kleinsten Lebensformen haben keinen
+geringeren Einfluss auf die Bildung der mächtigsten Gebirgsmassen
+und auf die ganze Gestaltung unserer Erdrinde ausgeübt, als alle die
+zahlreichen grossen Thiere und Pflanzen, die unsern Planeten seit
+Millionen von Jahren belebt haben. Die mikroskopischen Kalkschalen
+und Kieselgehäuse, welche sich die meisten Urthiere bilden, bleiben
+nach dem Tode ihrer Bewohner unverändert übrig. Sie häufen sich
+auf dem Grunde der Gewässer massenhaft an, bilden hier mächtige
+Schlammschichten und werden im Laufe der Jahrtausende zu festem
+Gesteine verdichtet. So sind z. B. die Kreide-Gebirge von England und
+von der Insel Rügen, sowie die über der Kreideformation abgelagerten
+eocänen Tertiärschichten zum grössten Theile, oft fast ausschliesslich,
+aus den zierlichen Kalkschalen der Polythalamien zusammengesetzt.
+Andere Gesteine, wie z. B. die tertiären Felsmassen von Barbados
+und von den Nikobaren-Inseln, zeigen sich zum grössten Theile aus
+den reizenden Kieselpanzern der Radiolarien gebildet. Viele von den
+Gesteinen, welche solchen Urthierchen ihre Entstehung verdanken,
+liefern ein vorzügliches Baumaterial; und manche unserer grössten
+Städte sind vorzugsweise aus dergleichen Steinen erbaut, so z. B. Wien
+und Paris.
+
+       *       *       *       *       *
+
+Die berühmten Tiefsee-Forschungen der neuesten Zeit, zu denen die
+erste Legung des atlantischen Telegraphen-Kabels den Anstoss gab,
+haben jene felsbildende Macht des kleinsten Lebens in das hellste
+Licht gestellt. Sie haben uns gezeigt, wie noch heute in den
+tiefsten Abgründen des Meeres unaufhörlich kreideartiges Gestein
+aus feinstem Meeresschlamm entsteht, und wie dieser Schlamm fast
+ausschliesslich aus den Kalkschalen und Kieselpanzern unglaublicher
+Massen von Urthierchen gebildet wird. Vor Allem sind es hier die
+unvergleichlichen Entdeckungen der bewunderungswürdigen britischen
+~Challenger~-Expedition, welche uns mit einer Fülle neuer und
+überraschender Anschauungen über die »~Mikrogeologie~«, über das
+reiche, räthselvolle, mikroskopische Leben der Tiefsee-Thäler
+bereichert haben.
+
+Wie nun die eifrigen Forschungen des letzten halben Jahrhunderts unsere
+Kenntniss vom Leben und Weben der Urthiere, von ihrer Gestaltung
+und Entwickelung ungemein gefördert haben, so haben sie auch unsere
+Ansichten von ihrer Stellung in der Natur und von ihrer systematischen
+Gruppirung sehr wesentlich verändert. Das System der organischen Formen
+ist ja immer mehr oder weniger der Ausdruck der Anschauungen, welche
+wir von ihrer natürlichen Verwandtschaft besitzen, und so zeigen uns
+denn auch die grossen Veränderungen, welche das System der Urthiere im
+Verlauf der letzten Jahrzehnte erlitten hat, am klarsten den gewaltigen
+Umschwung unserer bezüglichen Vorstellungen. Nachdem vor neunzig
+Jahren (1786) ~Otto Friedrich Müller~ den ersten umfassenden Entwurf
+eines Systems der Infusionsthierchen gegeben hatte, erschien vor
+vierzig Jahren das grosse Prachtwerk des berühmten (1876 verstorbenen)
+Naturforschers ~Ehrenberg~: »Die Infusionsthierchen als vollkommene
+Organismen. Ein Blick in das tiefere organische Leben der Natur.«
+Das war im Jahre 1838, in demselben für die Naturwissenschaft Epoche
+machenden Jahre, in welchem der geniale Botaniker ~Schleiden~ in Jena
+zuerst den Grund zu der höchst fruchtbaren ~Zellen-Theorie~ legte. In
+der That ein merkwürdiger Zufall; eine seltsame Ironie des Schicksals.
+Denn ~Ehrenberg~ war in seinem grossen Hauptwerke vor Allem bemüht,
+das ihm eigene »~Princip überall gleich vollendeter Entwicklung~«
+zur Geltung zu bringen. Er suchte bei den Infusorien eine eben so
+vollkommene Organisation nachzuweisen, wie bei den höheren Thieren
+und beim Menschen. Er glaubte überall Nerven und Muskeln, Darm und
+Blutgefässe, männliche und weibliche Organe unterscheiden zu können.
+Gerade dieses Prinzip war ~grundfalsch~; vielmehr sind die Infusorien
+höchst einfache Organismen: die meisten haben nur die Bedeutung und den
+Werth einer einzigen einfachen Zelle; und ihr wahres Verständniss wird
+uns erst durch die Zellentheorie gegeben.
+
+Der alte Name »Infusionsthierchen« wird heute nur noch auf einen
+kleinen Theil der mikroskopischen Wesen angewendet, welche ~Ehrenberg~
+in seinem grossen Werke als solche beschrieb. Nur die Wimperthierchen
+oder ~Ciliaten~ und die Borstenthierchen oder ~Acineten~, oft
+auch die Geisselschwärmer oder ~Flagellaten~ werden heute noch in
+wissenschaftlichen Werken »Infusorien« genannt; die formenreichen
+Kieselzellen oder ~Diatomeen~ werden dagegen meist von den Botanikern
+zu den Algen gerechnet. Die Räderthierchen (_Rotatoria_), die für
+~Ehrenberg~ gerade den Typus der Infusoria bildeten, sind Würmer,
+also Thiere von viel höherer Organisation. Dagegen bilden die Amoeben
+und ihre Verwandten heute eine besondere wichtige Protisten-Classe,
+die wir Lappenthierchen oder ~Lobosa~ nennen. Neben diesen aber hat
+die fortgeschrittene mikroskopische Forschung uns andere Classen von
+Urthierchen kennen gelehrt, die viel zahlreichere, merkwürdigere und
+mannigfaltigere Formen enthalten, als jene älteren Infusionsthierchen:
+vor allen die wunderbare Classe der Wurzelfüssler oder ~Rhizopoden~;
+die Sonnenthierchen oder ~Heliozoen~, die kalkschaligen ~Thalamophoren~
+und kieselschaligen ~Radiolarien~. Diesen schliessen sich eng die
+sonderbaren Schleimpilze oder ~Myxomyceten~ an, welche die Botaniker
+früher zu den echten ~Pilzen~ (_Fungi_) stellten. Aber auch die
+Stellung dieser letzteren im Pflanzenreiche ist ganz zweifelhaft
+geworden und es bestehen gewichtige Gründe dafür, sie aus letzterem
+in das Protistenreich zu versetzen. Als eine besondere, interessante,
+wenn auch nur sehr kleine Protisten-Classe dürfen wir die ~Catallacten~
+betrachten. Endlich finden wir unten auf der tiefsten Stufe jener
+höchst einfachen, wunderbaren Wesen, mit denen das organische Leben in
+denkbar einfachster Gestalt beginnt, die ~Moneren~.
+
+Schon beim ersten Blick auf die wunderbare Formenwelt, welche uns hier
+das Mikroskop entschleiert, wird sich jedem Unbefangenen zunächst
+die Frage aufdrängen: »Sind denn diese sogenannten Urthiere oder
+Infusionsthiere wirkliche, echte ~Thiere~ und warum werden sie von
+den Naturforschern in das Thierreich gestellt?« Diese Frage ist
+vollständig berechtigt; sie gehört zu jenen schwierigen Grundfragen
+der allgemeinen Biologie, deren Lösung durch unsere fortschreitende
+Kenntniss eher erschwert als erleichert wird. Wenn wir nämlich
+althergebrachter Maassen die ganze organische Natur in die beiden
+grossen Hälften: Thierreich und Pflanzenreich eintheilen, und wenn wir
+damit glauben den natürlichen Gegensatz zwischen zwei völlig getrennten
+Hauptgebieten auszusprechen, so ist diese Unterscheidung zwar durch
+die festgewurzelte Anschauung und den Sprachgebrauch von Jahrtausenden
+geheiligt; aber logisch begründbar und wirklich naturgemäss ist sie
+nicht. Vielmehr lehren uns gerade unsere Urthierchen das Gegentheil.
+Je genauer wir deren Formen und Lebenserscheinungen studiert haben,
+je vollständiger uns ihre ganze Entwicklungsgeschichte bekannt
+geworden ist, desto klarer hat sich herausgestellt, dass sie eine
+ununterbrochene Verbindungsbrücke zwischen den tiefsten Stufen des
+Thierreichs und des Pflanzenreichs herstellen. So leicht und sicher
+wir die höheren und vollkommneren Stufen der beiden grossen Reiche
+von einander unterscheiden können, so schwer, ja so unmöglich wird
+diese Trennung auf den niedrigsten und unvollkommensten Stufen. Denn
+hier sind beide Reiche durch eine zusammenhängende Kette von einfachen
+Uebergangsformen untrennbar verbunden.
+
+Die Erkenntniss dieser wichtigen Thatsache, welche heute unzweifelhaft
+festgestellt ist, hat zu den lebhaftesten Streitigkeiten über die
+Grenze zwischen Thierreich und Pflanzenreich Veranlassung gegeben.
+Sie hat zugleich die abweichendsten Anschauungen über das Wesen der
+zweifelhaften Infusorien hervorgerufen, die mitten zwischen den beiden
+grossen Reichen der organischen Natur ein neutrales Grenzgebiet für
+sich in Anspruch nehmen.
+
+Während nämlich viele Infusorien von den Zoologen für Thiere,
+von den Botanikern dagegen für Pflanzen erklärt, und demnach von
+Beiden annectirt wurden, hatten Andere gerade das entgegengesetzte
+Schicksal: sie wurden von Beiden verschmäht; bei einer dritten
+Gruppe von Infusorien schien sogar nur die Annahme übrig zu bleiben,
+dass sie abwechselnd als Thiere und Pflanzen lebten. Der daraus
+entspringende Streit über ihre wahre Natur scheint am einfachsten
+dadurch entschieden zu werden, dass man den ~Begriff~ von ~Thier~ und
+~Pflanze~ scharf umschreibt, und diese unzweideutige Begriffsbestimmung
+auf jene zweifelhaften Mittelwesen anwendet. Aber diese gesuchte
+Begriffsbestimmung selbst ist ein unlösbares Problem; je mehr Mühe
+man darauf verwendet hat, desto klarer hat sich herausgestellt, dass
+es überhaupt auf einer falschen Fragestellung beruht, und dass die
+Begriffe von Thier und Pflanze nicht in der Natur begründet sind.
+
+Um nun den so entstandenen Schwierigkeiten zu entgehen, und um zu einer
+vernünftigen Classification der organischen Wesen zu gelangen, ist
+schliesslich nur ein Ausweg übrig geblieben: nämlich die Aufstellung
+eines dritten, selbständigen Reiches von elementaren Organismen:
+Das ist unser Reich der ~Protisten~ oder ~Zellinge~, das Reich der
+neutralen Urwesen. Wir fassen demnach die ganze organische Natur, die
+Gesammtheit aller lebenden Wesen unsers Erdballs, als ein grosses
+einheitliches Ganze auf; und dieses umfassende Universalreich theilen
+wir in drei Reiche: das Thierreich einerseits, das Pflanzenreich
+andrerseits, mitten zwischen Beiden das neutrale Reich der Protisten.
+
+       *       *       *       *       *
+
+Um nun die Aufstellung unseres ~Protistenreich~ zu rechtfertigen,
+wollen wir einen flüchtigen Blick auf die verschiedenen
+Character-Seiten des Thier- und Pflanzenreichs werfen. Es wird sich
+dabei von selbst ergeben, dass unsere Protisten weder dem einen, noch
+dem anderen vollständig entsprechen. Verweilen wir zunächst einen
+Augenblick bei der äusseren Gesammterscheinung. So characteristisch
+uns da einerseits das höhere Thier mit der Gliederung seines Leibes
+und seiner Gliedmaassen, anderseits die höhere Pflanze mit ihrem
+Stengel und ihren Blättern entgegentritt, so wenig reicht diese
+äussere Gliederung hin, um die niederen Formen beider Reiche zu
+unterscheiden. Viele unzweifelhafte Thiere, wie z. B. die Korallen, die
+Schwämme, ahmen so vollkommen die Gestalt echter Pflanzen nach, dass
+man sie früher allgemein für solche gehalten hat. Umgekehrt giebt es
+viele unzweifelhafte Pflanzen, wie z. B. viele Orchideen und andere
+Schmarotzer, welche die Gestalt echter Thiere nachahmen. Und was sollen
+wir nun vollends zu den unendlich mannigfaltigen Figuren unserer
+Protisten sagen? Da treffen wir allein schon in der einen Classe der
+kieselschaligen Radiolarien alle möglichen Grundformen verkörpert an,
+die überhaupt in der Natur vorkommen können; und in welcher zierlichen
+und wundervollen Ausführung! Da finden wir in einem einzigen Tropfen
+Meerwasser nebeneinander Kugeln, Kreuze, Körbchen, Schrauben, Sterne,
+Schachfiguren, Hörner, Hauben, Helme, u. s. w.; kurz eine Fülle der
+mannigfaltigsten und merkwürdigsten Gestalten. Gewiss wird Jedermann,
+der diese Formen zum ersten Male sieht, sie für Kunstproducte halten,
+oder vielleicht für abgelöste Theile von grösseren Organismen. Und
+doch sind es vollkommen entwickelte und selbständige Lebewesen! Aber
+Niemand wird geneigt sein, sie für echte Thiere oder echte Pflanzen
+zu erklären. Ebenso wenig können wir aus der äusseren Körperform der
+meisten anderen Protisten einen sicheren Schluss auf ihre wahre Natur
+ziehen. Sehr Viele bewahren zeitlebens die einfache Kugelgestalt.
+Andere zeigen beständig die einfache Form eines Cylinders, einer
+Scheibe, eines Kegels, einer Pyramide u. s. w. Noch Andere endlich
+haben überhaupt gar keine bestimmte Gestalt, so namentlich die Moneren
+und die Amoeben. Der ganze Körper dieser höchst einfachen Urwesen
+besteht aus einem lebenden mikroskopischen Schleimklümpchen, das in
+unablässigem Wechsel seine Gestalt beständig ändert: daher der passende
+Name »Aenderling«, den ~Oken~ diesen Amoeben beilegte.
+
+Doch verlassen wir die äussere Körperform! Denn dass diese ganz
+unzureichend ist, um den Unterschied zwischen Thier und Pflanze zu
+begründen, das ist längst allgemein anerkannt. Fragen wir uns lieber,
+was denn eigentlich in der naiven Anschauung des täglichen Lebens
+diese Unterscheidung begründet, und was dieselbe seit Jahrtausenden
+in der Sprache und im Begriffsleben der Menschheit gerechtfertigt
+hat. Unzweifelhaft sind es die Lebenserscheinungen der ~Empfindung~
+und ~Bewegung~, welche uns hier zunächst entgegentreten. Empfindung
+und Bewegung sind es, welche in der allgemeinen Anschauung das
+Thier gegenüber der Pflanze auszeichnen, und aus denen wir auf ein
+»~Seelenleben~« des Thieres schliessen, ein Seelenleben, das wir
+der Pflanze absprechen. Wie verschieden auch die psychologischen
+Vorstellungen sind, und wie weit auch die Ansichten über das
+eigentliche Wesen der Seele aus einander gehen, darüber sind wir doch
+Alle einig, dass mindestens den höheren Thieren eine Art Seelenleben
+zukommt. Denn die Hausthiere, die wir täglich um uns sehen, bewegen
+sich zweifellos ebenso willkürlich, wie wir selbst. Sie empfinden
+die Eindrücke der Lust und Unlust, der Freude und des Schmerzes
+zweifellos ähnlich, wie wir selbst. Auch lehrt uns ja sofort jede
+anatomisch-physiologische Untersuchung, dass das Nervensystem, das
+Organ dieser Seelenthätigkeiten, bei den höheren Wirbelthieren im
+Wesentlichen eine ähnliche Einrichtung besitzt, wie bei uns selbst.
+
+Von diesen augenfälligen Seelenthätigkeiten der höheren Thiere
+ausgehend, schliessen nun die Zoologen, dass dieselben auch
+allen anderen Thieren zukommen, und demgemäss werden seit alter
+Zeit Empfindung und willkürliche Bewegung als charakteristische
+Eigenschaften des Thieres betrachtet. Schon ~Linné~ sagt: »Die Pflanzen
+leben, die Thiere leben und empfinden.« Und doch ist gerade diese,
+allgemein angenommene Unterscheidung völlig unhaltbar. Wir brauchen nur
+an den gewöhnlichen Badeschwamm zu denken, um uns davon zu überzeugen.
+Dieser Badeschwamm, mit dem sich der Kulturmensch täglich zu waschen
+pflegt, ist das todte Skelet, das innere Gerüst eines unzweifelhaften
+Thieres. Im Leben stellt dieses Thier einen fleischigen, schwarzen,
+formlosen Klumpen dar, der unbeweglich auf dem Meeresboden
+festgewachsen ist. Aehnliche Seegewächse aus der Klasse der Schwämme
+oder Spongien sitzen massenhaft auf dem Boden aller Meere, hunderte von
+verschiedenen Arten. Die meisten zeigen keine Spur von Bewegung und
+Empfindung; sie galten daher auch früher allgemein für Pflanzen. Erst
+die genauesten Untersuchungen über ihre Entwickelungsgeschichte haben
+uns in den letzten Jahren darüber belehrt, dass wir sie als echte,
+unzweifelhafte Thiere betrachten müssen.
+
+Aehnliche echte Thiere, welche in vollkommen reifem und ausgebildetem
+Zustande der Empfindung und Bewegung entbehren, kennen wir jetzt
+in Menge. Die meisten leben festgewachsen auf dem tiefen Grunde
+des Meeres. Sie gehören sehr verschiedenen Classen an: Würmern,
+Ascidien, Mollusken u. s. w. Viele von ihnen werden auf italienischen
+Fischmärkten unter den Namen »Seefrüchte« (_Frutti di mare_) feil
+geboten, und sowohl der Fischer, der sie verkauft, wie der Fremde, der
+sie mit Appetit verspeist, hält sie für die Früchte von Seegewächsen.
+
+Sogar unter den höheren Thierklassen, z. B. unter den Schnecken und
+Krebsen, giebt es einzelne Arten, die in vollkommen reifem Zustande
+einen formlosen runden Klumpen, ohne jede Spur von Bewegung und von
+Empfindung, darstellen. In diesen Fällen ist es die schmarotzende
+Lebensweise, durch welche das Thier seine »Seele« verloren hat. Das
+gilt z. B. von der berühmten Wunderschnecke (_Entoconcha mirabilis_)
+und von dem merkwürdigen Säckchenkrebse (_Sacculina_). Erstere lebt
+als Parasit im Innern von Seegurken oder Holothurien: letzterer sitzt
+schmarotzend auf andern Krebsen fest. Beide Thiere haben die Gestalt
+eines einachen länglichen, runden Schlauches: und dieser Schlauch
+enthält nichts weiter als Eier. Keine Spur von einem Kopfe und von
+Sinnesorganen: keine Spur von Fühlhörnern und Beinen: keine Spur von
+Empfindung und willkürlicher Bewegung. Gewiss würde kein Mensch in
+diesen beiden seelenlosen Eierschläuchen wahre Thiere vermuthen, und
+doch stellt die Entwickelungsgeschichte unzweifelhaft fest, dass das
+eine eine Schnecke und das andere ein Krebs ist.
+
+Als Gegenstück zu diesen »~seelenlosen Thieren~« treffen wir auf der
+anderen Seite »~seelenvolle Pflanzen~«, die uns noch mehr überraschen.
+Wir betreten einen tropischen Urwald und wollen uns ein zierlich
+gefiedertes Mimosenblatt abpflücken. Aber kaum berühren wir den zarten
+Zweig der schamhaften Sinnpflanze (_Mimosa pudica_), so klappen alle
+Blätter ihre zierlichen Fieder-Reihen zusammen und die Blattstiele
+sinken wie gelähmt herab. Ja manche dieser akazienartigen Bäume sind so
+reizbar, so empfindlich, dass schon die Erschütterung des Bodens durch
+den Tritt des herannahenden Wanderers hinreicht, sämmtliche Blätter
+zum Schliessen zu bringen. Nicht minder empfindlich sind neben vielen
+Anderen die durch ~Darwin~ berühmt gewordenen »insektenfressenden
+Pflanzen«. Sobald eine unvorsichtige Fliege sich auf das Blatt einer
+»Fliegenfalle« (_Dionaea_) setzt, klappt das reizbare Blatt zusammen,
+und die mörderische Pflanze verzehrt das erfasste Insect mit offenbarem
+Wohlbehagen. Wollten wir diesen hochorganisirten Pflanzen eine Seele
+absprechen, so müssten wir sie ganz ebenso auch bei den empfindlichen,
+aber festgewachsenen, pflanzenähnlichen Korallen leugnen; denn diese
+geben keine anderen Aeusserungen ihres Seelenlebens.
+
+Aber nicht allein solche hohe Empfindlichkeit, solche lebhafte
+Beweglichkeit einzelner Körpertheile treffen wir vielfach bei echten
+Pflanzen an. Nein, auch selbständige, freie Ortsbewegung, auch die
+Willensthätigkeit, auf die wir aus der scheinbar willkürlichen Bewegung
+schliessen, findet sich bei unzweifelhaften Pflanzen vor. Viele Algen,
+z. B. viele von unsern einheimischen grünen Wasserfäden oder Conferven,
+schwimmen in ihrer Jugend frei und lebhaft im Wasser umher. Die
+jungen Pflänzchen bewegen sich dabei, ebenso wie viele junge Thiere,
+durch zarte, haarförmige, schwingende Fäden, Geisseln oder Wimpern.
+Bei dieser Schwimmbewegung äussern sie eben so viel Lebhaftigkeit,
+eben so viel Ausdauer, eben so viel scheinbaren Willen, wie die ganz
+ähnlichen, flimmernden Jugendformen vieler Thiere, z. B. die Gastrula.
+Auf den Wiener Botaniker ~Unger~, der zuerst vor 35 Jahren (im Jahre
+1843) diese frei beweglichen Jugendformen von Algen entdeckte,
+machten dieselben einen so tiefen Eindruck, dass er seine bezügliche
+Mittheilung betitelte: »Die Pflanze im Momente der Thierwerdung.«
+
+Schon aus diesen wenigen Thatsachen, die wir noch durch Aufzählung
+vieler ähnlicher Erscheinungen beträchtlich vermehren könnten,
+geht unzweifelhaft hervor, dass die höheren Seelenthätigkeiten
+der bewussten Empfindung und der willkürlichen Bewegung weder
+allen Thieren eigenthümlich sind, noch allen Pflanzen fehlen. Sie
+können daher nicht mehr in der üblichen Weise zur Unterscheidung
+von Thier- und Pflanzenreich benutzt werden; und ebenso wenig sind
+sie von systematischer Bedeutung für unser Protistenreich. Für die
+Beurtheilung dieses letzteren ist es gleichgültig, ob sich die
+Protisten sehr lebhaft bewegen und sehr fein empfinden, wie die meisten
+Wimper-Infusorien; oder ob sie nur stumpfe Empfindung und träge
+Bewegung besitzen, wie die meisten Wurzelfüssler. Viele Protisten
+treten uns in zwei abwechselnden und ganz verschiedenen Zuständen
+entgegen: einem unbeweglichen und unempfindlichen Ruhezustande, in
+welchem sie uns als Pflanzen erscheinen; und einem frei beweglichen
+und sehr empfindlichen Zustande, in welchem sie Thieren gleichen.
+Wir dürfen von diesen merkwürdigen Urwesen geradezu sagen: sie
+sind abwechselnd Thier und Pflanze. Und so sind sie auch wirklich
+früher beurtheilt worden. So sind z. B. von manchen Flagellaten und
+Myxomyceten die vegetativen Ruhezustände als Pflanzen, die animalen
+Bewegungszustände als Thiere beschrieben worden, und erst viel später
+wurde entdeckt, dass Beide nur verschiedene Lebens-Zustände eines und
+desselben Protisten sind.
+
+Wollen wir nun aber vom Standpunkte der vergleichenden Psychologie zu
+einem Schlusse über das Seelenleben aller dieser Geschöpfe kommen, so
+kann dieser Schluss nur lauten: »~Alle lebenden Wesen sind beseelt~,
+die Pflanzen so gut wie die Thiere, und die Protisten so gut wie
+die Pflanzen.« Innere Bewegungs-Erscheinungen, die scheinbar ohne
+äussere Ursachen entstehen und auf Ortsveränderungen kleinster Theile
+beruhen, insbesondere Protoplasma-Störungen, sind allen Organismen
+gemeinsam, und insofern ist jedes lebende Wesen beseelt, jedes ist
+zugleich reizbar, im gewissen Sinne empfindlich. Stufenweise erhebt
+sich die Seelenthätigkeit, von den unscheinbarsten und niedrigsten
+Anfängen ausgehend, zu immer höheren und vollkommneren Leistungen.
+Während die niedrigsten Thiere sich in dieser Beziehung nicht von den
+meisten Pflanzen und Protisten unterscheiden, steigt das Seelenleben
+der höheren Thiere, das Wollen und Empfinden, Vorstellen und Denken, zu
+einer ähnlichen Stufe wie beim Menschen empor.
+
+Gleich der Seelenthätigkeit haben sich auch alle anderen Eigenschaften,
+durch welche man Thiere und Pflanzen hat unterscheiden wollen,
+als unzureichende Merkmale erwiesen. Unzweifelhaft der wichtigste
+Unterschied zwischen Beiden beruht auf den entgegengesetzten
+physiologisch-chemischen Verhältnissen ihrer Ernährung. Der gesammte
+~Stoffwechsel~ in beiden Reichen, im Grossen und Ganzen betrachtet,
+ist grundverschieden. Die Pflanzen allein besitzen das Vermögen, aus
+den einfachen chemischen Verbindungen der leblosen anorganischen
+Natur, aus Wasser, Kohlensäure und Ammoniak, jene verwickelten und
+höchst zusammengesetzten, eiweissartigen Kohlenstoff-Verbindungen
+herzustellen, welche als die wahren Träger aller eigentlichen
+Lebens-Erscheinungen gelten, vor allen das ~Protoplasma~ oder den
+Bildungsstoff (»_Plasson_«). Das können die Thiere nicht. Sie nehmen
+die Eiweisskörper, die sie beständig verbrauchen und zersetzen, direct
+oder indirect aus dem Pflanzenreich auf. Zur Aufnahme und Verdauung
+ihrer Nahrung bedürfen sie einer Magenhöhle und einer Mundöffnung; und
+das sind die am meisten characteristischen Organe des Thierkörpers,
+welche dem Pflanzenorganismus stets fehlen.
+
+Mit diesem fundamentalen Gegensatze in der Ernährung hängen auch noch
+andere wichtige Unterschiede beider Reiche zusammen. Die Pflanzen
+athmen für gewöhnlich Kohlensäure ein und hauchen Sauerstoff aus; die
+Thiere gerade umgekehrt. Die meisten Pflanzen bilden massenhaft jenen
+eigenthümlichen grünen Farbstoff, das Chlorophyll oder Blattgrün, dem
+unsere Erde den grünen Schmuck ihrer Vegetationsdecke verdankt. Die
+meisten Thiere hingegen bilden kein Chlorophyll. Ebenso erzeugen die
+meisten Pflanzen Massen von Stärkemehl (Amylum) und von Cellulose; von
+jener wichtigen stickstofflosen Verbindung, welche die Grundlage des
+Holzes bildet. Die meisten Thiere produciren kein Amylum und keine
+Cellulose. Und so könnten wir noch eine ganze Anzahl anderer chemischer
+Verbindungen anführen, welche den Gegensatz im Stoffwechsel des Thier-
+und Pflanzenreichs bezeichnen.
+
+Unzweifelhaft ist dieser Gegensatz von der grössten Bedeutung. Denn
+auf ihm beruht das beständige Gleichgewicht in der Oekonomie der
+organischen Natur. Was das eine der beiden grossen Lebensreiche
+ausgiebt, das nimmt das andere wieder ein. Was das eine als unbrauchbar
+ausscheidet, das verzehrt das andere. Aber so bedeutungsvoll auch
+diese Wechselwirkung jedenfalls ist, so wenig ist der damit verknüpfte
+Gegensatz durchgreifend und zu einer beständigen Grenzmarke geeignet.
+Denn zahlreiche ~Ausnahmen~ finden sich in jeglicher Beziehung.
+
+Als solche wichtige Ausnahmen sind vor allen die zahlreichen
+Schmarotzerpflanzen zu nennen: z. B. viele Orchideen, Orobanchen,
+Lathraeen u. s. w. Diese Parasiten, deren nahe Verwandtschaft zu
+echten hochentwickelten Pflanzen feststeht, haben durch ~Anpassung~ an
+schmarotzende Lebensweise ihren Stoffwechsel gänzlich geändert. Statt
+gleich anderen Pflanzen mühsam Eiweisskörper zu produciren, finden
+sie es bequemer, gleich den Thieren diese wichtigsten Lebenstoffe aus
+anderen Pflanzen aufzunehmen. Damit ändert sich aber ihre gesammte
+Ernährung. Sie bilden kein Blattgrün mehr, sie athmen Sauerstoff
+ein und Kohlensäure aus; sie bilden Verbindungen, die sonst nur im
+Thierkörper erzeugt werden.
+
+Umgekehrt finden wir nun wieder im Thierreiche merkwürdige Schmarotzer,
+welche gleichfalls durch ~Anpassung~ an parasitische Lebensweise ihre
+ganze Ernährung völlig geändert haben. Ausser den schon angeführten
+Wunderschnecken und Säckchenkrebsen sind da besonders jene Würmer
+(Bandwürmer, Kratzwürmer u. s. w.) hervorzuheben, welche im Innern
+anderer Thiere leben und deren Säfte durch ihre Haut aufsaugen.
+Mund und Magen sind dadurch überflüssig geworden und im Laufe der
+Jahrtausende allmählich verloren gegangen. Die nächsten Verwandten
+dieser darmlosen Parasiten besitzen einen wohl entwickelten Mund und
+Darmkanal. Aber auch andere echte Thiere bieten in ihrem Stoffwechsel
+beträchtliche Abweichungen dar, und einige produciren Verbindungen,
+die sonst nur die Pflanzen erzeugen. So bilden sich z. B. die Ascidien
+einen Mantel aus Cellulose; die grünen Süsswasserpolypen und einige
+grüne Würmer erzeugen in ihrer Haut echtes Blattgrün oder Chlorophyll
+u. s. w.
+
+Angesichts dieser zahlreichen Ausnahmen kann uns denn auch der
+Stoffwechsel unserer Protisten keinen Aufschluss über ihre wahre Natur
+geben. Wenn viele von ihnen Chlorophyll, Cellulose und Stärkemehl
+erzeugen, so beweist das ebensowenig für ihre Pflanzen-Natur, als
+die Bildung von Kalkschalen bei vielen Anderen für ihre Thier-Natur
+Zeugniss ablegt. Vielmehr sprechen auch die Verhältnisse der Ernährung
+und des Stoffwechsels, im Grossen und Ganzen betrachtet, für die
+~neutrale~ Natur der Protisten. Allerdings wissen wir von den
+physiologisch-chemischen Vorgängen ihres Stoffwechsels im Ganzen noch
+sehr wenig. Aber dies Wenige reicht doch hin, um uns auch hierin ganz
+eigenthümliche Verhältnisse erkennen zu lassen. So nehmen z. B. die
+formlosen Amoeben und die formenreichen Wurzelfüssler zwar ihre Nahrung
+ähnlich den Thieren auf, aber ohne Mund und Magen. An jeder Stelle der
+nackten Körperoberfläche können die Nahrungsbissen in’s Innere dringen.
+Auch die thierähnlichsten Protisten, die Wimperthierchen, besitzen
+keinen wahren Darm, keinen wahren Mund und Magen. Dieser fehlt vielmehr
+allen Protisten.
+
+       *       *       *       *       *
+
+Wir sehen also, dass keine der verschiedenen Lebenserscheinungen
+genügt, um uns über das Verhältniss der Protisten zu den Thieren und
+Pflanzen vollkommen aufzuklären. Da nun auch die äussere Gestaltung uns
+darüber keinerlei Aufschluss giebt, so bleiben uns nur noch diejenigen
+Verhältnisse übrig, welche uns das Mikroskop im feineren Bau und in
+der Entwicklungsgeschichte enthüllt. Ohne die genaueste Kenntniss
+dieser Verhältnisse können wir uns ja überhaupt kein vollständiges Bild
+von der Natur der Organismen machen. Alles nun, was wir bisher davon
+erkannt haben, findet seinen umfassendsten Ausdruck in der berühmten
+~Zellentheorie~, die seit 40 Jahren das wichtigste Fundament aller
+biologischen Forschungen geworden ist.
+
+Bekanntlich lehrt uns diese Zellentheorie, dass alle die tausendfach
+verschiedenen Formbestandtheile, die wir im Körper sämmtlicher Thiere
+und Pflanzen mittelst des Mikroskopes unterscheiden, lediglich
+verschiedene Abarten und Umbildungen eines einzigen Grundorganes,
+eines einzigen ursprünglichen Form-Elementes sind. Dieses Form-Element
+ist die ~Zelle~, ein kleines, für das blosse Auge meist unsichtbares
+Körperchen, welches bis zu einem gewissen Grade ein selbständiges
+Leben führt. So unendlich mannigfaltig die Form der Zelle auch
+ist, so ist sie doch immer aus zwei verschiedenen Bestandtheilen
+zusammengesetzt: aus einem Stückchen weicher, eiweissartiger Substanz,
+dem Bildungsstoff oder ~Protoplasma~, und aus einem festeren, davon
+umschlossenen Körperchen, dem Kern oder ~Nucleus~. Die ursprüngliche
+Selbständigkeit der Zelle ist so vollkommen, dass man sie mit Recht
+als den ~Elementar-Organismus~, als das Individuum erster Ordnung
+bezeichnet hat. Da die Zellen jede organische Form bilden, können wir
+sie auch die »Bildnerinnen« oder ~Plastiden~ nennen. Der ganze Körper
+der meisten Thiere und Pflanzen ist aus Milliarden solcher Zellen
+zusammengesetzt: und was dieses Thier, was diese Pflanze leistet, das
+ist in Wahrheit die Leistung ihrer zahllosen Zellen. Auch unser eigener
+menschlicher Leib besteht aus Milliarden derartiger Zellen, und alle
+unsere Lebensverrichtungen sind das höchst verwickelte Resultat aus
+der Thätigkeit dieser mikroskopischen Wesen. Jedes Härchen besteht
+aus vielen Millionen Zellen. Ein kleinstes Blutströpfchen von einem
+Cubik-Millimeter Rauminhalt umschliesst schon fünf Millionen Blutzellen.
+
+Für die richtige Auffassung der Zellentheorie, von der das ganze
+Verständniss des Lebens abhängt, ist Nichts lehrreicher, als der
+oft angewendete Vergleich des vielzelligen Organismus mit einem
+wohlorganisirten menschlichen Staate. Die Existenz jeder geordneten
+staatlichen Organisation, gleichviel ob wir Monarchie oder
+Republik betrachten, beruht bekanntlich darauf, dass die einzelnen
+Staatsbürger einen Theil ihrer persönlichen Freiheit aufgeben, sich
+den Gesetzen des Staats unterwerfen und in die Arbeit des Lebens
+theilen. Ebenso geniessen auch die Zellen in jedem vielzelligen
+Organismus zwar bis zu einem gewissen Grade ihr selbständiges Leben;
+aber sie sind doch zugleich den Gesetzen des Ganzen untergeordnet
+und durch die Arbeitstheilung von einander abhängig. Wir können
+diesen politischen Vergleich auch noch weiter ausdehnen, indem
+wir den ~Pflanzen~-Organismus als eine Zellen-~Republik~, den
+~Thier~-Organismus dagegen als eine Zellen-~Monarchie~ betrachten.
+Denn die Pflanzenzellen sind durchweg selbständiger, gleichartiger,
+unabhängiger von einander und vom Ganzen. Die Thierzellen hingegen sind
+in Folge der vorgeschrittenen Arbeitstheilung ungleichartiger, mehr von
+einander abhängig und zugleich in Folge der stärkeren Centralisation
+der »Staatsidee« in höherem Maasse unterworfen.
+
+Nun lehrt uns aber ferner die Entwickelungsgeschichte, dass jedes
+Thier und jede Pflanze im Beginne der individuellen Existenz eine
+einzige einfache Zelle ist. Das Ei, aus dem sich jedes Thier wie
+jede Pflanze entwickelt, ist weiter nichts als eine Zelle. Das ist
+eine der bedeutungsvollsten Thatsachen. Denn das ganze Problem der
+individuellen Entwickelung löst sich demnach in die Frage auf: Wie
+kann der vielzellige Organismus mit allen seinen verschiedenen Organen
+aus einer einzigen Zelle entstehen? Und die Antwort hierauf lautet
+höchst einfach: Durch wiederholte Theilung entsteht aus der einfachen
+Zelle eine Zell-Gemeinde oder ~Association~, eine Gesellschaft von
+zahlreichen gleichartigen Zellen; diese werden durch ~Arbeitstheilung~
+ungleichartig und ordnen sich nach den Gesetzen der ~Vererbung~ und
+~Anpassung~ zu einer centralisirten Einheit.
+
+Wie verhalten sich nun unsere kleinen Protisten zu diesen höchst
+wichtigen Thatsachen und zu der darauf gegründeten Zellentheorie?
+Ist auch ihr winziger Leib aus vielen und ungleichartig entwickelten
+Zellen zusammengesetzt? Findet sich auch in ihrem Organismus jene
+Arbeitstheilung der associirten Zellen, durch welche die verschiedenen
+~Gewebe~ und ~Organe~ entstehen? Das Mikroskop antwortet uns: ~Nein!~
+Vielmehr ist bei den meisten Protisten der ganze Körper zeitlebens
+~nur eine einzige Zelle~. Aber auch bei jenen Protisten, welche in
+entwickeltem Zustande vielzellig sind, finden wir niemals wahre Gewebe
+und Organe, niemals jene eigenthümliche Arbeitstheilung und Anordnung
+der Zellen, welche den wahren Thierkörper und den wahren Pflanzenkörper
+auszeichnet. Denn hier beherrscht immer die Gesammtform des Körpers
+die ganze Anordnung und Bildung der Zellen, ihre Verbindung zu
+den Geweben und Organen, aus denen er zusammengesetzt ist. Bei den
+vielzelligen Protisten hingegen bewahren die gesellig verbunden Zellen
+stets mehr oder weniger ihre Selbständigkeit; sie bilden immer nur
+sehr lockere Gesellschaften, sociale Verbände ohne Arbeitstheilung,
+die nicht als centralisirte Staaten anerkannt werden können. Wenn wir
+vorher den einzelnen Organismus des Thieres wie der Pflanze einem
+wohlorganisirten ~Culturstaate~ verglichen, so können wir dagegen die
+lockeren Zellenhaufen der vielzelligen Protisten höchstens mit den
+rohen Horden der uncultivirten ~Naturvölker~ vergleichen. Die meisten
+Protisten bringen es aber, wie gesagt, nicht einmal zur Bildung solcher
+~Zellen-Horden~, zu dieser niedersten Stufe der Association; sie ziehen
+es vor, als Einsiedler für sich zu leben und ihre volle Selbständigkeit
+in jeder Beziehung zu bewahren. Die meisten Protisten bleiben
+zeitlebens einfache, isolirte Zellen, sie leben als ~Zellen-Einsiedler~.
+
+       *       *       *       *       *
+
+Wenn man die hohe Bedeutung der Protisten für die monistische
+Entwicklungslehre richtig verstehen will, wenn man sich von der
+selbständigen Stellung des Protistenreichs zwischen dem Thierreiche
+einerseits und dem Pflanzenreiche anderseits überzeugen will, so
+muss man vor Allem den autonomen, ~unabhängigen Zellen-Charakter~
+ihres Organismus gehörig würdigen. Bei allen ~einzelligen~ Protisten,
+die ihr ganzes Leben als »Zellen-Einsiedler« zubringen, versteht
+sich das von selbst. Aber auch bei den vielzelligen Protisten, bei
+den »Zellenhorden« finden wir immer die Individualität der locker
+verbundenen Zellen gewahrt und vermissen jene Abhängigkeit derselben
+von einander und vom Ganzen, welche wir in dem wohlorganisirten
+Zellenstaate des Thier- und Pflanzenorganismus antreffen.
+
+In dieser Auffassung des Protisten-Organismus liegt nach unserer
+Ansicht der Schwerpunkt seines Verständnisses. Es wird daher zunächst
+erforderlich sein, den ~Begriff~ der organischen ~Zelle~ überhaupt
+festzustellen. Dieser Begriff hat seit der Begründung der Zellentheorie
+mancherlei Wandlungen erfahren. Gegenwärtig nimmt man fast allgemein
+an, dass zum Begriff der Zelle zwei verschiedene Bestandtheile gehören.
+Erstens: der eigentliche ~Zellenleib~, ein lebendiges Stückchen von
+weichem, eiweissartigen Bildungsstoff oder ~Protoplasma~; und zweitens
+ein davon umschlossener ~Zellkern~ oder ~Nucleus~; ein kleinerer,
+meist festerer Körper, der ebenfalls aus einer eiweissartigen, aber
+vom Protoplasma etwas verschiedenen Materie besteht. Als dritter
+Hauptbestandtheil kommt dazu bei vielen Zellen noch eine äussere
+Umhüllungshaut oder Schale, die ~Zellhaut~ oder ~Membran~. Die meisten
+Pflanzenzellen sind von einer solchen Kapsel oder Membran umschlossen:
+~Schlauchzellen~. Hingegen sind die meisten Thierzellen hautlos und
+nackt: ~Urzellen~. Die meisten Protisten zeichnen sich durch die
+Bildung ganz eigenthümlicher Kapseln oder Schalen aus, welche ihrem
+Zellenleibe eine sehr characteristische und mannigfaltige Gestalt geben.
+
+       *       *       *       *       *
+
+[Illustration: Fig. 1. Eine gewöhnliche ~Amoebe~ (~Amoeba vulgaris~)
+in zwei aufeinander folgenden Zuständen der Bewegung dargestellt; in A
+sind mehrere kurze, in B mehrere längere Fortsätze oder Lappenfüsschen
+vorgestreckt. Im ~Protoplasma~ der nackten Zelle liegt der ~Kern~ (n)
+und ausserdem einige fremde, als Nahrung aufgenommene Körperchen (i).]
+
+Wenn wir nun zunächst unter unsern Protisten diejenige Gattung
+aufsuchen, welche uns auf der Höhe ihrer Entwickelung die einfachste
+Form eines solchen einzelligen Organismus, gewissermassen das ~Ideal
+der Zelle~, darstellt, so treten uns vor allen Andern die berühmten
+~Amoeben~ entgegen. (Fig. 1). Weit verbreitet in unsern süssen und
+salzigen Gewässern, sind dieselben wegen ihrer höchst einfachen Bildung
+und ihrer bedeutsamen Beziehungen zu anderen Zellen von ganz besonderer
+Wichtigkeit. Die Amoeben sind nackte Zellen ohne Hülle und ohne
+bestimmte Form. Ihr weicher Körper, der nur einen einfachen Zellkern
+enthält, bewegt sich langsam kriechend im Wasser umher. Dies geschieht
+dadurch, dass eine wechselnde Anzahl von veränderlichen, lappenförmigen
+oder fingerförmigen Fortsätzen aus beliebigen Stellen der Oberfläche
+vorgestreckt und wieder eingezogen werden. So ändern die kriechenden
+Amoeben immerfort ihre unbestimmte Gestalt. Kommen sie zufällig mit
+kleinen Körperchen in Berührung, die zur Nahrung dienen können, so
+drücken sie dieselben mittelst der Bewegungen ihrer Fortsätze an einer
+beliebigen Stelle ihrer Körper-Oberfläche in diesen hinein. Auch
+kleinste Wassertröpfchen werden so verschluckt. Die einzellige Amoebe
+kann also essen und trinken, ohne dass sie Mund und Magen besässe.
+Nachdem die Amoebe durch fortdauerndes Wachsthum eine gewisse Grösse
+erreicht hat, zerfällt ihr einfacher Zellenleib durch Theilung in zwei
+Zellen. Zuerst theilt sich dabei der Kern, darauf das Protoplasma.
+Auf dieselbe Weise vermehren sich auch die Zellen, die unsern eigenen
+Körper zusammensetzen, und von denen viele beständig verbraucht und
+durch neue Zellen ersetzt werden. Die grösste Aehnlichkeit mit den
+Amoeben haben die farblosen Blutzellen, die milliardenweise in unserem
+Blute kreisen. Auch diese bewegen sich nach Amoeben-Art, indem sie
+ihre unbestimmte Form ändern. Auch diese können fremde Körperchen in
+ihr Inneres aufnehmen; wir können sie unter dem Mikroskop z. B. mit
+Carminkörnchen füttern, mit denen sie sich in kurzer Zeit anfüllen.
+(Fig. 2).
+
+[Illustration: Fig. 2. ~Fressende~, Amoeben ähnliche, farblose
+~Blutzellen~ aus dem Blute einer nackten Seeschnecke (~Thetis
+leporina~). Die Blutzellen führen in der Blutflüssigkeit lebhafte
+Bewegungen, gleich echten Amoeben aus; und gleich Letzteren verzehren
+sie feste Farbstoffkörnchen.]
+
+Von besonderer Wichtigkeit für die Entwickelungsgeschichte ist die
+interessante Thatsache, dass auch die ~Eier~ der Thiere in ihrer
+frühesten Jugend nackte, formlose Zellen sind, welche Amoeben zum
+Verwechseln ähnlich sehen und gleich diesen langsame, unbestimmte
+Bewegungen ausführen, wobei sie ihre Form beliebig verändern (Fig. 3).
+Bei den Schwämmen oder Spongien unternehmen diese amoebenähnlichen
+Eizellen, langsam fortkriechend, oft weite Wanderungen durch den
+Körper des Schwammes und sind daher früher als »parasitische Amoeben«
+beschrieben worden, welche als fremde Eindringlinge im Schwammkörper
+schmarotzend leben sollten (Fig. 4).
+
+Es giebt auch Amoeben, welche ihren nackten Zellenleib theilweise
+mit einer schützenden Schale umgeben, und diese bilden die Gruppe
+der ~Arcellinen~ oder Thekolobosen. Bald schwitzen diese gepanzerten
+Amoeben eine schleimige Masse aus, welche sofort erhärtet und mit
+Sandkörnchen und anderen fremden Körperchen zu einer festen Kruste
+zusammenbackt (_Difflugia_, Fig. 5). Bald wird die ganze Masse der
+erhärteten Hülle blos von ausgeschwitzter organischer Substanz
+gebildet, und diese zeigt oft eine sehr zierliche Structur, indem sie
+aus sechseckigen oder viereckigen Täfelchen zusammengesetzt erscheint
+(_Arcella_, _Quadrula_, Fig. 6).
+
+[Illustration: Fig. 3. Jugendliche ~Eizellen~ verschiedener Thiere,
+amoebenähnliche nackte] Zellen, welche unter langsamer Formveränderung,
+gleich echten Amoeben, Bewegungen ausführen. In dem dunkeln
+feinkörnigen Protoplasma liegt ein heller, bläschenförmiger Kern,
+und in diesem ein dunkles Kernkörperchen. — A 1–4. Eizelle eines
+Kalkschwammes (Leucon) in vier verschiedenen, auf einander folgenden
+Bewegungs-Zuständen. — B 1–8. Eizelle eines Schmarotzerkrebses
+(Chondracanthus) in acht verschiedenen, auf einander folgenden
+Bewegungs-Zuständen. — C 1–5. Eizellen der Katze, in verschiedenen
+Bewegungs-Zuständen. — D. Junge Eizelle der Forelle. — E. Junge
+Eizelle des Huhnes. — F. Junge Eizelle des Menschen. Alle diese
+amoebenähnlichen Eizellen befinden sich noch in der ersten Jugend:
+später nehmen sie sehr verschiedene Beschaffenheit an.]
+
+[Illustration: Fig. 4. Amoebenähnliche ~Eizelle~ eines Kalkschwammes
+(Olynthus), weite Strecken im Körper des Letzteren fortkriechend.]
+
+[Illustration: Fig. 5. ~Difflugia~ (oblonga), eine gepanzerte Amoebe,
+welche ihre länglich-eiförmige Schale (a) aus feinsten Sandkörnchen
+zusammenklebt. Aus der einfachen Mündung des Gehäuses (oder der
+incrustirten Zellmembran) tritt der vordere Theil des weichen
+Zellenleibes (b) mit seinen wechselnden Lappenfüsschen vor (c).
+Im hinteren Theile ist ein heller kugeliger Kern mit zahlreichen
+Kernkörperchen sichtbar (d).]
+
+[Illustration: Fig. 6. ~Quadrula~ (symmetrica). Eine gepanzerte Amoebe,
+deren Schale aus quadratischen Plättchen zierlich zusammengesetzt ist.
+Oben liegt ein kugeliger Zellkern (n) im Protoplasma, unten treten
+mehrere Lappenfüsschen vor (l).]
+
+[Illustration: Fig. 7. ~Monocystis~ (agilis), eine schmarotzende
+~Gregarine~ aus der Leibeshöhle des Regenwurmes. Der langgestreckte,
+wurmförmig sich bewegende Körper ist eine einfache Zelle mit fester
+Haut (a), Protoplasma (b) und Kern (c).]
+
+Alle diese amoebenartigen Wesen, die echten, nackten Amoeben und
+die gepanzerten zierlichen Arcellinen, können wir als besondere
+Classe unter dem Namen Lappinge oder ~Lappenfüssler~ (_Lobosa_)
+zusammenfassen, weil der auszeichnende Character dieser einzelligen
+Urthiere die Bildung lappenförmiger Wechselfüsschen ist. An sie
+schliessen sich aber ganz eng die sonderbaren Wesen an, welche die
+besondere Gruppe der ~Gregarinen~ bilden. Alle Gregarinen leben
+als Schmarotzer oder Parasiten im Innern anderer Thiere und sind
+gewissen niederen Würmern so ähnlich, dass man sie früher selbst als
+Eingeweide-Würmer beschrieben hat; auch stimmen die wurmförmigen
+Bewegungen ihres kriechenden Körpers ganz mit denjenigen gewisser
+Würmer überein. Trotzdem ist ihr ganzer, ziemlich grosser, oft mehrere
+Millimeter langer Körper nichts Anderes, als eine einfache Zelle. Der
+trübe, mit feinen Körnchen erfüllte Protoplasma-Leib (b) umschliesst
+einen Zellkern (c) und ist von einer festen, homogenen, structurlosen
+Hülle umgeben (a). Die flüssige Nahrung schwitzt aus den umgebenden
+Säften des bewohnten Thieres durch diese Hülle oder Zellmembran
+hindurch und dringt so in die Gregarine ein. Man kann die Gregarinen
+als Amoeben betrachten, welche in das Innere von anderen Thieren
+eingedrungen sind, sich hier an parasitische Lebensweise gewöhnt und
+durch Anpassung mit einer schützenden Hülle umgeben haben.
+
+Eine ganz andere Bewegungsform, als die langsam kriechenden Amoeben und
+Gregarinen, zeigen uns die schwimmenden ~Flagellaten~, die ~Geissler~
+oder Geisselschwärmer. Diese interessanten Protisten haben bis auf den
+heutigen Tag unter einem ganz eigenthümlichen Schicksal zu leiden.
+Wenn sie nämlich das Glück haben, grün gefärbt zu sein, werden sie von
+vielen Naturforschern unbedenklich als echte Pflanzen betrachtet. Wenn
+sie dagegen unglücklicherweise eine gelbe oder braune Farbe tragen, so
+werden sie für echte Thiere erklärt; gewiss ein schlagendes Beispiel
+von der Willkür der üblichen Classification. Zahlreiche Formen dieser
+Geissler, die auch oft mit dem vieldeutigen Namen der ~Monaden~ belegt
+werden, bevölkern das Süsswasser, wie das Meer, oft in unglaublichen
+Massen. Wenn im Frühjahr zuweilen plötzlich unsere Teiche sich mit
+einer grünen Schleimdecke überziehen, so beruht das gewöhnlich auf
+der Entstehung zahlloser grüner Euglenen. Ebenso ist die seltener
+auftretende blutrothe Färbung der Gewässer, die zur Sage vom Blutregen,
+sowie zu vielen abergläubischen Vorstellungen und Hexen-Processen
+Veranlassung gegeben hat, durch Milliarden rother Euglenen bedingt.
+Durch verwandte rothe Protococcus-Formen wird auch der rothe Schnee
+gebildet, der die Eisberge sowohl in den Polarmeeren, wie auf unseren
+Alpenhöhen bisweilen in weiter Ausdehnung blutroth färbt.
+
+[Illustration: Fig. 8. ~Phacus~ (longicauda). Ein Geisselschwärmer mit
+einer langen schwingenden Geissel am vorderen, einem fadenförmigen
+Anhang am hinteren Ende; hinter ersterem ein rother Augenfleck.]
+
+[Illustration: Fig. 9. ~Peridinium~ (tripus). Ein Wimpergeissler,
+dessen dreihörnige Kieselschale aus zwei Hälften zusammengesetzt ist.]
+
+Diese Protococcen und Euglenen sind Einsiedler-Zellen, während andere
+Flagellaten sich zu kleinen Gesellschaften zusammenthun. Sie schwimmen
+im Wasser umher mittelst eines feinen fadenförmigen Fortsatzes, der
+wie eine Geissel oder Peitsche hin und her geschwungen wird (Fig. 8).
+Manche setzen sich auch fest auf dünnen Stielen. Ausser der Geissel,
+ihrem Haupt-Bewegungsorgan, besitzen manche Geisselschwärmer noch einen
+Kranz von feinen Wimpern mitten um den Zellenleib; diese heissen
+~Wimpergeissler~ (_Peridinia_, Fig. 9). Von letzteren bilden sich
+viele eine Kieselschale, die aus zwei ungleichen Hälften besteht;
+die grössere Hälfte trägt zwei lange Hörner, die kleinere ein Horn;
+zwischen beiden Hälften tritt der Wimperkranz und die Geissel hervor.
+Durch die Schwingungen der Geissel werden kleine Nahrungskörnchen
+dem Zellenleibe der Flagellaten zugeführt und an deren Basis durch
+eine Art Zellenmund aufgenommen. Ihre Vermehrung geschieht meistens
+durch einfache Theilung. Bei vielen finden wir abwechselnd einen frei
+beweglichen und einen Ruhezustand. Während des letzteren kapseln sie
+sich ein und zerfallen innerhalb der Hülle in vier oder acht Zellen.
+Diese treten später aus der Kapsel aus und schwimmen frei umher.
+
+[Illustration: Fig. 10. Ein Kugelthierchen (~Volvox globator~). Die
+netzförmige Zeichnung an der Oberfläche der Gallertkugel entsteht
+dadurch, dass die kleinen grünen, in den Knotenpunkten des Netzes
+befindlichen Geisselzellen sich durch feine Fortsätze unter einander
+verbinden. Im Innern der Kugel sind 6 Tochterkugeln (junge Colonien)
+sichtbar.]
+
+Nahe Verwandte dieser einzelligen Flagellaten sind auch die grünen
+sogenannten ~Kugelthierchen~ oder ~Volvocinen~ (Fig. 10); grüne
+Gallertkügelchen, welche die Grösse eines Stecknadelknopfes erreichen.
+In jedem Kügelchen sind zahlreiche grüne einzellige Flagellaten zu
+einer Gesellschaft vereinigt; und durch die gemeinsamen Schwingungen
+ihrer Geisseln wird die ganze Kugel umherbewegt. Im Innern der
+Gallertkugeln entstehen neue Tochterkugeln. Ausserdem vermehren sich
+die Volvocinen aber auch geschlechtlich, wie durch ~Cohns’~ sorgfältige
+Untersuchungen dargethan worden ist; ihre Befruchtung geschieht in
+ähnlicher Weise wie bei vielen Algen; sie schliessen sich dadurch schon
+enger an das Pflanzenreich an.
+
+Eine sehr eigenthümliche Protistengruppe, die man auch noch zu den
+Flagellaten rechnet, sind die grossen blasenförmigen ~Noctiluken~
+oder ~Meerleuchten~. (Fig. 11). Sie bedecken oft die Meeresoberfläche
+in unglaublichen Massen, strahlen im Dunkeln ein helles Licht aus
+und spielen eine Hauptrolle bei dem wundervollen Phänomen des
+Meerleuchtens. Die gewöhnlichen Noctiluken sind colossale rundliche
+Zellen, welche ½-1 Millimeter Durchmesser erreichen und die Gestalt
+einer Pfirsiche besitzen (Fig. 11). Der Hohlraum der blasenförmigen
+Zelle ist mit wässeriger Flüssigkeit erfüllt, in welcher sich
+verästelte Stromfäden (g) des Protoplasma bewegen, ausgehend von der
+Wandschicht des letztern, welche innen an der Zellhaut anliegt. Der
+Kern ist eiförmig (b). An einer Stelle ist die Zellhaut von einer
+Oeffnung, einem ~Zellmund~ (_Cystostoma_), durchbrochen, und hier wird
+Nahrung direct in das Innere aufgenommen. Hier befindet sich auch neben
+der zarten Geissel ein grosser peitschenförmiger quergestreifter Anhang
+(a), sowie ein zahnförmiger Fortsatz (d). Die Fortpflanzung erfolgt
+theils durch einfache Theilung, theils durch eine eigenthümliche Form
+der Sporenbildung.
+
+[Illustration: Fig. 11. Eine Meerleuchte (~Noctiluca miliaris~).
+1. Die ganze Geisselzelle von oben. 2. Im optischen Durchschnitt:
+a Peitschenförmiger Anhang, b Kern, c Furche der Oberfläche, d
+zahnförmiger Fortsatz, daneben die zarte Geissel; e, f grössere
+Protoplasma-Ansammlung um den Kern herum; g, g verzweigte Stromfäden
+des Protoplasma.]
+
+Neuerdings ist eine Noctiluken-Form entdeckt worden, welche zum
+Verwechseln einer kleinen schirmförmigen Meduse ähnlich ist, und gleich
+einer solchen sich durch Zusammenklappen des zarten concaven Schirmes
+schwimmend bewegt (_Leptodiscus medusoides_).
+
+Während über die einzellige Natur der Geisselschwärmer und der Amoeben
+heutzutage kein Zweifel mehr besteht, so ist diese dagegen bis vor
+Kurzem streitig gewesen bei denjenigen Protisten, die man heute
+vielfach als ~Infusionsthierchen~ im ~engeren~ Sinne bezeichnet. Dazu
+gehören die beiden Klassen der Wimperthierchen oder ~Ciliaten~ (Fig.
+12–15) und der Starrthierchen oder ~Acineten~ (Fig. 16, 17). Massenhaft
+bevölkern sie alle stehenden und fliessenden Gewässer und sind auch in
+allen Infusionen zu finden.
+
+[Illustration: Fig. 12. Ein Trompetenthierchen (~Stentor~ polymorphus).
+Oben ist der grosse, den Mund umgebende Wimperkranz sichtbar,
+links darunter der lange, rosenkranzförmige Kern. Rechts neben dem
+Stentor sind zwei kleine, bewimperte Zellen sichtbar, die aus dem
+Innern desselben ausgeschwärmt sind, entweder Junge oder Parasiten
+(Acineten-Schwärmer).]
+
+[Illustration: Fig. 13. Ein Maiglocken-Thierchen (~Vorticella~
+microstoma). Der einzellige Leib ist auf einem dünnen Stiele befestigt,
+der sich korkzieherartig zusammenziehen kann. a Wimperkranz um den
+Mund: v contractile Blase: n Zellkern; k, p, zwei Knospen, die sich
+ablösen.]
+
+Besonders die Ciliaten, die ~Wimperlinge~ oder ~Wimperthierchen~,
+erscheinen in einer Fülle von niedlichen Formen; und durch die
+Anmuth ihrer lebhaften Bewegungen fesseln sie uns stundenlang an
+das Mikroskop. Nur einzelne Ciliaten sind schon mit blossem Auge
+sichtbar, so z. B. das grosse Trompetenthierchen (_Stentor_, Fig. 12);
+die meisten sind erst durch das Mikroskop erkennbar. Zahlreiche kurze
+Wimperhärchen sind über den Körper zerstreut und werden willkürlich
+schlagend bewegt. Wie die Geisseln der Flagellaten, so sind auch diese
+Wimpern der Ciliaten directe Fortsätze vom Protoplasma des einzelligen
+Körpers. Die meisten Wimperthierchen bewegen sich frei schwimmend oder
+laufend mittelst dieser Wimpern umher. Es giebt aber auch festsitzende
+Ciliaten, wozu die niedlichen Vorticellen (Fig. 13) und Freia (Fig. 14)
+gehören.
+
+[Illustration: Fig. 14. Ein Lappenthierchen. (~Freia elegans~). Der
+einzellige Körper ist in eine ovale, auf Wasserpflanzen (unten)
+befestigte Hülle eingeschlossen, aus deren Oeffnung der Vordertheil der
+Zelle mit der Mundöffnung und zwei grossen Wimperlappen vortritt.]
+
+[Illustration: Fig. 15. Ein Reusenthierchen (~Prorodon teres~). a
+Mundöffnung (mit fischreusenähnlichem Schlundtrichter). b Contractile
+Blase. c Verschluckte Nahrungsballen. d Zellkern (mit Kernkörperchen).]
+
+Bei diesen Ciliaten dient der durch die Wimpern erzeugte Strudel dazu,
+frisches Wasser und Nahrung der Zelle zuzuführen.
+
+Das Protoplasma des Ciliaten-Körpers ist in eine festere
+~Rindenschicht~ (_Exoplasma_) und eine weichere Markschicht
+(_Endoplasma_), gesondert. In der ersteren befindet sich eine
+beständige Oeffnung, eine Art ~Zellenmund~ (_Cytostoma_), durch welchen
+sowohl feste Bissen als Wassertropfen verschluckt und in die weichere
+Markmasse hineingedrückt werden. Bisweilen ist diese Mundöffnung zu
+einem besonderen gefalteten Schlundtrichter erweitert, so z. B. bei
+dem Fischreusen-Thierchen (Fig. 15 a). In dem weichen Protoplasma des
+Inneren ballt sich die verschluckte Nahrung in Bissen (Fig. 15 c),
+welche allmählig verdaut und aufgelöst werden; ~Ehrenberg~ beschrieb
+diese Nahrungsballen als besondere Magensäcke und benannte deshalb
+die Ciliaten »Vielmagenthierchen« (_Polygastrica_). Unsere magenlosen
+Wimperthierchen können also essen und trinken, obwohl sie einfache
+Zellen sind. Was aber noch mehr überrascht, das ist die Munterkeit
+und die offenbare Willkür ihrer Bewegungen, der zarte und seelenvolle
+Character ihrer Empfindungen. Gerade wegen dieser Eigenschaften werden
+sie gewöhnlich als echte Thiere betrachtet. Dass sie das nicht sind,
+geht aus ihrem feineren Bau und ihrer Entwickelung deutlich hervor.
+Zeitlebens umschliesst ihr einfacher Zellenleib nur einen einzigen
+Kern. Bald ist dieser ~Nucleus~ rundlich (Fig. 15 d), bald wurstförmig
+(Fig. 13 n), bald langgestreckt, stabförmig oder rosenkranzförmig (Fig.
+12). Die Ciliaten sind also wirklich ~einzellig~, wie zuerst der um die
+Kenntniss der Protisten hochverdiente Zoologe ~Siebold~ dargethan hat.
+Die Vermehrung der Ciliaten geschieht durch einfache Theilung; und wie
+bei jeder gewöhnlichen Zellentheilung zerfällt zuerst der Kern, und
+darauf das Protoplasma in zwei gleiche Hälften. Aber auch Fortpflanzung
+durch Knospenbildung ist bei vielen Ciliaten zu finden, so z. B. bei
+den Vorticellen (Fig. 13). Ausserdem scheinen sich Viele durch ~Sporen~
+zu vermehren, d. h. durch junge Zellen, welche sich im Inneren der
+Mutterzelle bilden und wobei der Kern betheiligt ist (Fig. 12).
+
+Das Interessanteste an den Wimperthierchen, und diejenige Eigenschaft,
+durch welche sie alle anderen Protisten übertreffen, ist der hohe
+Grad von ~Empfindlichkeit~ und von ~Willens-Energie~, den sie bei
+ihren lebhaften Bewegungen kundgeben. Wer lange und eingehend Ciliaten
+beobachtet hat, kann nicht zweifeln, dass sie eine ~Seele~ so gut
+wie die höheren Thiere besitzen. Denn die ~Seelenthätigkeiten~ der
+Empfindung und der willkürlichen Bewegung üben sie eben so aus, wie
+die höheren Thiere; und an diesen Thätigkeiten allein ist ja die
+~Seele~ zu erkennen. Da nun der ganze Leib der Ciliaten bloss eine
+einfache Zelle ist, so gewinnen sie die höchste Bedeutung für die
+Theorie von der ~Zellseele~, für die Annahme, dass jede organische
+Zelle ihre eigene individuelle »Seele« besitzt — oder vielmehr,
+richtiger ausgedrückt: dass ~Seelenleben eine Thätigkeit aller Zellen
+ist~.
+
+[Illustration: Fig. 16. Eine ~Acineta~, auf einem kurzen Stiele (unten)
+befestigt. p Saugröhren der Zelle. v Contractile Blasen im Protoplasma.
+e eine Spore. n Zellkern.]
+
+An die formenreiche Klasse der Wimperthierchen schliesst sich die
+kleine Gruppe der naheverwandten Starrthierchen oder ~Acineten~ an
+(Fig. 16, 17). Im Gegensatze zu ersteren zeigen diese letzteren nur
+sehr wenig Beweglichkeit; sie sitzen meistens zeitlebens auf einem
+Stiele fest. Statt der Wimperhärchen treten aus ihrem starren,
+von einer Hülle umschlossenen Zellenkörper zahlreiche feine, oft
+büschelförmig gruppirte Fortsätze hervor (Fig. 16 p). Dies sind sehr
+feine Saugröhrchen, die am Ende mit einem Saugknöpfchen versehen
+sind. Wenn ein schwimmendes Wimperthierchen unvorsichtig in die Nähe
+einer solchen Acinete geräth, wird sie von den steif ausgestreckten
+Saugröhren der letzteren festgehalten und ausgesaugt (Fig. 17). Das
+Protoplasma des gefangenen Ciliaten (a) wandert langsam durch die
+Saugröhren (f’’) in das Innere der Acinete hinein. Dass auch sie nur
+eine einfache Zelle ist, beweist ihr Zellkern (n); im Protoplasma sind,
+wie bei den Ciliaten, oft eine oder mehrere »contractile Blasen« oder
+Vacuolen sichtbar, wassererfüllte kugelige Hohlräume, die sich langsam
+zusammenziehen und wieder ausdehnen (Fig. 16v, Fig. 17x).
+
+[Illustration: Fig. 17. Eine ~Acineta~, welche mit ihren Saugröhren (f)
+ein Wimperthierchen (Euchelys a) ergriffen hat und dasselbe aussaugt.
+x, v Contractile Blasen. n Zellkern.]
+
+Die anhaltende Beobachtung der Acineten gewährt ebenso wie diejenige
+der Ciliaten das höchste Interesse. An diesen Infusionsthierchen zeigt
+uns die organische Zelle deutlich, wie weit sie es in ihrem idealen
+Streben nach thierischer Vollkommenheit für sich allein bringen kann.
+Wir können sagen: Die Wimperthierchen sind der gelungenste Versuch der
+einzelnen ~Zelle~, sich zu einem wirklichen ~Thiere~ zu entwickeln.
+Aber zu einem echten Thiere gehören ja mindestens zwei Keimblätter,
+deren jedes aus zahlreichen Zellen zusammengesetzt ist. Also können wir
+doch die Ciliaten und Acineten nicht als wirkliche Thiere gelten lassen.
+
+Unter allen Protistenklassen die formenreichste und in geologischer
+Beziehung die wichtigste ist die wunderbare Klasse der ~Wurzelfüssler~
+oder ~Rhizopoden~. Ausser mehreren kleineren Gruppen gehören dahin
+die kalkschaligen Thalamophoren und die kieselschaligen Radiolarien.
+Beide Abtheilungen sind in zahllosen, höchst phantastisch geformten
+Arten in allen Meeren verbreitet. Die Thalamophoren leben zum grössten
+Theile kriechend auf dem Grunde des Meeres, besonders auf Seetang;
+die Radiolarien hingegen schwimmen in dichtgedrängten Schaaren an der
+glatten Oberfläche des Meeres oder schweben in verschiedenen Tiefen
+desselben. Die bekanntesten und geologisch wichtigsten Rhizopoden sind
+die ~Thalamophoren~, ~Kammerlinge~ oder Kammerthierchen; ausgezeichnet
+durch eine feste, meistens kalkige Schale, in welche sich diese
+Urthierchen, wie die Schnecke in ihr Haus, zurückziehen können. Bald
+enthält diese Kalkschale nur eine einzige Kammer (~Einkammerige~,
+_Monothalamia_, _Monostegia_); bald mehrere, durch Thüren mit einander
+verbundene Kammern (~Vielkammerige~, _Polythalamia_, _Polystegia_).
+Solche zierlich geformte, oft einem Schneckenhaus ähnliche Kalkschalen
+haben sich seit vielen Millionen Jahren in ungeheuren Massen auf
+dem Meeresboden angehäuft und an der Gebirgsbildung unserer Erde
+den wichtigsten Antheil genommen. Schon die ältesten, aus dem Meere
+abgesetzten Flötzgesteine, die laurentischen, cambrischen und
+silurischen Schichten, enthalten dergleichen Polythalamien-Schalen
+und sind wahrscheinlich zum grossen Theile aus ihnen gebildet. Das
+älteste von Allen ist das berühmte _Eozoon canadense_ aus den unteren
+laurentischen Schichten, dessen Polythalamien-Natur mit Unrecht in
+Zweifel gezogen wurde. Die mächtigste Entwickelung erreichen diese
+Rhizopoden jedoch erst viel später, während der Kreide-Periode und
+der älteren Tertiär-Periode. Jedes kleinste Körnchen unserer weissen
+Schreibkreide lässt uns unter dem Mikroskope zahlreiche solcher
+zierlichen Kalkschalen erkennen. Der Grobkalk von Paris, aus dem viele
+Paläste dieser Weltstadt erbaut sind, besteht ebenfalls zum grössten
+Theile aus solchen Kammerschalen. Ein Kubikcentimeter des Kalkes aus
+den Steinbrüchen von Gentilly enthält ungefähr 20,000, ein Kubikmeter
+demnach gegen 20 Millionen Schalen. Die grössten Polythalamien aber
+lebten während der ältesten Tertiärzeit, während der Eocaen-Periode.
+Unter ihnen sind die Riesen des Protisten-Reiches, die gigantischen
+~Nummuliten~ (Fig. 18), deren scheibenförmige Kalkschalen die
+Grösse eines Zweithalerstückes erreichen. Der von ihnen erzeugte
+Nummuliten-Kalk, aus dem unter Anderen die egyptischen Pyramiden gebaut
+sind, bildet die ungeheuren Gebirgsmassen des Nummulitensystems.
+Dies ist eins der gewaltigsten Gebirgssysteme unserer Erde, das von
+Spanien und Marokko bis nach Indien und China hinüberreicht, und an der
+Bildung der Pyrenäen und Alpen, des Libanon und Kaukasus, des Altai und
+Himalaya den bedeutendsten Antheil nimmt.
+
+[Illustration: Fig. 18. ~Nummulites~ (reticulatus). a, b, c in
+natürlicher Grösse; d, e, f schwach vergrössert. Die linsenförmige
+Scheibe ist in a vom Rande aus gesehen, in b und e von der Fläche, c
+und d im Längsschnitt (Dickenschnitt).]
+
+In welchen ungeheuren Massen die Polythalamien auch gegenwärtig
+noch unsere Meere bevölkern, geht daraus hervor, dass z. B. der
+Sand der Mittelmeerküsten an vielen Stellen zur grösseren Hälfte
+aus den Schalen lebender Polythalamien-Arten besteht. Schon einer
+ihrer ersten Beobachter, ~Bianchi~, zählte im Jahre 1739 in einem
+einzigen Esslöffel Seesand von Rimini 6000 Individuen; und derjenige
+Naturforscher, dem wir die genauesten Untersuchungen über ihre
+Naturgeschichte verdanken, der berühmte Anatom ~Max Schultze~,
+berechnete ihre Menge in einem Esslöffel Seesand von Gaeta auf mehr als
+Hunderttausend.
+
+Der weiche lebendige Körper der Kammerthierchen, welcher diese
+wunderbaren Schalen- und Panzer-Bildungen erzeugt, ist stets von
+höchst einfacher Bildung: ein Stück formloses Protoplasma, das
+zahlreiche Zellenkerne einschliesst. Von der Oberfläche des weichen
+Protoplasma-Leibes strahlen hunderte, oft tausende von äusserst feinen
+Fäden aus. Diese Schleimfädchen, die den Namen ~Scheinfüsschen~ oder
+~Pseudopodien~ führen, sind sehr empfindlich und beweglich. Sie können
+sich verästeln, mit einander verschmelzen, Netze bilden und wieder in
+die gemeinsame Centralmasse des Körpers zurückgezogen werden. Durch
+die Zusammenziehungen dieser Fäden bewirken die Wurzelfüssler ihre
+kriechende oder schwimmende Ortsbewegung. Wenn ein anderer Protist,
+z. B. ein Wimperthierchen oder eine Bacillarie, in den Bereich dieser
+Fäden gelangt, so wird es von ihnen erfasst, umschlungen und in das
+Innere des Protoplasmakörpers hineingezogen, wo es einer höchst
+einfachen Verdauung unterliegt. Wie bei den Amoeben kann jede Stelle
+der Körperoberfläche dergestalt die Aufgabe eines Mundes und Magens
+übernehmen. Auch die Vermehrung der Wurzelfüssler ist höchst einfach.
+Der weiche Protoplasma-Leib des Kammerthierchens zerfällt in zahlreiche
+kleine Stückchen. Jedes Stückchen erhält einen Zellkern, bildet also
+eine echte Zelle, und diese nackte Zelle schwitzt alsbald wieder eine
+Kalkschale aus.
+
+Die vielgestaltige Schale des Acyttarien-Körpers besteht meistens
+aus kohlensaurem Kalk, seltener aus einer erhärteten organischen
+Substanz, die mit Sandkörnchen u. dergl. verkittet ist. Bald
+besitzt die Schale nur eine grössere Mündung, ist aber übrigens
+undurchlöchert (_Imperforata_); bald ist die Schale überall von sehr
+zahlreichen kleinen Löchern durchbrochen (_Foraminifera_). Mit Bezug
+auf die Schalenform unterscheidet man bei den zwei Hauptgruppen:
+Einkammerige und Vielkammerige. Die ~Einkammerigen~ (_Monothalamia_)
+sind verhältnissmässig wenig formenreich. Einer ihrer bekanntesten,
+häufigsten und grössten Vertreter ist die ~Gromia~ (Fig. 19). Sie
+besitzt eine eiförmige Schale, mit dunkelbraunem Protoplasma erfüllt,
+und erreicht die Grösse eines Stecknadelknopfes. Die Netze der
+Scheinfüsschen, welche davon ausstrahlen, kann man schon mit blossem
+Auge deutlich erkennen.
+
+[Illustration: Fig. 19. ~Gromia~ (oviformis). Die Hauptmasse des
+eiförmigen einzelligen Körpers ist von einer biegsamen Schale
+eingeschlossen. Durch die Oeffnung derselben tritt (unten) fliessendes
+Protoplasma heraus, welches die ganze Schale umhüllt und von dem nach
+allen Richtungen bewegliche Fäden ausstrahlen.]
+
+Die ~Vielkammerigen~ (_Polythalamia_) bilden die Hauptmasse der
+Acyttarien. Die einzelnen Kammern, welche ihre Schale zusammensetzen,
+sind durch unvollständige Scheidewände getrennt, oft sehr zahlreich.
+Meistens sind dieselben mehr oder weniger in Spiralen geordnet. So
+entstehen Gehäuse, welche die grösste Aehnlichkeit mit denjenigen
+gewisser Mollusken, namentlich Cephalopoden, besitzen (Fig. 20). Daher
+wurden diese Rhizopoden von ihren ersten Entdeckern wirklich für
+echte, mikroskopische Cephalopoden gehalten und auch später noch ihre
+Organisation als solche beschrieben.
+
+Erst vor 40 Jahren lernte man, zuerst durch ~Dujardin~, ihre wahre
+Natur kennen, und überzeugte sich, dass ganz ähnlich geformte Schalen
+das eine Mal von einem höchst vollkommen organisirten Weichthiere
+(_Nautilus_), das andere Mal von einem höchst einfach gebauten
+Wurzelfüssler (_Polystomella_) gebildet werden.
+
+[Illustration: Fig. 20. ~Polystomella~ (venusta), ein Polythalam,
+dessen Kammern in einer Spirale aufgerollt sind, ganz ähnlich wie bei
+Nautilus. Aus den feinen Löchern der Schale treten überall bewegliche
+fadenförmige Scheinfüsschen hervor.]
+
+[Illustration: Fig. 21. ~Alveolina~ (Quoyi). Mehrere Reihen von Kammern
+laufen in einer Spirale neben einander hin. Die durchschnittenen Wände
+der Kammern sind weiss gezeichnet; die Verbindungsöffnungen mit den
+darüber liegenden schwarz.]
+
+Bei manchen Polythalamien laufen mehrere Spiralen neben einander
+im Gehäuse hin, indem innerhalb der Kammern sich wieder parallele
+Scheidewände bilden (Fig. 21). Bei den grossen Orbituliten und
+Nummuliten liegen solche Kammerreihen sogar in mehreren Stockwerken
+übereinander. Die Kammerreihen sind hier bald in zusammenhängenden
+Spirallinien, wie bei den Nummuliten (Fig. 18) geordnet, bald in
+concentrischen Ringen, wie bei dem gigantischen _Cycloclypeus_ (Fig.
+22).
+
+Die Gehäuse dieser letzteren sind runde Scheiben, welche sich am besten
+mit einem Palaste vergleichen lassen, dessen Umfassungsmauern nach dem
+Plane eines römischen Amphitheaters gebaut sind.
+
+[Illustration: Fig. 22. ~Cycloclypeus~, ein colossales Polythalam von 3
+Centimeter Durchmesser, in grossen Tiefen des Sunda-Meeres lebend. Man
+sieht die eine Hälfte der in der Mitte durchschnittenen Schale, von der
+links noch ein Stück der oberen Schicht abgeschnitten ist, um in die
+Kammern hineinzublicken.]
+
+[Illustration: Fig. 23. ~Parkeria~, ein colossales Polythalam von
+3 Centimeter Durchmesser. Man sieht blos ein Stück der eiförmigen
+Schale, so durchschnitten, dass man nach allen Richtungen hin die
+Zusammensetzung des Gehäuses aus zahllosen kleinen Kammern erkennen
+kann.]
+
+Mehrere Stockwerke liegen übereinander, in jedem eine centrale
+Hauptkammer, umgeben von vielen ringförmigen Corridoren, und jeder
+Corridor durch viele Scheidewände in Kammern getheilt: alle diese
+zahlreichen Stockwerke, Corridore und Kammern stehen durch Thüren mit
+einander in Verbindung und kleine Fenster in der äusseren Schalenfläche
+vermitteln die Verbindung mit der Aussenwelt, indem sie die feinen
+Schwimmfüsschen durchtreten lassen.
+
+Zu den grössten und am meisten zusammengesetzten Polythalamien
+gehören die Parkerien, deren Gehäuse grösstentheils aus Sandkörnchen
+zusammengesetzt sind (Fig. 23).
+
+Während die grosse Mehrzahl der Thalamophoren auf dem Meeresboden
+kriechend lebt, giebt es auch einige Arten, die an der Oberfläche des
+Meeres schwimmen, und zwar oft in grossen Massen, mit Radiolarien
+gemischt. Dahin gehören auch die merkwürdigen Pulvinulinen,
+Globigerinen und Hastigerinen, letztere durch ihre sehr langen
+borstenförmigen Kalkstacheln ausgezeichnet (Fig. 24).
+
+Wenn schon bei diesen merkwürdigen Polythalamien die formbildende Kunst
+des formlosen Protoplasma unsere höchste Bewunderung erregt, so wird
+dieselbe noch gesteigert, wenn wir die nahe verwandten ~Radiolarien~,
+die »Gitterthiere« oder Strahlinge betrachten. Bei diesen höchst
+interessanten Wurzelfüsslern treffen wir die grösste Mannigfaltigkeit
+von zierlichen und sonderbaren Formen an, die überhaupt in der
+organischen Welt zu finden ist. Ja, alle möglichen Grundformen, welche
+man nur in einem promorphologischen Systeme aufstellen kann, finden
+sich hier wirklich verkörpert vor. Das Material aber, aus welchem das
+formlose Protoplasma hier die unendlich mannigfaltigen Skelettheile
+bildet, ist nicht Kalkerde, wie bei den Polythalamien, sondern
+Kieselerde.
+
+Der weiche lebendige Leib der Radiolarien ist übrigens etwas höher
+organisirt, als derjenige der Polythalamien. Denn im Innern des
+formlosen weichen Protoplasma-Körpers findet sich hier eine besondere
+Kapsel, welche von einer festen Membran umschlossen ist, die
+~Centralkapsel~ (Fig. 25).
+
+In dieser bilden sich Massen von kleinen Zellen, welche eine bewegliche
+Geissel erhalten, später die Kapsel durchbrechen und ausschwärmen.
+
+[Illustration: Fig. 24. ~Hastigerina Murrayi.~ Ein Polythalam, dessen
+Kalkschalen überall mit haarfeinen, sehr langen Kalkstacheln bewaffnet
+ist.]
+
+Da der ganze Inhalt der Centralkapsel zur Bildung dieser Keime,
+welche gleich Flagellaten umherschwimmen und sich dann zu Radiolarien
+entwickeln, verwendet wird, so kann man die Centralkapsel auch als
+Sporenbehälter (~Sporangium~) der Radiolarien betrachten.
+
+[Illustration: Fig. 25. ~Heliosphaera~ (inermis). Ein Radiolar, dessen
+kugelige Gitterschale aus sechseckigen Maschen zusammengesetzt ist.
+Im Innern schwebt eine kugelige Centralkapsel, welche einen dunkeln
+Kern einschliesst, umgeben von kleinen gelben Zellen. Zahlreiche
+fadenförmige Scheinfüsschen strahlen allenthalben aus, halten sich an
+der Gitterschale fest und treten durch deren Löcher aus.]
+
+Sie ist umschlossen von einer Schicht Protoplasma, von welchem nach
+allen Richtungen zahllose, äusserst feine Scheinfüsschen ausstrahlen.
+Diese verhalten sich im Uebrigen ebenso wie bei den Polythalamien.
+
+Gewöhnlich finden sich im Protoplasma der Radiolarien ausserhalb der
+Centralkapsel noch zahlreiche gelbe Zellen von unbekannter Bedeutung;
+sie enthalten Stärkemehl.
+
+Ausserdem bilden sich bei einigen Radiolarien rings um die
+Centralkapsel grosse helle Wasser-Blasen aus (Vacuolen), welche von
+einer sehr dünnen Gallerte umschlossen sind, so namentlich bei den
+erbsengrossen Thalassicollen (Fig. 26).
+
+[Illustration: Fig. 26. ~Thalassicolla~ (pelagica). Ein grosses nacktes
+Radiolar (ohne Schale). Die innere kugelige Centralkapsel ist von
+einem Mantel grosser Wasserblasen umgeben. An der Oberfläche strahlen
+tausende von feinen Schleimfäden aus.]
+
+Es giebt auch zusammengesetzte Radiolarien (Polycyttarien). Diese
+bilden grössere Gallertklumpen von cylindrischer oder kugeliger Form,
+von 1 bis 3 Centimeter Durchmesser. Die Gallerte besteht grösstentheils
+aus solchen Wasserblasen, und in der Oberfläche sind ältere, im Innern
+dagegen jüngere Centralkapseln vertheilt (Fig. 27; s. folg. S.). Jede
+der letzteren ist oft von einer gegitterten Kieselschale umschlossen
+(Fig. 28).
+
+[Illustration: Fig. 28. Eine einzelne Kieselschale (stachelige
+Gitterkugel) von ~Collosphaera~ (spinosa).]
+
+Bei sehr vielen Radiolarien ist die Kieselschale eine Gitterkugel (Fig.
+25, 28, 29, 31); oft gehen lange, regelmässig vertheilte Stacheln
+davon ab (Fig. 29). Bei den Ommatiden (Fig. 30, 31) finden wir mehrere
+solcher Gitterkugeln concentrisch in einander geschachtelt und durch
+radiale Stäbe verbunden, ganz ähnlich dem bekannten zierlichen
+Spielzeug, das die Chinesen aus Elfenbein anfertigen.
+
+[Illustration: Fig. 27. ~Collosphaera~ (Huxleyi). Ein zusammengesetztes
+Radiolar mit vielen Centralkapseln; die inneren kleineren ohne, die
+äusseren grösseren mit Kieselschale. Zwischen den ausstrahlenden
+Fäden sind zahlreiche kleine gelbe Zellen zerstreut. Im Centrum
+der Colonie ist eine grosse Wasserblase sichtbar umgeben von einem
+Protoplasma-Netz.]
+
+Es giebt solche Gitterkugeln, die aus zwanzig im Centrum in einander
+gestemmten Stacheln zusammengesetzt sind; verästelte Querfortsätze
+der Stacheln, die in gleichem Abstande vom Centrum abgehen, setzen
+die Gitterschale zusammen (_Dorataspis_, Fig. 32). Den letzteren nahe
+verwandt sind die merkwürdigen ~Acanthometren~ (Fig. 33), ebenfalls
+mit 20 Stacheln, die nach einem bestimmten mathematischen Gesetze
+regelmässig vertheilt sind.
+
+[Illustration: Fig. 29. ~Heliosphaera~ (actinota). Von der Gitterkugel
+strahlen zwischen den Pseudopodien zahlreiche Kieselstacheln aus; im
+Innern der Schale die Centralkapsel.]
+
+[Illustration: Fig. 30. ~Actinomma~ (asteracanthion). Die Kieselschale
+besteht aus drei concentrischen Gitterkugeln, welche durch sechs
+radiale Stäbe mit einander verbunden sind. Die äusseren Enden der
+letzteren bilden starke dreikantige Stacheln, und dazwischen stehen auf
+der Oberfläche zahlreiche, sehr feine borstenförmige Kieselstacheln.]
+
+[Illustration: Fig. 31. ~Haliomma~ (Wyvillei). Die Kieselschale
+besteht aus zwei concentrischen Gitterkugeln, die durch zahlreiche
+radiale Stacheln verbunden sind. Zwischen beiden Schalen findet sich
+die Membran der Centralkapsel, so dass die eine innerhalb, die andere
+ausserhalb der letzteren liegt.]
+
+[Illustration: Fig. 32. ~Dorataspis~ (bipennis). Die Kieselschale
+wird durch die gabelförmigen Querfortsätze von zwanzig, regelmässig
+vertheilten Stacheln zusammengesetzt.]
+
+[Illustration: Fig. 33. ~Xiphacantha~ (Murrayana). Eine Acanthometra,
+deren 20 Stacheln kreuzförmige Querfortsätze tragen. Die Stacheln
+bilden 5 parallele Zonen von je 4 Stacheln, die gleichweit von einander
+abstehen.]
+
+Bei noch andern Radiolarien ist die centrale Gitterkugel von einem
+lockern Kiesel-Schwammwerke umhüllt und mächtige dreikantige Stacheln
+mit spiralig gedrehten Kanten ragen daraus hervor (_Spongosphaera_,
+Fig. 34).
+
+Eine andere, äusserst formenreiche Gruppe von Radiolarien, die
+~Cyrtiden~ oder Helm-Radiolarien, bilden Kieselschalen von der
+Form eines Helmes (Fig. 35), einer Haube oder eines Körbchens, mit
+siebförmig durchlöcherter Wand (_Podocyrtis_, Fig. 36). Noch Andere
+gleichen einem Ordensstern (_Astromma_, Fig. 37), einer Sanduhr
+(_Diploconus_, Fig. 38), einem dreiseitigen Prisma (_Prismatium_, Fig.
+39) u. s. w.
+
+In der grossen Abtheilung der ~Acanthometren~ wird das Skelet stets aus
+zwanzig Kieselstacheln gebildet, welche im Centrum in einander gestemmt
+und nach einem sehr merkwürdigen mathematischen Gesetze vertheilt
+sind; dies entdeckte zuerst der grosse ~Johannes Müller~, dem wir
+überhaupt die ersten genaueren Kenntnisse der Radiolarien verdanken.
+
+Welche Bedeutung diese höchst mannigfaltigen, zierlichen und seltsamen
+Formen besitzen; wie das formlose Protoplasma der Radiolarien dazu
+kommt, sie zu bilden, — davon haben wir heute noch keine Ahnung.
+
+[Illustration: Fig. 34. ~Spongosphaera~ (streptacantha). Neun
+dreikantige Stacheln ragen aus der kugeligen Centralkapsel hervor,
+welche von kieseligem Schwammgeflecht umhüllt ist und eine centrale
+Gitterschale einschliesst.]
+
+Neben den Thalamophoren und Radiolarien wird noch eine grosse Anzahl
+von andern Protisten zur Klasse der Wurzelfüssler gerechnet. Viele
+davon leben auch im süssen Wasser. Eines der häufigsten ist das
+niedliche sogenannte »~Sonnenthierchen~«, welches vor nun hundert
+Jahren (1776) vom Pastor ~Eichhorn~ in Danzig entdeckt und als
+»lebendiger Stern« beschrieben wurde (_Actinosphaerium Eichhornii_,
+Fig. 40).
+
+[Illustration: Fig. 35. ~Dictyophimus~ (Challengeri). Helmförmige
+Gitterschale mit drei Füsschen und Gipfelstachel.]
+
+[Illustration: Fig. 36. ~Podocyrtis~ (Schomburgki). Die helmförmige
+Gitterschale steht auf drei Füsschen und trägt auf dem Gipfel einen
+Stachel; das Gitterwerk der drei Abtheilungen ist sehr verschieden.]
+
+[Illustration: Fig. 37. ~Astromma~ (Aristotelis). Die schwammige
+Kieselschale hat die Form eines Ordenskreuzes.]
+
+[Illustration: Fig. 38. ~Diploconus~ (fasces). Die Kieselschale gleicht
+einer Sanduhr, in deren Axe ein starker, an beiden Enden zugespitzter
+Stab steht.]
+
+[Illustration: Fig. 39. ~Acanthodesmia~ (prismatium). Neun Kieselstäbe
+sind so verbunden, dass sie die Kanten eines dreiseitigen Prisma
+bilden. Im Centrum schwebt eine kugelige Centralkapsel, von gelben
+Zellen umgeben.]
+
+[Illustration: Fig. 40. Das vielzellige grosse Sonnenthierchen
+(~Actinosphaerium~ Eichhornii). Die innere dunkle Markmasse (c)
+enthält, viele Zellkerne und einige Nahrungsbissen (d). Von der hellen,
+schaumigen Rindenschicht (b), welche eben einen neuen Nahrungsbissen
+(a) aufnimmt, strahlen zahlreiche Scheinfüsschen (e) aus.]
+
+[Illustration: Fig. 41. Das einzellige kleine Sonnenthierchen
+(~Actinophrys~ sol). Im Innern der strahlenden Protoplasma-Kugel liegt
+nur ein Zellkern (n). Eine contractile Blase tritt an der Oberfläche
+des Protoplasma vor (v).]
+
+Es ist ein weiches, mit blossem Auge deutlich sichtbares, weiches
+Schleimkügelchen, von der Grösse eines kleinen Stecknadelknopfes, oft
+in Menge auf dem schlammigen Boden unserer Teiche und Gräben zu finden.
+In der Mitte des schleimigen und blasigen Protoplasma-Kügelchens
+liegen mehrere Zellkerne. Von der Oberfläche strahlen zahlreiche
+empfindliche und bewegliche Fäden oder Pseudopodien aus. Durch diese
+wird, wie bei den übrigen Wurzelfüsslern, die Nahrung aufgenommen.
+Die Vermehrung ist erst kürzlich entdeckt worden. Das Sonnenthierchen
+zieht dabei seine Fäden ein, umgiebt seinen kugeligen Körper mit einer
+Gallerthülle und zerfällt in viele einzelne Kugeln. Jede von diesen
+enthält einen Kern und schwitzt eine Kieselhülle aus, und jede dieser
+kieselschaligen Zellen wird später zu einem neuen Sonnenthierchen. Man
+kann dieselben aber auch künstlich vermehren. Man kann sie in mehrere
+Stücke zerschneiden und aus jedem Stückchen wird alsbald wieder ein
+selbständiges Wesen. Dasselbe gilt auch von vielen andern Protisten.
+
+Während das grosse Sonnenthierchen oder Strahlenkügelchen
+(_Actinosphaerium_) einen nackten Rhizopoden darstellt, der viele
+Zellkerne enthält, also aus vielen vereinigten Zellen zusammengesetzt
+ist, zeigt uns dagegen ein anderer, sehr häufiger Süsswasserbewohner,
+das ~kleine Sonnenthierchen~ (_Actinophris sol_) den Organismus der
+Wurzelfüssler in seiner allereinfachsten Gestalt (Fig. 41), nämlich als
+eine nackte einfache Zelle mit einem einzigen Kern; von der Oberfläche
+desselben strahlen viele feine Fäden aus, und indem das Protoplasma
+an gewissen Stellen Wasser aufnimmt und wieder abgiebt, bildet es
+»contractile Blasen oder Vacuolen.«
+
+Eine der merkwürdigsten Protistenklassen, die ebenfalls oft zu den
+Wurzelfüsslern gerechnet wird, sind die so genannten ~Schleimpilze~
+oder ~Myxomyceten~, von Anderen auch ~Pilzthiere~ oder ~Mycetozoen~
+genannt. Schon dieser doppelte Name bezeichnet ihre zweifelhafte
+Protisten-Natur. Sie leben in zahlreichen verschiedenen Arten an
+feuchten Orten, im abgefallenen Laube der Wälder, zwischen Moos, auf
+faulendem Holze und dergl. Früher galten sie allgemein für Pflanzen,
+und zwar für Pilze, weil ihr reifer Fruchtkörper täuschend dem
+blasenförmigen Fruchtkörper der Gastromyceten oder Blasenpilze ähnlich
+ist (Fig. 43B). Dieser Fruchtkörper bildet kugelige oder länglich
+runde, oft auf einem Stiel festsitzende Blasen, meist von der Grösse
+eines Stecknadelknopfes oder eines Hanfkorns, bisweilen aber auch von
+mehreren Zoll Durchmesser. Die derbe äussere Hülle der Fruchtblasen
+umschliesst ein feines Mehl, das aus Tausenden von mikroskopischen
+Zellen besteht. Dies sind die Fortpflanzungszellen oder ~Sporen~.
+
+[Illustration: Fig. 42. ~Keimung einer Myxomycete~ (~Physarum album~).
+1. Eine Keimzelle oder Spore. 2. Aus der dunkeln Hülle der Spore tritt
+die nackte Zelle hervor (3). Diese verwandelt sich in eine Geisselzelle
+(4, 5) und darauf in eine Amoebe (6, 7). Mehrere Amoeben fliessen
+zusammen (8, 9, 10, 11) und bilden so ein Plasmodium (12).]
+
+Während aber bei den Blasenpilzen, wie bei allen anderen echten Pilzen,
+sich aus diesen Sporen die characteristischen Pilzfäden oder Hyphen,
+lange dünne Fadenschläuche entwickeln, entstehen daraus bei den
+Myxomyceten ganz andere Keime. Aus der festen Zellmembran einer jeden
+Spore schlüpft nämlich, sobald diese ins Wasser gelangt, eine nackte,
+lebhaft bewegliche Zelle aus. (Fig. 42, 1–3). Anfangs schwimmt diese
+Zelle mittelst eines langen Geisselfadens, den sie peitschenförmig nach
+Art der Geisselschwärmer hin und her schwingt, frei im Wasser umher
+(Fig. 42, 4, 5). Später sinkt sie zu Boden und nimmt die Form einer
+Amoebe an (Fig. 42, 6, 7). Ganz gleich einer echten Amoebe kriecht
+sie umher, indem sie veränderliche Fortsätze ausstreckt und wieder
+einzieht. Auch nimmt sie nach Art der Amoeben ihre Nahrung auf.
+
+Viele solcher amoeboiden Zellen können nun späterhin zusammenfliessen
+und mit einander verwachsen (Fig. 42, 8–11). Dadurch entstehen grosse
+Protoplasma-Netze mit vielen Kernen (~Syncytien~, Fig. 42, 12). Indem
+ihre Kerne sich auflösen, werden sie zu kernlosen ~Plasmodien~ (Fig.
+43A). Solche grosse Plasmodien, oft ganz colossale Protoplasma-Netze,
+kriechen gleich einem riesigen Rhizopoden langsam umher und ändern
+beständig ihre unbestimmte Gestalt.
+
+[Illustration: Fig. 43. ~Myxomyceten.~ A. Ein grösseres Plasmodium (von
+~Didymium leucopus~). B. Eine reife Frucht (von ~Arcyria incarnata~).
+C. Dieselbe, nachdem die Wand (p) geplatzt und das Haarfaden-Geflecht
+(Capillitium, cp) hervorgetreten ist.]
+
+Zu den grössten Plasmodien gehören die glänzend gelben (oft mehrere
+Fuss grossen) Protoplasma-Geflechte von _Aethalium_, welche die
+Lohbeete der Gerbereien durchziehen und unter dem Namen »~Lohblüthe~«
+allen Gerbern bekannt sind. Haben die Plasmodien durch Wachsthum und
+Nahrungsaufnahme eine gewisse Grösse erreicht, so ziehen sie sich auf
+einen kugeligen, birnförmigen oder kuchenförmigen Haufen zusammen,
+umgeben sich mit einer Hülle und das ganze Protoplasma zerfällt
+in zahllose kleine Sporen, zwischen welchen sich meistens (jedoch
+nicht immer) ein Geflecht von äusserst feinen Haarfäden ausbreitet
+(_Capillitium_, Fig. 43cp). Wenn diese Fruchtkörper (Fig. 43B) ganz
+reif sind, platzt die äussere Hülle (Fig. 43C); das Capillitium wird
+vorgetrieben und das feine Sporen-Pulver zerstreut.
+
+Obgleich nun diese blasenförmigen Fruchtkörper mit ihrem Sporenpulver
+und Capillitium die grösste Aehnlichkeit mit denjenigen von gewissen
+echten Pilzen besitzen, haben sie doch mit diesen letzteren keine Spur
+von Verwandtschaft, wie ihre gänzlich verschiedene Entwickelung zeigt.
+Will man überhaupt die Myxomyceten in nähere Beziehung zu irgend einer
+anderen Organismen-Gruppe bringen, so bleiben nur die ~Rhizopoden~
+übrig. In der That gleichen die kriechenden netzförmigen Plasmodien der
+Myxomyceten so sehr gewissen nackten Wurzelfüsslern (_Lieberkühnia_),
+dass man sie gar nicht unterscheiden kann. Es giebt kein passenderes
+Object, um sich die merkwürdigen Strömungen in dem kriechenden nackten
+Protoplasma unmittelbar vor Augen zu führen, als die Plasmodien der
+gemeinen Lohblüthe, die im Frühjahr auf den Lohbeeten der Gerbereien
+sehr leicht zu haben ist und die Lohe in Form von gelben, rahmähnlichen
+Schleimnetzen durchzieht. Bringt man ein wenig von diesem gelben
+Protoplasma in einer feuchten Kammer auf ein Glasplättchen, so ist
+letzteres schon nach 10–20 Stunden von einem feinen Faden-Netz
+übersponnen, in dessen Fäden man unter dem Mikroskope die lebhafte
+Protoplasma-Strömung prächtig verfolgen kann.
+
+Im Anschluss an die Myxomyceten müssen wir hier auch auf die echten
+~Pilze~ (_Fungi_) einen Blick werfen, mit welchen man die ersteren
+früher irrthümlich vereinigt hat. Die echten Pilze, welche in so
+zahlreichen, ansehnlichen und mannigfaltigen Formen in unsern Wäldern
+und Feldern, auf Pflanzen- und Thierkörpern schmarotzend leben, werden
+oft auch als ~Schwämme~ bezeichnet. Sie haben aber mit den echten
+Schwämmen oder Spongien gar nichts zu thun; denn diese letzteren, wozu
+der gewöhnliche Badeschwamm gehört, und welche sämmtlich — mit einziger
+Ausnahme des Süsswasser-Schwammes, _Spongilla_, — im Meere leben, sind
+echte ~Thiere~ und besitzen ein Darmrohr mit Mundöffnung u. s. w. Die
+Pilze dagegen bilden eine gänzlich verschiedene und sehr eigenthümliche
+Classe von niederen Organismen. Zwar gelten sie heute noch allgemein
+als echte ~Pflanzen~. Allein in den wichtigsten anatomischen und
+physiologischen Beziehungen weichen sie so sehr von allen übrigen
+Pflanzen ab, dass es wohl richtiger ist, sie als eine selbständige
+Classe von ~Protisten~ zu betrachten. Ernährung und Stoffwechel der
+Pilze ist thierisch, nicht pflanzlich. Sie bilden kein Protoplasma,
+kein Chlorophyll, kein Stärkemehl, keine Cellulose, wie die echten
+Pflanzen. Vielmehr bedürfen sie, wie die Thiere, zu ihrer Existenz und
+Ernährung vorgebildetes Protoplasma, welches sie aus dem Körper anderer
+Organismen, lebender oder todter Thiere, Pflanzen und Protisten,
+entnehmen.
+
+Die Fortpflanzung der Pilze ist meistens ungeschlechtlich, und
+auch da, wo sie geschlechtlich erscheint, ganz eigenthümlich. Das
+Form-Element, aus dem sich der Körper aller Pilze aufbaut, ist nicht
+eine echte, kernhaltige ~Zelle~, wie bei allen Thieren und Pflanzen,
+sondern eine fadenförmige, kernlose ~Cytode~, die sogenannte ~Hyphe~
+oder der »Pilzfaden.« Durch seitliche Sprossung und fortgesetzte
+Theilung in einer ~Axe~, bilden sie verzweigte gegliederte Fäden, und
+zahllose solche Pilzfäden, in langen Ketten an einander gereiht, sich
+verästelnd und netzartig verbindend, setzen alle Organe der Pilze
+zusammen. Der bekannte gestielte »Hut« oder Schirm unserer grossen
+Hutpilze, z. B. vom ~Champignon~ (Fig. 44) ist blos der ~Fruchtkörper~,
+welcher sich zur Zeit der Reife aus einem unscheinbaren Fadengeflechte
+entwickelt, dem Mycelium (Fig. 44, I m); die strahligen, blattförmigen
+Rippen, welche sich an der Unterseite des regenschirmähnlichen Hutes
+bilden, sind von der Fruchthaut (_Hymenium_) überzogen, in welcher
+sich ungeschlechtlich die Fortpflanzungs-Cytoden (»Sporen«) bilden.
+Je genauer man die eigenthümliche Anatomie und Keimungsgeschichte
+der Pilze verfolgt, je unbefangener man sie vergleicht, desto mehr
+überzeugt man sich, dass diese merkwürdigen Organismen keine echten
+Pflanzen sind, sondern eine ganz selbständige Classe von neutralen
+Protisten darstellen.
+
+Dasselbe gilt von der formenreichen Classe der ~Kieselzellen~
+(_Diatomeae_ oder ~Bacillariae~), die auch gewöhnlich zu den Pflanzen
+gerechnet werden. Diese zierlichen kleinen Organismen bevölkern in
+ungeheuren Massen die süssen und salzigen Gewässer unseres Erdballs.
+In grossen Mengen angehäuft, bilden sie gewöhnlich einen gelben oder
+gelbbraunen Schleim, der Steine, Wasserpflanzen u. s. w. überzieht.
+Bald sind die Diatomeen einzeln lebende Einsiedlerzellen, bald Colonien
+oder Gesellschaften (Coenobien), welche aus vielen gleichartigen,
+locker verbundenen Zellen zusammengesetzt erscheinen.
+
+[Illustration: Fig. 44. Ein ~Champignon~, aus der Ordnung der
+~Hutpilze~ (~Hymenomycetes~). A. Das Fadengeflecht (~Mycelium~), aus
+verästelten und netzförmig verbundenen Reihen von Pilzfäden (~Hyphen~)
+gebildet (m). Aus dem Mycelium sprossen solide birnförmige Fruchtkörper
+hervor (I), in welchen sich ein ringförmiger Luftraum bildet (II,
+III, l). Unterhalb sondert sich der Stiel (IV, st), oberhalb der
+Schirm des Hutes (h), von welchem die Hymenium-Rippen in den Luftraum
+hineinwachsen (V, l): der untere Boden des Luftraums platzt später und
+hängt als Schleier (Velum) vom Rande des Hutes herab.]
+
+Viele Diatomeen sitzen fest; die meisten aber bewegen sich in ganz
+eigenthümlicher Weise, langsam schwimmend oder fortrutschend, im
+Wasser umher. Die Organe dieser Ortsbewegung sind noch gänzlich
+unbekannt, vielleicht feinste Wimperreihen.
+
+Das Characteristische an dem Zellenkörper der Diatomeen ist die
+eigenthümliche ~Kieselschale~, in welcher ihr Zellenleib eingeschlossen
+ist. Diese Schale ist aus zwei Hälften zusammengesetzt, welche sich zu
+einander genau so verhalten, wie eine ~Schachtel~ zu ihrem ~Deckel~
+(Fig. 45). Die kernhaltige Zelle, welche in dieser Schachtel lebt,
+theilt sich in zwei Hälften, und jede Hälfte bildet sich zu ihrem
+Schachteldeckel eine neue Schachtel. Dieser Process wiederholt sich
+mehrfach, wobei natürlich jede folgende Generation kleiner wird.
+Schliesslich aber entsteht eine Generation, welche beide Schalenhälften
+abwirft, wieder bis zur Grösse der ersten, grössten Generation
+heranwächst, und sich nun mit einer neuen Kieselschachtel erster Grösse
+umgiebt. Wegen der unendlich mannigfaltigen und zierlichen Gestalt
+dieser Kieselschale, sowie wegen ihrer äusserst feinen Sculptur, sind
+die Diatomeen sehr beliebte Unterhaltungs-Objecte für mikroskopischen
+Formgenuss. Wenn sich die Kieselschalen der todten Diatomeen massenhaft
+auf dem Grunde der Gewässer ansammeln und zu Stein verkitten, können
+sie ganze Gebirgsschichten zusammensetzen, so z. B. den Polirschiefer,
+das Bergmehl u. s. w.
+
+[Illustration: Fig. 45. Eine Diatomee oder ~Bacillarie~ (~Surirella~
+dentata). Die Schachtelzelle ist vom Rande gesehen, so dass man sieht,
+wie die beiden Schalenklappen (s u. d) übereinander greifen, gleich
+einer Schachtel (s) und ihrem Deckel (d). In der Mitte der Kern (n). p
+Protoplasma.]
+
+       *       *       *       *       *
+
+Während die meisten, bisher von uns betrachteten Protisten-Gruppen
+grosse und formenreiche Classen darstellen, giebt es nun noch eine
+Anzahl von kleineren, isolirten, bisweilen nur durch eine oder wenige
+Formen repräsentirten Protisten, deren Einreihung in das System sehr
+schwierig ist. Dies gilt z. B. von den sonderbaren ~Labyrinthuleen~.
+Gesellschaften von locker verbundenen, einfachen, spindelförmigen,
+gelben Zellen, die in einer eigenthümlichen Fadenbahn umherrutschen.
+Eine andere Gruppe, interessant wegen ihrer Mittelstellung
+zwischen verschiedenen Protisten-Classen, bilden die ~Catallacten~,
+durch die Gattungen _Synura_ und _Magosphaera_ repräsentirt. Sie
+bilden schwimmende Gallertkugeln, zusammengesetzt aus einer Anzahl
+birnförmiger gleichartiger Zellen, welche mit ihren spitzen inneren
+Enden im Centrum der Gallertkugel vereinigt sind. Später lösen sich
+diese Zell-Gesellschaften oder Coenobien auf. Die einzelnen isolirten
+Zellen schwimmen noch eine Zeit lang selbständig umher und können
+jetzt mit Ciliaten verwechselt werden. Dann aber sinken sie auf den
+Meeresboden nieder und verwandeln sich in Amoeben-ähnliche Zellen.
+Gleich echten Amoeben kriechen diese umher, fressen, wachsen und
+kapseln sich schliesslich ein; der Zellenkörper zieht sich kugelig
+zusammen und umgiebt sich mit einer Gallerthülle. Innerhalb derselben
+theilt sieh die Zelle später wiederholt, in 2, 4, 8, 16, 32 Zellen
+u. s. w. Diese werden birnförmig, erhalten bewegliche Wimpern und
+verbinden sich wieder zu einer Flimmerkugel. Nun dreht sich die
+Kugel rotirend um ihren Mittelpunkt, sprengt ihre Hülle und schwimmt
+wieder frei in der Form umher, von welcher wir ausgegangen sind (Fig.
+46). Das Interesse dieser merkwürdigen Protisten liegt also weniger
+in besonderen Eigenthümlichkeiten, als vielmehr in der neutralen
+Mittelstellung, welche sie zwischen Amoeben, Infusorien und Volvocinen
+einnehmen, und wodurch sie diese verschiedenen Protisten-Classen
+verknüpfen. Wir nennen sie daher »Mittlinge oder ~Vermittler~«
+(_Catallacta_).
+
+[Illustration: Fig. 46. ~Magosphaera~ (planula), eine schwimmende
+Flimmerkugel von der norwegischen Küste. A von der Oberfläche, B im
+Durchschnitt.]
+
+       *       *       *       *       *
+
+Werfen wir einen vergleichenden Rückblick auf alle bisher betrachteten
+Protisten-Classen, so sehen wir, dass darin die organische Zelle bald
+ganz selbständig auftritt, und als ~Einsiedler-Zelle~ (_Monocyta_)
+den ganzen Organismus repräsentirt, bald mit ihresgleichen sich zu
+lockeren Gesellschaften verbindet und einfache ~Zellen-Gemeinden~ oder
+Zellen-Horden (_Coenobia_) darstellt. Nun ist aber hiermit keineswegs
+die tiefste Stufe der Organisation erschöpft, welche uns die organische
+Welt darbietet. Vielmehr treffen wir noch unterhalb dieser einzelligen
+Protisten jene niedrigste und unvollkommenste Classe von Organismen an,
+die wir als ~Moneren~ bezeichnen. (Fig. 47, 48).
+
+[Illustration: Fig 47. ~Protamoeba~ (primitiva), ein Moner mit
+lappenförmigen Pseudopodien, gleich einer Amoebe. a kriechend, b in
+Theilung begriffen, c in zwei Hälften getheilt.]
+
+Da wir diese in dem nachstehenden Anhange (S. 68–85) zum Gegenstande
+einer besonderen Besprechung machen werden, wollen wir hier nur ganz
+kurz die wichtigsten Punkte hervorheben, welche den Moneren ihre hohe
+Bedeutung für die Entwicklungslehre verleihen.
+
+Die ~Moneren~ sind wahre »Organismen ohne Organe«. Ihr ganzer
+lebendiger Leib besteht in völlig entwickeltem Zustande nur aus einem
+ganz einfachen Protoplasma-Stückchen, welchem selbst der Kern, der
+Character der echten Zelle, noch fehlt. Bezüglich ihrer Bewegungen
+gleichen diese denkbar einfachsten Organismen bald den Amoeben (Fig.
+47), bald den Wurzelfüsslern (Fig. 48), bald den Geisselschwärmern.
+(Fig. 50). Sie vermehren sich in einfachster Weise durch Theilung. Von
+der grössten theoretischen Bedeutung sind sie für die dunkle Frage von
+der ersten Entstehung des Lebens auf unserer Erde. Denn nur Moneren
+können im Beginn des organischen Lebens auf unserm Planeten durch
+Urzeugung entstanden sein; nur Moneren können die ältesten Stammältern
+aller übrigen Organismen sein. Gerade in dieser Beziehung sind die
+Moneren des Tiefseegrundes, und vor Allen der berühmte ~Bathybius~
+(Fig. 49) vom höchsten Interesse.
+
+[Illustration: Fig. 48. ~Protomyxa aurantiaca~, ein Moner mit
+wurzelförmig verästelten fadenartigen Pseudopodien, gleich einem
+Rhizopoden.]
+
+[Illustration: Fig. 49. ~Bathybius~ (Haeckelii). Ein Plasmodium aus
+den Tiefen des Oceans. Die verästelten Plasson-Ströme, durch deren
+Verbindung das Netz entsteht, ändern sich beständig.]
+
+[Illustration: Fig. 50. ~Zitterlinge~ (~Bacteria~), sehr stark
+vergrössert. 1. ~Sarcine~, eine einfachste Cytode, im menschlichen
+Magen schmarotzend, welche sich durch kreuzförmige Theilung vermehrt.
+2. ~Bacillus~, gerade Stäbchen. 3. ~Vibrio~, korkzieherartig gewundene
+Stäbchen. 4. ~Spirillum~, eben solche Spiralstäbchen, die aber an
+beiden Enden eine äusserst feine, schwingende Geissel tragen.]
+
+Eine sehr wichtige und interessante Monerengruppe bilden die
+~Zitterlinge~ (_Vibriones_ oder _Bacteria_, Fig. 50). Obgleich diese
+winzigen Körperchen, die zu den allerkleinsten Organismen gehören,
+meistens von den Botanikern zu den Pflanzen gerechnet und als
+»~Spaltpilze~ (_Schizomycetes_)« den echten Pilzen angereiht werden,
+geschieht das doch ohne jeden genügenden Grund. Mindestens haben
+diejenigen Zoologen, welche sie als einfachste Thiere betrachten,
+ebensoviel Recht dazu. Die ~Bacterien~ sind eben echte ~Protisten~, und
+zwar kleinste ~Moneren~, deren höchst einfache Organisation und ganz
+neutraler Character sie weder dem Thierreich, noch dem Pflanzenreich
+anzuschliessen gestattet.
+
+Die Bacterien sind meistens stabförmige Körperchen, die sich lebhaft im
+Wasser bewegen. Als Organ der Bewegung ist bei einigen grösseren Formen
+eine äusserst feine, schwingende Geissel erkannt, die an beiden Enden
+des Stäbchens vortritt, so bei _Spirillum_ (Fig. 50, 4). Wahrscheinlich
+ist eine solche auch bei den kleineren Vibrionen vorhanden und nur
+wegen ihrer ausserordentlichen Zartheit nicht wahrzunehmen. Die
+Bewegung der Bacterien ist meistens sehr lebhaft, zitternd oder
+wimmelnd, viele sind korkzieherartig gedreht und schrauben sich im
+Wasser fort (Fig. 50, 3). In einem einzigen Wassertröpfchen können
+Millionen solcher kleinsten Organismen vereinigt sein. Irgend
+welche Organisations-Verhältnisse, namentlich ein Zellkern, sind an
+denselben nicht nachzuweisen; sie sind daher auch nicht wirkliche
+~Zellen~, sondern kernlose ~Cytoden~, gleich den anderen Moneren.
+Ihre Fortpflanzung geschieht in einfachster Weise durch Theilung. Oft
+zerfällt jedes Stäbchen in eine grosse Anzahl hinter einander gelegener
+Stückchen.
+
+Die grosse Bedeutung der Bacterien besteht darin, dass sie die
+Zersetzung und Fäulniss der organischen Flüssigkeiten bewirken, in
+welchen sie sich aufhalten. Sie ernähren sich von den organischen
+Substanzen (namentlich eiweissartigen Körpern), die in solchen
+Flüssigkeiten aufgelöst sind. Wahrscheinlich sind sie die Ursache
+vieler der wichtigsten, ansteckenden und epidemischen Krankheiten.
+So ist es neuerdings namentlich vom Milzbrand und den Blattern
+festgestellt, dass nur die Bacterien, die im Blute der milzbrandkranken
+und blatternkranken Thiere leben, die Uebertragung dieser tödtlichen
+Krankheiten bewirken.
+
+       *       *       *       *       *
+
+Ueberblickt man unbefangen prüfend und vergleichend die Masse von
+verschiedenartigen Urwesen, die wir in unserem Protistenreiche
+vereinigt haben, so scheint die Selbständigkeit dieses letzteren
+keines weiteren Beweises zu bedürfen. Denn es existirt noch heute eine
+ungeheuere Menge von formenreichen, mikroskopischen Wesen, die wir
+ohne willkürlichen Zwang weder zum Thierreich noch zum Pflanzenreich
+rechnen können. Aber das natürliche Verhältniss dieser beiden grossen
+Lebensreiche zu jenem ~neutralen~, zwischen Beiden mitten inne
+stehenden ~Protistenreiche~ wird noch vielfacher Durchforschung und
+Klärung bedürfen. Insbesondere wird die ~Entwickelungsgeschichte~
+der Protisten noch viel genauer und umfassender zu erforschen sein.
+Denn vor allen die Entwickelungsgeschichte wird hier, wie überall, der
+»wahre Lichtträger« für das Verständnis der biologischen Erscheinungen
+sein.
+
+Uebrigens scheint gegen das Thierreich hin eine feste und klare
+Abgrenzung des Protistenreichs schon jetzt sicher gewonnen zu sein.
+Denn bei allen echten Thieren entwickelt sich der Leib aus zwei
+ursprünglichen Zellenschichten, die unter dem Namen der ~Keimblätter~
+bekannt sind.
+
+[Illustration: Fig. 51. ~Gastrula~ (Darmlarve) eines Kalkschwammes,
+~Olynthus~. A von der Oberfläche. B im Längsschnitt. e äusseres
+Keimblatt (Hautblatt oder Exoderm). i Inneres Keimblatt (Darmblatt oder
+Entoderm). o Urmund. g Urdarmhöhle.]
+
+Aus dem äusseren oder animalen (_Exoderma_ oder ~Hautblatt~, Fig. 51 e)
+entstehen die Organe der Empfindung und Bewegung; aus dem innern oder
+vegetativen Keimblatte (_Entoderma_ oder ~Darmblatt~, Fig. 51 i) die
+Organe der Ernährung. Das letztere umschliesst eine ernährende Höhle,
+die erste Anlage des Magens, oder den ~Urdarm~ (g), und dieser öffnet
+sich nach aussen durch eine einfache Mundöffnung, den ~Urmund~ (o). Die
+bedeutungsvolle Keimform, welche uns den Thierleib dergestalt, blos
+aus zwei Keimblättern gebildet, vor Augen führt, ist die ~Gastrula~
+(Darmlarve oder Becherkeim).
+
+[Illustration: Fig. 52–57. ~Gastrula~ von sechs verschiedenen Thieren.
+Fig. 52 (B) ~Wurm~ (Sagitta). Fig. 53 (C) ~Seestern~ (Uraster). Fig. 54
+(D) ~Krebs~ (Nauplius). Fig. 55 (E) ~Schnecke~ (Lymnaeus). Fig. 56 (A)
+~Pflanzenthier~ (Gastrophysema). Fig. 57 (F) ~Wirbelthier~ (Amphioxus).
+— Ueberall bedeutet: e Hautblatt (Exoderm), i Darmblatt (Entoderm), d
+Urdarm, o Urmund.]
+
+[Illustration: Fig. 58. ~Gastrula~ eines ~Säugethieres~ (Kaninchen).
+e Hautblatt (Exoderm). i Darmblatt (Entoderm). d eine centrale
+Entoderm-Zelle, welche die enge Urdarmhülle ausfüllt. o eine
+Entoderm-Zelle, welche die Urmundöffnung verstopft. Ebenso wie beim
+Kaninchen verhält sich wahrscheinlich auch die ~Gastrula~ beim
+~Menschen~.]
+
+Diese ~Gastrula ist das wahre Thier in einfachster~ Form. Denn
+bei allen echten Thieren fängt die Entwickelung des Eies zur
+verschiedenartigen Thierform mit der gleichartigen Bildung dieser
+Gastrula an. Die niedersten Pflanzenthiere, die Physemarien (Fig. 56)
+wie die Schwämme (Fig. 51), die niedrigsten Würmer (Fig. 52), ebenso
+die Sternthiere (Fig. 53), die Gliederthiere (Fig. 54) ebenso wie die
+Weichthiere (Fig. 55), ja sogar die niedrigsten Wirbelthiere (Fig.
+57), durchlaufen in frühester Jugend diese ~Gastrula~-Keimform; die
+anderen Thiere bilden zweiblättrige Keimformen, die nur als abgeänderte
+Gastrula-Keime betrachtet werden können; so auch die Säugethiere, mit
+Inbegriff des Menschen (Fig. 58); überall baut sich der echte Thierleib
+ursprünglich ~aus zwei Keimblättern~ auf. Hingegen erhebt sich kein
+einziges Protist zur Production von Keimblättern und zur Bildung einer
+Gastrula.
+
+       *       *       *       *       *
+
+Weniger klar und scharf lässt sich unser Protistenreich gegen das
+~Pflanzenreich~ hin abgrenzen. Doch dürften auch hier die Verhältnisse
+der individuellen Entwickelung und des feineren Baues die Handhabe
+liefern, mit deren Hülfe wir die Grenzlinie ziehen können. Auch bei
+den echten Pflanzen ordnen sich die Zellen, welche den Körper zunächst
+aufbauen, in bestimmter Weise zu Zellenreihen oder ~Zellenschichten~;
+und die charakteristische einfachste Pflanzenform der Art bildet
+den sogenannten ~Thallus~ oder das »Zellenlager«. Bei den niederen
+Pflanzen bleibt der Thallus als solcher zeitlebens bestehen, bei den
+höheren sondert oder differenzirt er sich in Stengel und Blätter. Auch
+vermehren sich alle echten Pflanzen auf geschlechtlichem Wege, während
+dies bei den Protisten nicht der Fall ist.
+
+Eine ~absolute~ Grenze freilich zwischen den drei organischen Reichen
+können und wollen wir nicht feststellen. Denn auch die echten Pflanzen,
+wie die echten Thiere, durchlaufen in ihrer frühesten Entwickelung,
+als einzelliges Ei, als einfacher Zellenhaufen u. s. w. niedere
+Formzustände, welche gewissen Protisten gleichen. Nach unserem
+biogenetischen Grundgesetze müssen wir daraus den Schluss ziehen, dass
+sämmtliche Organismen, Thiere, Protisten und Pflanzen, von höchst
+einfachen einzelligen Organismen abstammen; und wenn wir diese ältesten
+Stammformen heute lebend vor uns hätten, würden wir sie jedenfalls für
+neutrale ~Protisten~ erklären.
+
+Eine gute ~negative~ Charakteristik der Protisten, gegenüber den
+echten Thieren und den echten Pflanzen, lässt sich darauf gründen,
+dass sie weder eine ~Gastrula~ mit zwei Keimblättern bilden, wie die
+ersteren, noch einen ~Thallus~ oder ein Prothallium, wie die letzteren.
+Damit in Zusammenhang steht der Umstand, dass die Protisten niemals
+wirkliche (aus vielen Zellen zusammengesetzte) ~Gewebe~ und ~Organe~
+bilden, wie alle echten Thiere und Pflanzen. Auch ist es sicher von
+grosser Bedeutung, dass die grosse Mehrzahl aller Protisten sich
+ausschliesslich auf ~ungeschlechtlichem~ Wege fortpflanzt (durch
+Theilung, Knospenbildung, Sporenbildung). Aber selbst bei den wenigen
+Protisten, welche sich bereits zur geschlechtlichen Zeugung in
+einfachster Form erheben, geht der Gegensatz zwischen männlichen und
+weiblichen Theilen niemals so weit, wie es bei allen echten Thieren
+und Pflanzen der Fall ist. Sie repräsentiren in jeder Beziehung jene
+~niedere~ älteste Bildungsstufe, welche jedenfalls der Entwickelung
+echter Thiere und echter Pflanzen vorausgegangen sein muss.
+
+Diese Betrachtungen führen uns auf denjenigen Weg, auf welchem
+allein eigentlich das Verhältniss der drei organischen Reiche zu
+einander entscheidend aufgeklärt werden kann, auf den Weg der
+~Stammesgeschichte~ oder ~Phylogenie~. Wenn wir ganz genau wüssten,
+wie sich das organische Leben auf unserem Erdball von Anfang an
+entwickelt hat, wie die Thiere, Protisten und Pflanzen ursprünglich
+entstanden sind, dann würden wir auch das Verhältniss der drei Reiche
+zu einander klar und unzweideutig beurtheilen können. Aber der sichere
+Weg der unmittelbaren Erfahrung bleibt uns für die Erkenntniss dieses
+wichtigen Verhältnisses auf ewig verschlossen. Kein lebendes Wesen
+und keine Schöpfungsurkunde kann uns erzählen, wie jener älteste
+Entwickelungsgang des organischen Lebens vor vielen Millionen von
+Jahren begonnen und wie er sich weiterhin zunächst gestaltet hat.
+Tausende von Arten und Gattungen, Millionen von Generationen sind in’s
+Grab gesunken, ohne uns sichtbare Spuren ihrer Existenz hinterlassen
+zu haben. Und gerade die wichtigsten von Allen, die ältesten und
+einfachsten Formen, konnten wegen des Mangels harter Körpertheile
+keine Versteinerungen zurücklassen.
+
+Aber wenn uns auch der streng empirische Weg der Erkenntniss in
+dieser hochwichtigen Ursprungsfrage unwiderruflich verschlossen
+ist, so bleibt uns doch hier, wie überall, zur Ausfüllung unserer
+Erkenntnisslücken der Weg der wissenschaftlichen Hypothese offen. Wenn
+diese ~historische Hypothese~ sich in umfassender Weise auf die bisher
+erkannten wissenschaftlichen Thatsachen stützt, so ist sie in der
+Naturgeschichte der Lebewesen ebenso berechtigt, wie in der Geologie,
+in der Archaeologie, der Culturgeschichte und anderen historischen
+Wissenschaften. Und wie uns die allgemein anerkannten geologischen
+Hypothesen dazu geführt haben, eine befriedigende Einsicht in den
+Entwickelungsgang unsers Erdballs zu gewinnen, so werden auch die
+phylogenetischen Hypothesen, die wir auf die von ~Darwin~ reformirte
+Descendenz-Theorie gründen, Licht über den Entwickelungsgang des
+organischen Lebens auf der Erde verbreiten.
+
+       *       *       *       *       *
+
+Wir können hier nicht auf eine Beleuchtung und Begründung aller der
+verschiedenen phylogenetischen Hypothesen eingehen, welche über
+diesen Entwickelungsgang aufgestellt worden sind. Nur auf diejenige
+Vorstellung wollen wir schliesslich noch einen flüchtigen Blick werfen,
+welche heuzutage am meisten innere Wahrscheinlichkeit für sich hat.
+Danach müssen wir annehmen, dass das Leben auf unserem Planeten mit
+der selbständigen Entstehung der allereinfachsten ~Protisten~ aus
+anorganischen Verbindungen begonnen hat. Diese ältesten Lebewesen der
+Erde werden den heute noch existirenden ~Moneren~ ähnlich gewesen sein:
+einfachste lebende Protoplasma-Stückchen ohne jegliche Organbildung.
+Daraus werden sich zunächst durch Sonderung eines Darmes im Inneren
+einzellige Protisten gebildet haben, und zwar höchst einfache, formlose
+und indifferente ~Zellen~, gleich den ~Amoeben~. Indem einige von
+diesen einzelligen Protisten, von geselligen Neigungen getrieben, sich
+daran gewöhnten, in kleinen Gesellschaften vereinigt zu leben, werden
+die ersten vielzelligen Organismen entstanden sein, und zwar zunächst
+auch nur wieder einfache Zellenhorden, lockere Gesellschaften von
+gleichartigen Zellen.
+
+Nun ist es wohl wahrscheinlich, dass diese ältesten und einfachsten
+Entwickelungsvorgänge des organischen Lebens sich an zahlreichen
+verschiedenen Stellen des jugendlichen Erdballs gleichzeitig und
+unabhängig von einander wiederholt haben. So können also verschiedene
+und vielleicht zahlreiche Formen von Protisten unabhängig von einander
+entstanden sein; zuerst einzellige, später vielzellige. Durch den
+allgemeinen Kampf um’s Dasein, der auch unter diesen Protisten
+frühzeitig sich geltend machte, werden dieselben allmählich zu höherer
+Sonderung und Vervollkommnung angetrieben worden sein. Als wichtigster
+Vorgang ist da sicher die gegensätzliche Sonderung von thierischen
+und pflanzlichen Lebens-Processen hervorzuheben. Die einen Protisten
+begannen mehr an thierische, die andere an pflanzliche Lebensweise
+sich anzupassen, und mit der Lebensweise in Wechselwirkung entstand
+die charakteristische Körperform. Eine dritte, conservative Gruppe von
+Protisten behielt den ursprünglichen neutralen Character bei. Indem
+jene Anpassungen sich im Laufe der Zeit durch Vererbung befestigten,
+bildeten sich neben einander die drei grossen organischen Reiche aus.
+
+Mit Beziehung auf den Stoffwechsel und die Ernährung würden wir
+freilich sagen können, dass diese ältesten Bewohner unseres Planeten
+~Pflanzen~ waren, — richtiger: Protisten mit pflanzlichem Stoffwechsel;
+Protisten, welche gleich echten Pflanzen aus Wasser, Kohlensäure und
+Ammoniak die wichtigste »Lebens-Basis«, das ~Plasson~, zusammensetzten,
+und dieses Plasson sonderte sich später in Protoplasma und Nucleus.
+
+Die ältesten ~Thiere~ hingegen — oder richtiger: die ältesten Protisten
+mit thierischem Stoffwechsel, waren ~Parasiten~, schmarotzende
+Protisten, welche es bequemer fanden, sich das von anderen Protisten
+gebildete Protoplasma anzueignen, als selbst solches zu bilden.
+Da eben ursprünglich viele Protisten-Stämme sich unabhängig von
+einander entwickelt haben können, von verschiedenen autogonen
+Moneren abstammend, so können auch diese Anpassungen sich mehrmals
+(polyphyletisch) wiederholt haben.
+
+Aber auch wenn wir diese vielstämmige (polyphyletische) Hypothese
+verwerfen und wenn wir mehr zu der einstämmigen (monophyletischen)
+Annahme hinneigen, dass der Ursprung aller lebenden Wesen auf eine
+einzige gemeinsame Stammform zurückgeführt werden muss, auch dann
+werden wir doch im Ganzen wieder zu ähnlichen Vorstellungen über das
+Verhältniss der drei Reiche gelangen. Auch in diesem Falle werden
+wir annehmen müssen, dass jene älteste ursprüngliche Stammform eine
+einfachste Cytode, ein ~Moner~ war, und dass sich aus den Nachkommen
+jenes Moners zunächst einfache ~Zellen~ entwickelten. Diese Zellen
+werden sich wieder in thierische und pflanzliche gesondert haben,
+und so wird sich nach einer Richtung hin das Thierreich, nach einer
+anderen das Pflanzenreich ausgebildet haben, zwei gewaltigen, weit
+verzweigten Stämmen vergleichbar. Aber aus der gemeinsamen Wurzel, in
+der diese beiden grossen Stämme zusammenhängen, haben sich ausserdem
+noch zahlreiche niedere und indifferente Wurzelschösslinge selbständig
+entwickelt; und diese bilden zusammen unser Reich der ~Protisten~.
+
+Gleichviel ob wir dieser einstämmigen oder jener vielstämmigen
+Hypothese den Vorzug geben, so bleibt jedenfalls so viel sicher, dass
+Thierreich und Pflanzenreich nur in ihren vollkommneren Formen sich
+schroff gegenüber stehen, in ihren niederen Formen dagegen durch
+das Protistenreich untrennbar zusammenhängen. Die wissenschaftliche
+Begründung dieser wichtigen Anschauung ist uns erst durch die
+grossartigen Fortschritte der letzten vierzig Jahre möglich geworden.
+Aber mit dem Genius des Propheten hat schon vor siebzig Jahren einer
+unserer tiefblickendsten Naturphilosophen, Deutschlands genialster
+Dichter, dieselbe Anschauung ahnungsvoll ausgesprochen. In Jena schrieb
+~Göthe~ 1806 den merkwürdigen Satz nieder: »Wenn man Pflanzen und
+Thiere in ihrem unvollkommensten Zustande betrachtet, so sind sie kaum
+zu unterscheiden. So viel aber können wir sagen, dass die aus einer
+kaum zu sondernden Verwandtschaft als Pflanzen und Thiere nach und
+nach hervortretenden Geschöpfe nach zwei entgegengesetzten Seiten sich
+vervollkommnen, so dass die Pflanze sich zuletzt im Baume dauernd und
+starr, das Thier im Menschen zur höchsten Beweglichkeit und Freiheit
+sich verherrlicht.«
+
+
+
+
+Bathybius und die Moneren.
+
+
+»Der vielbesprochene Bathybius existirt nicht; seine Annahme beruhte
+auf Täuschungen. So werden auch die übrigen Moneren nicht existiren;
+auch diese angeblichen Urorganismen werden das Erzeugniss irrthümlicher
+Beobachtungen sein. Mithin ist einer der wichtigsten Grundpfeiler der
+modernen Entwickelungslehre gefallen; und so werden auch ihre übrigen
+Stützpfeiler auf Täuschungen und Irrthum gegründet sein. Der ganze
+Darwinismus ist ein grosses Luftschloss, die Selectionstheorie eine
+Seifenblase, und die Abstammungslehre ist überhaupt nicht wahr.«
+
+So ungefähr ist der Gedankengang zahlreicher Artikel, denen wir seit
+einem Jahre in den verschiedensten Zeitschriften begegnen. Einzig und
+allein auf die angebliche Nichtexistenz des ~Bathybius~ gestützt,
+behauptet man kurzweg, dass es überhaupt keine ~Moneren~ gebe, und
+dass damit die ganze Entwickelungslehre den schwersten Stoss erhalten
+habe. Am liebsten wird diese Behauptung natürlich von den Gegnern
+der Entwickelungslehre vorgetragen und in den mannigfaltigsten
+Tonarten variirt. Der Clerus triumphirt bereits über den völligen
+Untergang der Descendenztheorie. Aber selbst bei vielen Anhängern
+der Entwickelungstheorie gilt die Nichtexistenz des Bathybius als
+ausgemacht und es wird daraus eine Reihe von Schlussfolgerungen
+gezogen, die als mehr oder minder gewichtige Einwürfe gegen
+hervorragende Hauptpunkte des Darwinismus Bedenken erregen. Diese
+Umstände, sowie die Unklarheit, in welcher sich der grösste Theil
+des dafür interessirten Publicums über den eigentlichen Thatbestand
+befindet, bestimmt uns, hier die Moneren-Frage mit besonderer Rücksicht
+auf den Bathybius zu erörtern. Ich selbst erscheine zu dieser
+Erörterung insofern besonders berechtigt, ja sogar verpflichtet, als
+ich das zweifelhafte Glück geniesse, bei dem »berüchtigten Urschleim
+der Meerestiefen« Gevatter gestanden zu haben. Als mein Freund ~Thomas
+Huxley~ 1868 ihm bei der Taufe den Namen _Bathybius Haeckelii_
+beilegte, konnte er freilich nicht ahnen, dass der arme Täufling, einem
+Icarus gleich, in kürzester Zeit zu einer biologischen Celebrität
+werden, die Sonnenhöhe irdischer Berühmtheit erlangen und noch vor
+Ablauf seines ersten Decenniums in den dunkeln Hades der Mythologie
+hinabstürzen werde! Sehen wir denn zu, ob er wirklich todt ist, ob
+er überhaupt nicht existirt hat. Und wenn wir wirklich seine bloss
+mythologische Schein-Existenz zugeben müssten, sehen wir weiter zu, was
+daraus für die Moneren folgt!
+
+
+I. Zur Geschichte der Moneren.
+
+Im Frühling des Jahres 1864 beobachtete ich im Mittelmeere bei
+Villafranca unweit Nizza schwimmende, winzige Schleimkügelchen von
+ungefähr einem Millimeter oder einer halben Linie Durchmesser, die mein
+höchstes Interesse erregten. Vorsichtig unter das Mikroskop gebracht,
+erschien nämlich jedes dieser Kügelchen wie ein kleiner Stern, dessen
+Mitte aus einem viel kleineren structurlosen Kügelchen bestand,
+während von der Oberfläche ringsum mehrere Tausend äusserst feine
+Fäden ausstrahlten. Die genaue Untersuchung bei starker Vergrösserung
+lehrte, dass der ganze Körper des sternförmigen Wesens aus einfacher
+eiweissartiger Zellsubstanz, aus ~Sarcode~ oder ~Protoplasma~
+bestehe, und dass die Fäden, welche allenthalben von der Oberfläche
+ausstrahlten, keine beständigen Organe seien, sondern ihre Zahl, Grösse
+und Gestalt beständig änderten. Sie erwiesen sich als ebenso wechselnde
+und unbeständige Fortsätze des centralen Protoplasma-Körpers, wie
+die längst bekannten »Scheinfüsschen oder Pseudopodien«, welche die
+einzigen Organe der Wurzelfüssler oder ~Rhizopoden~ darstellen. Während
+aber bei diesen Letzteren Zellkerne im Protoplasma zerstreut sind
+und ihr Körper somit den Formwerth von einer oder mehreren Zellen
+besitzt, ist das bei jenen in Nizza beobachteten Protoplasma-Kügelchen
+nicht der Fall. Im Uebrigen war kein Unterschied hier und dort zu
+finden bezüglich der Bewegungsform der fliessenden Schleimfäden und
+der Art und Weise, in welcher dieselben als Tastorgane zum Empfinden,
+als Contractionsorgane zum Kriechen, und als Ernährungsorgane zur
+Nahrungsaufnahme benutzt wurden. Um die Naturgeschichte des kleinen
+Protaplasmakügelchens von Nizza, das ich auf das Genaueste untersuchte,
+zu vervollständigen, fehlte es nur noch an der Beobachtung seiner
+Fortpflanzung. Auch diese glückte schliesslich. Nach einiger Zeit
+zerfiel das kleine Wesen durch einfache Theilung in zwei Hälften, von
+denen jede ihr eignes Leben in derselben Weise weiterführte, wie
+das erstere. Ich hatte somit den vollständigen Lebenscyclus eines
+denkbar einfachsten Organismus erkannt, und nannte denselben in
+Anerkennung seiner fundamentalen Bedeutung _Protogenes primordialis_,
+den »Erstgebornen der Urzeit«. Seine genaue Beschreibung gab ich im
+XV. Bande der Zeitschrift für wissenschaftliche Zoologie (S. 360, Taf.
+XXVI., Fig. 1, 2).
+
+Schon im folgenden Jahre wurden zwei verschiedene, dem Protogenes
+sehr ähnliche, höchst einfache Organismen von dem ausgezeichneten
+Mikroskopiker ~Cienkowski~ beschrieben. Im ersten Bande des Archivs
+für mikroskopische Anatomie (S. 203, Taf. XII.-XIV.) veröffentlichte
+derselbe sehr interessante »Beiträge zur Kenntniss der Monaden.«
+Unter den verschiedenen Protisten, die ~Cienkowski~ hier unter dem
+alten, vieldeutigen und daher sehr unsicheren Begriffe der »Monaden«
+zusammenfasst, befinden sich zwei mikroskopische Bewohner des süssen
+Wassers, welche in der vollkommen einfachen und structurlosen
+Beschaffenheit ihres kernlosen, strahlenden Protoplasma-Körpers dem
+Protogenes gleichen, die Gattungen ~Protomonas~ (_Monas amyli_) und
+~Vampyrella~ (letztere mit drei verschiedenen Arten). Sie unterscheiden
+sich aber von dem ersteren durch die Art und Weise ihrer Fortpflanzung.
+Während der Protogenes, nachdem er durch Wachsthum ein gewisses
+Grössenmaass erreicht hat, dieses nicht weiter überschreitet, sondern
+ohne Weiteres in zwei Stücke zerfällt, ziehen Protomonas und Vampyrella
+ihre Strahlen ein und gehen in einen Ruhestand über, in welchem sich
+die kleine Protoplasmakugel einkapselt oder encystirt, mit einer
+Hülle (»Cyste«) umgiebt. Innerhalb dieser kleinen Hülle zerfällt die
+Protomonas in sehr zahlreiche Kügelchen, die Vampyrella in vier Stücke
+(Tetrasporen). Alle diese Theilstücke werden später frei und entwickeln
+sich durch einfaches Wachsthum zu der reifen Form.
+
+Inzwischen hatte ich selbst eine vierte ähnliche Gattung von höchst
+einfachen Organismen im süssen Wasser bei Jena beobachtet, welche einer
+gewöhnlichen Amoebe ganz gleich sich verhält, aber von dieser letzteren
+durch den Mangel eines Zellkerns und einer contractilen Blase sich
+unterscheidet. Ich nannte sie daher _Protamoeba primitiva_. Während
+bei den drei ersterwähnten Schleimkügelchen (Protogenes, Protomonas,
+Vampyrella) überall zahlreiche Fäden aus der Oberfläche des centralen
+Protoplasma-Körpers ausstrahlen, sehen wir statt deren bei Protamoeba
+— ganz wie bei der gewöhnlichen Amoeba — wenige kurze, fingerförmige
+Fortsätze sich ausstrecken, welche ihre Gestalt beständig ändern; sie
+werden eingezogen und an einer andern Stelle wieder vorgestreckt.
+Hat die Protamoeba durch Nahrungsaufnahme (die ebenfalls wie bei
+Amoeba erfolgt) eine gewisse Grösse erreicht, so zerfällt sie durch
+Theilung in zwei Hälften. Ich machte die erste Mittheilung darüber
+in meiner »generellen Morphologie« (Bd. I. S. 133). Später habe ich
+von Protamoeba primitiva Abbildungen gegeben, welche u. A. in die
+»Natürliche Schöpfungsgeschichte« (VI. Aufl. S. 167) und in die
+»Anthropogenie« (III. Aufl. S. 414) aufgenommen sind.
+
+Gestützt auf diese Beobachtungen, die späterhin durch die
+Untersuchungen anderer Forscher, wie durch meine eigenen noch
+beträchtlich erweitert wurden, gründete ich 1866 in der »Generellen
+Morphologie« für alle diese Organismen von einfachster Beschaffenheit
+eine besondere Classe unter dem Namen der ~Moneren~, d. h. der
+»~Einfachen~«. Im ersten Bande (S. 135) sagte ich damals:
+
+»Um diese einfachsten und unvollkommensten aller Organismen, bei denen
+wir weder mit dem Mikroskop, noch mit den chemischen Reagentien irgend
+eine Differenzirung des homogenen Plasmakörpers nachzuweisen vermögen,
+von allen übrigen, aus ungleichartigen Theilen zusammengesetzten
+Organismen bestimmt zu unterscheiden, wollen wir sie ein für allemal
+mit dem Namen der »Einfachen« oder »Moneren« belegen. Gewiss dürfen wir
+auf diese höchst interessanten, bisher aber fast ganz vernachlässigten
+Organismen besonders die Aufmerksamkeit hinlenken und auf ihre
+äusserst einfache Formbeschaffenheit bei völliger Ausübung aller
+wesentlichen Lebensfunctionen das grösste Gewicht legen, wenn es gilt,
+~das Leben zu erklären~, es aus der fälschlich sogenannten »~todten
+Materie~« abzuleiten, und die übertriebene Kluft zwischen Organismen
+und Anorganen auszugleichen. Indem bei diesen homogenen belebten
+Naturkörpern von differenten Formbestandtheilen, von »Organen«, noch
+keine Spur zu entdecken ist, vielmehr alle Moleküle der structurlosen
+Kohlenstoffverbindung, des lebendigen Eiweisses, in gleichem Maasse
+fähig erscheinen, sämmtliche Lebensfunctionen zu vollziehen, liefern
+sie klar den Beweis, dass der Begriff des Organismus nur dynamisch
+oder physiologisch aus den Lebensbewegungen, nicht aber statisch
+oder morphologisch aus der Zusammensetzung des Körpers aus »Organen«
+abgeleitet werden kann.«
+
+In den folgenden Jahren wurde der Kreis unserer Erfahrungen über
+diese wunderbaren »Organismen ohne Organe« wesentlich erweitert. Auf
+meiner Reise nach den canarischen Inseln (1866 und 1867) richtete
+ich natürlich meine ganze Aufmerksamkeit auf dieselben und war denn
+auch so glücklich, noch mehrere neue Moneren-Formen zu entdecken. Auf
+den weissen Kalkschalen, eines merkwürdigen Cephalopoden (_Spirula
+Peronii_), die zu Tausenden an den Küsten der canarischen Inseln
+angetrieben zu finden sind, bemerkte ich zuweilen zahlreiche rothe
+Pünktchen, welche sich unter der Lupe als zierliche Sternchen und
+bei starker Vergrösserung als orangerothe Protoplasma-Scheiben oder
+-Kugeln zu erkennen gaben, von deren Umfange zahlreiche baumförmig
+verästelte Fäden ausstrahlten. Die genauere Untersuchung zeigte, dass
+auch diese (verhältnissmässig colossalen) Protoplasma-Körper kernlos
+und structurlos waren und sich in ähnlicher Weise wie Protomonas
+fortpflanzten, nämlich dadurch, dass der kugelig zusammengezogene
+und eingekapselte Körper in zahlreiche kleine Stücke zerfiel. Ich
+nannte diese interessante neue Moneren-Gattung _Protomyxa aurantiaca_
+und habe sie zuerst auf Taf. I. der »Natürl. Schöpfungsgeschichte«
+abgebildet. Eine ähnliche stattliche Monerenform entdeckte ich sodann
+in demselben Jahre (1867) im Schlamme des Hafenbeckens von Puerto
+del Arrecife, der Hafenstadt der canarischen Insel Lanzarote, und
+bezeichnete sie als _Myxastrum radians_. Sie ist dadurch ausgezeichnet,
+dass die Theilstücke oder Sporen, in welche der kugelige Körper bei der
+Fortpflanzung zerfällt, sich radial gegen den Mittelpunkt der Kugel
+ordnen und spindelförmige Kieselhüllen ausschwitzen, aus denen später
+das junge Moner ausschlüpft.
+
+Gestützt auf alle diese Beobachtungen, veröffentlichte ich 1868 in
+der »Jenaischen Zeitschrift für Naturwissenschaft« eine ausführliche
+~Monographie der Moneren~. (Bd. IV, S. 64, Taf. II. und III). Hier sind
+alle eigenen und fremden Beobachtungen ausführlich zusammengestellt
+und erläutert. Es ergaben sich damals sieben verschiedene Gattungen
+von Moneren. Durch spätere Beobachtungen ist die Zahl der Arten auf
+16 gesteigert worden, worüber ich in den »Nachträgen zur Monographie
+der Moneren« berichtet habe (Jenaische Zeitschr. für Naturw. 1877. Bd.
+VI. S. 23). Die Unterschiede aller dieser Moneren beruhen nur darauf,
+dass die weiche, schleimige Körpermasse in verschiedener Form sich
+ausbreitet und bewegt, und dass die ungeschlechtliche Fortpflanzung
+(durch Theilung, Sporenbildung u. s. w.) auf verschiedene Weise
+geschieht.
+
+
+II. Zur Geschichte des Bathybius.
+
+Das hohe Interesse, das die Moneren in morphologischer sowohl, als
+physiologischer Beziehung darbieten, wurde noch gesteigert, als
+1868 der erste Zoologe Englands, der berühmte ~Thomas Huxley~, eine
+neue, ganz eigenartige Moneren-Gattung unter dem Namen ~Bathybius
+Haeckelii~ beschrieb (Journal of microscop. science, Vol. VIII, N.
+S. p. 1, Pl. IV). Abweichend von den übrigen Moneren sollte dieser
+~Bathybius~ eigenthümlich geformte mikroskopische Kalkkörperchen
+einschliessen: ~Coccosphaeren~ und ~Coccolithen~ (~Discolithen~ und
+~Cyatholiten~); die formlosen Protoplasma-Klumpen desselben aber, von
+sehr verschiedener Grösse, sollten in ungeheuren Massen die tiefsten
+Abgründe des Meeres bedecken, unterhalb 5000 Fuss bis zu 25000 Fuss
+hinab. Mit diesem formlosen Ur-Organismus einfachster Art, der zu
+Milliarden vereinigt den Meeresboden mit einer lebendigen Schleimdecke
+überzieht, schien ein neues Licht auf eine der schwierigsten und
+dunkelsten Fragen der Schöpfungsgeschichte zu fallen, auf die Frage
+von der ~Urzeugung~, von der ersten Entstehung des Lebens auf unserer
+Erde. Mit dem ~Bathybius~ schien der berüchtigte »~Urschleim~« gefunden
+zu sein, von dem ~Oken~ vor einem halben Jahrhundert prophetisch
+behauptet hatte, dass alles Organische aus ihm hervorgegangen, und dass
+er im Verfolge der Planeten-Entwickelung aus anorganischer Materie im
+Meeresgrunde entstanden sei.
+
+Der Tiefseeschlamm, welcher die ~Bathybius~-Massen enthält, wurde
+zuerst bei Gelegenheit der grossartigen Tiefgrund-Untersuchungen
+entdeckt, die seit dem Jahre 1857 behufs Legung des transatlantischen
+Telegraphen-Kabels angestellt wurden. Man fand schon damals das
+»atlantische Telegraphen-Plateau«, jene mächtige Tiefsee-Ebene, welche
+sich in einer durchschnittlichen Tiefe von 12,000 Fuss von Irland bis
+Neufundland erstreckt, allenthalben mit einem eigenthümlichen, grauen,
+äusserst feinpulverigen Schlamme bedeckt: Derselbe zeichnete sich
+durch zähe, klebrige Beschaffenheit aus und zeigte bei mikroskopischer
+Untersuchung Massen von kleinen kalkschaligen Rhizopoden, insbesondere
+Globigerinen, und ferner, als Hauptbestandtheile, die sehr kleinen,
+als Coccolithen bezeichneten Kalkkörperchen. Aber erst elf Jahre
+später, als ~Huxley~ 1868 mittelst eines sehr scharfen Mikroskopes
+eine erneute genaue Untersuchung desselben Schlammes, auch in
+chemischer Beziehung, vornahm, entdeckte er darin die nackten,
+freien, formlosen Protoplasma-Klumpen, welche neben den genannten
+Theilen die Hauptmasse des Schlammes bilden. »Diese Klumpen sind von
+allen Grössen, von Stücken, die mit blossem Auge sichtbar sind bis
+zu äusserst kleinen Partikelchen. Wenn man sie der mikroskopischen
+Analyse unterwirft, zeigen sie — eingebettet in eine durchsichtige,
+farblose und strukturlose ~Matrix~ — Körnchen, Coccolithen und zufällig
+hineingerathene fremde Körper.«
+
+~Lebender Bathybius~ wurde zuerst 1868 von Sir ~Wyville Thomson~
+und Professor ~William Carpenter~, zwei ebenso erfahrenen
+als scharfsichtigen Zoologen, während ihrer nordatlantischen
+Tiefsee-Expedition auf dem Kriegsschiffe »Porcupine« beobachtet. Sie
+berichten über den frisch heraufgeholten lebendigen Tiefsee-Schlamm:
+»Dieser ~Schlamm war wirklich lebendig; er häufte sich in Klumpen
+zusammen~, als ob Eiweiss beigemischt wäre; und unter dem Mikroskope
+erwies sich die klebrige Masse als ~lebende Sarcode~.« (Annals and
+magaz. of nat. hist. 1869, Vol. IV, p. 151). Ferner sagt Sir ~Wyville
+Thomson~ in seinem höchst interessanten Werke über die Meerestiefen
+(The depths of the Sea II. Edit. 1874. p. 410): »In diesem Schlamm
+(Globigerinen-Schlamm aus 2,435 Faden oder ca. 14,600 Fuss Tiefe,
+aus der Bay von Biscaya), wie in den meisten anderen Schlamm-Proben
+aus dem atlantischen Ocean-Bett, war eine beträchtliche Quantität
+einer weichen, gallertigen, organischen Materie nachweisbar, genug,
+um dem Schlamme eine gewisse Klebrigkeit zu geben. Wenn der Schlamm
+mit schwachem Weingeist geschüttelt wurde, fielen feine Flocken
+nieder, wie von geronnenem Schleime; und wenn ein wenig von demjenigen
+Schlamme, an welchem die klebrige Beschaffenheit am deutlichsten
+hervortritt, in einem Tropfen Seewasser unter das Mikroskop gebracht
+wird, können wir gewöhnlich nach einiger Zeit ein unregelmässiges
+Netzwerk von eiweissartiger Materie sehen, unterscheidbar durch seine
+bestimmten Umrisse und nicht mit Wasser mischbar. Man kann sehen, wie
+dieses Netzwerk seine Form allmählig ändert und die eingeschlossenen
+Körnchen und fremden Körper ihre relative Lage darin verändern. ~Die
+Gallert-Substanz ist daher eines gewissen Grades von Bewegung fähig,
+und es kann kein Zweifel sein, dass sie die Erscheinungen einer sehr
+einfachen Lebensform zeigt.~« So wörtlich Sir ~Wyville Thomson~ (a. a.
+O. S. 411).
+
+Meine eigenen Untersuchungen des ~Bathybius~-Schlammes betrafen,
+ebenso wie diejenigen von ~Huxley~, nur todtes, in Weingeist
+conservirtes Material. Das Fläschchen, in welchem ich denselben von
+den Far-Oer-Inseln zugesandt erhielt, trug die Aufschrift »Dredged
+of Professor Thomson und Dr. Carpenter with the Steamer Porcupine
+on 2435 fathoms. 22. July 1869. Lat. 47° 38'. Long. 12° 4'.« Es war
+also dieser ~Bathybius~-Schlamm derselbe, an welchem die genannten
+Forscher ihre Beobachtungen über amoeboide Bewegungen angestellt
+hatten. Die Resultate meiner Untersuchung habe ich ausführlich in
+meinen »~Beiträgen zur Plastiden-Theorie~« mitgetheilt (2. Bathybius
+und das freie Protoplasma der Meerestiefen. Jen. Zeitschr. für Naturw.
+1870. Bd. V. S. 499. Taf. XVII.) Die 80 Figuren, welche ich daselbst
+(auf Taf. XVII) von den verschiedenen formlosen Protoplasma-Stücken
+des Bathybius und den geformten Kalkkörperchen, die er einschliesst,
+gegeben habe, sind bei sehr starker Vergrösserung mit Hülfe der Camera
+lucida ganz genau gezeichnet. Einige dieser Figuren sind auch in den
+Aufsatz über »das Leben in den grössten Meerestiefen« übergegangen,
+welchen ich 1870 in Virchow-Holzendorff’s Sammlung publicirt habe. (Nr.
+110).
+
+Indem ich diesen, in starkem Alkohol sehr gut conservirten
+Bathybius-Schlamm mit Hülfe der neuesten Methoden möglichst genau
+untersuchte, und namentlich die vortheilhafte (von ~Huxley~ früher
+nicht angewandte) Methode der Färbung mit Carmin und Jod übte,
+suchte ich vor Allem die Quantität und Qualität der formlosen
+Protoplasma-Stücke näher zu bestimmen, die überall in Masse zwischen
+den geformten Kalktheilchen sich vorfanden. Diese eiweissartigen,
+durch Carmin roth gefärbten Stücke waren sehr gleichmässig durch den
+ganzen Schlamm verbreitet und schienen in den meisten untersuchten
+Proben mindestens ein Zehntel bis ein Fünftel des gesammten Volums
+zu betragen, in manchen Präparaten selbst die grössere Hälfte.
+Dieselben Massen, welche durch Carmin sich mehr oder minder intensiv
+roth färbten, nahmen durch Jod — und ebenso durch Salpetersäure —
+eine gelbe Färbung an und zeigten auch im Verhalten gegen andere
+chemische Reagentien ganz dieselben Eigenschaften, wie das gewöhnliche
+Protoplasma der Thier- und Pflanzenzellen. Die Form der meisten
+Stückchen war unregelmässig, rundlich oder mit stumpfen Fortsätzen,
+einer Amoebe ähnlich; andere Stückchen bildeten unregelmässige, kleine
+und grössere Sarcode-Netze, ähnlich denen der Myxomyceten.
+
+Ob die kleinen geformten Kalktheilchen, die Coccolithen und
+Coccosphären, welche in so grossen Massen im Bathybius-Schlamme
+vorkommen, — und zwar ebenso wohl zwischen den Protoplasma-Stückchen,
+als innerhalb derselben, von ihnen umschlossen, — wirklich zu
+ihnen gehören, oder nicht, diese Frage musste ich um so mehr offen
+lassen, als ich schon vorher ganz ähnliche Kalkkörperchen in dem
+Körper mehrerer pelagischen, an der Oberfläche des canarischen
+Meeres schwimmenden Radiolarien gefunden hatte (»_Myxobracchia_ von
+Lanzerote«). Diese sonderbaren Kalkkörperchen, welche bald die Gestalt
+einer einfachen, concentrisch geschichteten Scheibe, bald eines
+Hemdknöpfchens, bald einer aus vielen Scheibchen zusammengesetzten
+Kugel u. s. w. hatten, konnten ebensowohl Ausscheidungen der
+Bathybius-Sarcode sein, als fremde Körper, die zufällig (oder bei der
+Nahrungsaufnahme) in das Protoplasma hinein gelangt waren. In neuester
+Zeit hat sich die grössere Wahrscheinlichkeit zu Gunsten der letzteren
+Annahme herausgestellt und die meisten Biologen nehmen jetzt an, dass
+alle diese Körperchen mikroskopische ~Kalk-Algen~ seien, verkalkte
+einzellige Pflanzen.
+
+Durch diese Untersuchungen, die von mehreren anderen Forschern
+bestätigt wurden, schien festgestellt, dass auf dem Boden des
+nordatlantischen Oceans, und zwar in Tiefen zwischen 5000 und 25000
+Fuss, ein feinpulveriger Schlamm sich findet, welcher u. A. grosse
+Mengen einer eigenthümlichen, noch kaum individualisirten Moneren-Art
+enthält. Der Fehler, den wir nun begingen, bestand darin, dass
+wir die Resultate dieser nordatlantischen Tiefsee-Untersuchungen
+allzurasch generalisirten und überall den Boden des tiefen Oceans mit
+ähnlichen Moneren bedeckt zu sehen erwarteten. Diese Erwartung wurde
+vollständig getäuscht. Die sehr genaue und umfassende Untersuchung der
+grossartigen ~Challenger~-Expedition, welche in 3½ Jahren die Erde
+umkreiste und in den Tiefen der verschiedenen Oceane sorgfältig nach
+dem Bathybius suchte, hat ihn nirgends wiedergefunden und erzielte
+nur negative Resultate. Wir haben keinen Grund, in die Sorgfalt und
+Genauigkeit der ausgezeichneten Naturforscher der bewunderungswürdigen
+Challenger-Expedition irgend einen Zweifel zu setzen, um so weniger,
+als ja der vorzügliche Director derselben, ~Sir Wyville Thomson~ selbst
+zuerst die Bewegungen am lebenden Bathybius wahrgenommen hatte. Wir
+müssen also wohl annehmen, dass an den vom Challenger untersuchten
+Stellen des tiefen Meeresbodens die Bathybius-Moneren wirklich fehlten.
+Folgt aber daraus, dass alle jene früheren Beobachtungen und Schlüsse
+unrichtig waren?
+
+Wie es sehr häufig in solchen Fällen zu gehen pflegt, so ging
+auch jetzt plötzlich die einseitig übertriebene Ansicht in das
+entgegengesetzte Extrem über. Vorher hatte man gehofft, ~überall~ im
+Schlamme des tiefen Meeresbodens die Protoplasma-Klumpen des Bathybius
+in Masse zu finden; jetzt wollte man sie mit einem Male ~nirgends~
+mehr anerkennen. Insbesondere glaubte man sich zu der Annahme
+berechtigt, der früher in Weingeist untersuchte Bathybius-Schlamm
+sei weiter nichts, als ein feiner Gypsniederschlag, wie er überall
+bei der Mischung von Weingeist mit Seewasser entsteht. Diese Ansicht
+wurde zuerst von einigen Naturforschern der Challenger-Expedition
+ausgesprochen und daraufhin widerrief Professor ~Huxley~ — wie mir
+scheint, zu frühzeitig — seine frühere Ansicht vom Bathybius. In der
+»~Nature~« (vom 19. Aug. 1875) und im »Quarterly Journal of microscop.
+science« (1875, Vol. XV. p. 392) sagt derselbe wörtlich: »Professor
+~Wyville Thomson~ theilt mir mit, dass die besten Bemühungen der
+Challenger-Forscher, lebenden Bathybius zu entdecken, fehlschlugen,
+und dass ernstlich vermuthet wird, das Ding, dem ich diesen Namen gab,
+sei wenig mehr als schwefelsaurer Kalk, in flockigem Zustande aus
+dem Seewasser durch den starken Alkohol niedergeschlagen, in welchem
+der Tiefseeschlamm aufbewahrt wurde. Das Sonderbare ist aber, dass
+dieser unorganische Niederschlag ~kaum von einem Eiweissniederschlag
+zu unterscheiden ist~, und er gleicht, vielleicht noch mehr, dem
+keimführenden Häutchen an der Oberfläche fauliger Aufgüsse, das
+sich unregelmässig, aber sehr stark, mit Carmin färbt, Stücke von
+bestimmtem Umriss bildet und in jeder Weise sich wie ein organisches
+Ding verhält. ~Professor Thomson spricht sehr vorsichtig und sieht
+das Schicksal des Bathybius noch nicht als ganz entschieden an.~ Aber
+da ich hauptsächlich für den eventuellen Irrthum verantwortlich bin,
+diese merkwürdige Substanz in die Reihe der lebenden Wesen eingeführt
+zu haben, so glaube ich richtiger zu verfahren, wenn ich seiner oben
+mitgetheilten Ansicht grösseres Gewicht beilege, als er selbst.«
+
+Dies sind die Worte des Professor ~Huxley~, welche so grosses Aufsehen
+erregten, und nach weit verbreiteter Ansicht dem armen Bathybius
+den Todesstoss versetzt haben. Je mehr aber hier die eigentlichen
+Eltern des Bathybius sich geneigt zeigen, ihr Kind als hoffnungslos
+aufzugeben, desto mehr fühle ich mich als Taufpathe verpflichtet,
+seine Rechte zu wahren und womöglich sein erlöschendes Lebensfünkchen
+wieder zur Geltung zu bringen. Und da finde ich denn glücklicherweise
+einen werthvollen Bundesgenossen in einem vielgereisten deutschen
+Naturforscher, der erst in neuerer Zeit wieder ~lebenden Bathybius~,
+und zwar an der Küste von Grönland, beobachtet hat. Der bekannte
+Nordpolfahrer Dr. ~Emil Bessels~ aus Heidelberg, der von dem
+Schiffbruche der Polaris glücklich zurückkehrte, macht bei Gelegenheit
+seiner Beschreibung der ~Haeckelina gigantea~ (eines colossalen
+Rhizopoden, der vielleicht mit der früher von ~Sandahl~ beschriebenen
+~Astrorhiza~ identisch ist) folgende wichtige Angaben: »Während der
+letzten amerikanischen Nordpol-Expedition fand ich in 92 Faden Tiefe
+in dem Smith-Sunde grosse Massen von freiem undifferenzirtem homogenem
+Protoplasma, welches auch keine Spur der wohlbekannten Coccolithen
+enthielt. Wegen seiner wahrhaft spartanischen Einfachheit nannte ich
+diesen Organismus, den ich lebend beobachten konnte, ~Protobathybius~.
+Derselbe wird in dem Reisewerk der Expedition abgebildet und
+beschrieben werden. Ich will hier nur erwähnen, dass diese ~Massen
+aus reinem Protoplasma~ bestanden, dem nur zufällig Kalktheilchen
+beigemischt waren, aus welchen der Seeboden gebildet ist. Sie stellten
+~äusserst klebrige, maschenartige Gebilde dar, die prächtige amoeboide
+Bewegungen ausführten, Carminpartikelchen sowie andere Fremdkörper
+aufnahmen und lebhafte Körnchenströmung zeigten~. (Jenaische Zeitschr.
+f. Naturw. 1875. Bd. IX., S. 277. Vgl. auch: Annual Report of the
+Secret. of the navy for 1873). An einem anderen Orte, in den von
+~Packard~ publicirten »Life histories of animals« (New-York, 1876 p.
+3) ist eine Abbildung der Protoplasma-Netze des ~Protobathybius~ von
+Dr. ~Bessels~ publicirt. Hiernach möchte ich annehmen, dass derselbe
+von unserm echten Bathybius nicht verschieden ist. Der Unterschied,
+dass letzterer gewöhnlich viele geformte Kalkkörperchen (Coccolithen
+etc.) umschliesst, der erstere dagegen nicht, verliert seine Bedeutung
+durch die immer wachsende Wahrscheinlichkeit, dass diese Kalkkörperchen
+einzellige, als Nahrung aufgenommene Kalkalgen sind.«
+
+
+III. Zur Kritik des Bathybius.
+
+Nachdem wir jetzt die historischen Angaben über den Bathybius
+zusammengetragen und die wichtigsten wörtlich angeführt haben, wenden
+wir uns zur Kritik desselben. Versuchen wir, aus einer unpartheiischen
+Würdigung jener Angaben uns ein selbständiges unbefangenes Urtheil
+über den vielverschrieenen und jetzt fast aufgegebenen Urschleim der
+grössten Meerestiefen zu bilden!
+
+Bezüglich des ~todten Bathybius~, des in Weingeist conservirten
+Tiefseeschlammes aus dem nord-atlantischen Ocean, sind alle Beobachter,
+die denselben genau untersucht haben, einig, dass derselbe mehr oder
+minder ansehnliche Mengen von geronnenem ~Protoplasma~ enthält, welches
+im morphologischen und chemisch-physikalischen Verhalten die grösste
+Aehnlichkeit mit gewissen Moneren besitzt. Die Resultate, welche
+~Huxley~ an seinem »Porcupine«-Material erhielt, und die ich selbst
+bestätigen und ergänzen konnte, sind von allen anderen Beobachtern, die
+denselben Schlamm untersuchten, als richtig anerkannt worden.
+
+Bezüglich des ~lebenden Bathybius~ liegen ~positive~ Angaben über
+die characteristischen rhizopodenartigen Bewegungen desselben von
+drei bewährten Beobachtern vor, von ~Sir Wyville Thomson~, Professor
+~William Carpenter~ und Dr. ~Emil Bessels~. Alle drei stellten
+diese Beobachtungen an Tiefseeschlamm aus dem nord-atlantischen
+Ocean an. Dagegen lieferten die Bemühungen der Challenger-Forscher,
+in verschiedenen Meeren jene älteren Beobachtungen über
+Bewegungs-Erscheinungen zu wiederholen und zu bestätigen, nur
+~negative~ Resultate.
+
+Was folgt nun aus allen diesen Angaben, denen wir sämmtlich dieselbe
+Glaubwürdigkeit zuerkennen müssen, und die sich doch theilweise
+zu widersprechen scheinen? Angenommen, dass alle diese Angaben
+richtig sind, so folgt daraus einfach weiter gar nichts, als dass
+der ~Bathybius-Schlamm eine beschränkte geographische Verbreitung
+besitzt~, und dass es eine voreilige Verallgemeinerung war, alle
+tiefen Meeres-Abgründe mit demselben zu bevölkern. Daraus aber, dass
+die Challenger-Expedition den lebenden Bathybius nicht wiederfinden
+konnte, ist doch wahrlich nicht zu folgern, dass die ~an anderen
+Orten~ angestellten Beobachtungen der Porcupine-Expedition über
+lebenden Bathybius unrichtig waren! Oder sollen wir daraus, dass die
+Challenger-Expedition den merkwürdigen »Radiolarien-Schlamm« nur auf
+einen verhältnissmässig engen Verbreitungsbezirk des pacifischen Oceans
+beschränkt fand, und sonst nirgends wiederfinden konnte, den Schluss
+ziehen, dass derselbe überhaupt nicht existire? Wir wissen, dass die
+allermeisten Organismen-Arten einen beschränkten Verbreitungs-Bezirk
+haben. Warum soll denn nicht auch die Verbreitung des Bathybius
+beschränkt sein?
+
+Ich bekenne daher, nicht zu begreifen, wie ~Huxley~ seine Ansicht über
+den Bathybius so rasch und so vollständig ändern konnte. Noch viel
+weniger freilich begreife ich die Art und Weise, wie auf der deutschen
+Naturforscher-Versammlung in Hamburg (im September 1876) der Bathybius
+öffentlich zu Grabe getragen werden konnte. Ich finde darüber in der
+Berliner Nationalzeitung folgende merkwürdige Mittheilung (datirt
+Hamburg 21. September), betreffend einen von Professor ~Möbius~ aus
+Kiel gehaltenen trefflichen Vortrag über die marine Fauna und die
+Challenger-Expedition: »Ueber diese Ebenen — Tiefsee-Ebenen von 3700
+bis 4000 Meter Tiefe — sollte sich der geheimnissvolle Urschleim,
+der Bathybius ausbreiten, den der berühmte ~Huxley~ zu Ehren seines
+genialen Freundes in Jena ~Bathybius Haeckelii~ genannt hat. Leider
+aber passirte der Naturforschung ein böses Missgeschick. Der Bathybius,
+der so gut zu den modernen Anschauungen von dem Beginne des organischen
+Lebens passte, erwies sich als ein Kunstproduct, als Niederschlag von
+im Meere gelöstem Gyps, in Folge des den Proben zugesetzten Alkohols.
+Ueberall wo man die frischen Proben an Bord untersuchte, war keine
+Spur von ihm zu entdecken. Es machte einen geradezu erschütternden
+Eindruck auf die Zuhörer, als Herr ~Möbius~ den Bathybius nach einem
+so einfachen Recepte vor ihren Augen in einem mit Meerwasser gefüllten
+Glase durch Alkohol-Zusatz erscheinen liess!«
+
+In der That eine merkwürdige Logik! Weil Weingeist in Seewasser einen
+Gyps-Niederschlag erzeugt, deshalb ist der in Weingeist conservirte
+Bathybius-Schlamm nur ein Gyps-Niederschlag! Und diese Beweisführung
+machte auf alle Mitglieder einer deutschen Naturforscher-Versammlung
+»einen geradezu erschütternden Eindruck!« Dass starker Weingeist in
+Seewasser einen dünnen flockigen Gyps-Niederschlag erzeugt, weiss
+Jeder, der Seethiere in Weingeist gesammelt hat. Ebenso weiss aber
+auch Jeder, der den Bathybius-Schlamm der Porcupine-Expedition gleich
+~Huxley~ und mir genau untersucht hat, dass die darin massenhaft
+enthaltenen moneren-artigen Eiweisskörper wirklich aus einem
+~eiweissartigen~ Körper und ~nicht aus Gyps~ bestehen. Sie färben
+sich in Carmin roth, in Salpetersäure und in Jod gelb, werden durch
+concentrirte Schwefelsäure zerstört und geben alle übrigen Reactionen
+des ~Protoplasma~, was bekanntlich beim Gyps nicht der Fall ist.
+
+Wenn man gewisse Kreide-Arten oder kreidigen Mergel fein pulverisirt,
+so erhält man ein feinkörniges, weisses Mehl, welches zum Verwechseln
+dem merkwürdigen »Radiolarien-Schlamm« ähnlich ist, den die
+Challenger-Expedition in einem beschränkten Bezirke des Pacifischen
+Oceans (und ~nur hier~!) in einer Tiefe von 12,000–26,000 Fuss Tiefe
+gefunden hat. Dieser »Radiolarien-Ooze«, den ich eben jetzt untersuche,
+besteht fast ausschliesslich aus den zierlichsten und mannigfaltigst
+geformten Kieselschalen von zahllosen Radiolarien. Mit blossem Auge
+aber ist dieser getrocknete Schlamm — ein wundervolles, mikroskopisches
+Radiolarien-Museum — nicht zu unterscheiden von jenem pulverisirten
+Kreide-Mergel, der nicht eine einzige Radiolarien-Schale enthält. Ich
+schlage nun vor, auf einer nächsten deutschen Naturforscher-Versammlung
+den experimentellen Beweis zu führen, dass jene colossalen und
+höchst merkwürdigen, vom Challenger entdeckten Radiolarien-Lager in
+den Tiefen des Pacifischen Oceans nicht existiren. »Das Recept ist
+höchst einfach.« Man zerstösst in einem Mörser vor den Augen der
+versammelten Naturforscher einen von jenen Kreide-Mergeln, die keine
+Radiolarien enthalten. Das so erhaltene weisse Pulver enthält kein
+einziges Radiolar — also auch der pacifische (blos aus Radiolarien
+bestehende) Tiefsee-Schlamm nicht — denn beide sind mit blossem Auge
+nicht zu unterscheiden. Quod erat demonstrandum! Wir sind überzeugt,
+das schlagende Experiment wird auf alle Zuschauer »einen geradezu
+erschütternden Eindruck machen« — und der Radiolarien-Schlamm existirt
+nicht mehr!
+
+
+IV. Zur Kritik der Moneren.
+
+Wir glauben in Vorstehendem gezeigt zu haben, dass die »Nicht-Existenz
+des Bathybius nicht erwiesen« ist. Vielmehr bleibt es sehr
+wahrscheinlich, dass die Beobachtungen von ~Wyville Thomson~,
+~Carpenter~ und ~Emil Bessels~ über die Bewegungen des lebenden
+Bathybius richtig sind. Wir wollen nun aber einmal das Gegentheil
+annehmen und wollen zugeben, dass Bathybius kein Moner und überhaupt
+kein Organismus sei. Folgt daraus, — wie jetzt sehr oft gefolgert
+wird, — dass auch die ~Moneren überhaupt nicht existiren~? Oder dürfen
+wir daraus, dass die bekannte Riesen-Seeschlange der Fabel nicht
+existirt, den Schluss ziehen, dass es überhaupt keine Seeschlangen
+giebt? Bekanntlich giebt es deren eine Menge, die Familie der lebendig
+gebärenden, sehr giftigen Hydrophiden (Hydrophis, Platurus, Aepysurus
+etc.), welche meistens im indischen Ocean und Sunda-Archipel leben,
+aber keine beträchtliche Grösse erreichen.
+
+Es würde unnütz sein, hier nochmals darauf hinzuweisen, dass meine
+eigenen, viele Jahre speciell auf diesen Gegenstand gerichteten und
+möglichst sorgfältigen Untersuchungen die Existenz von mehr als einem
+Dutzend verschiedener Moneren-Arten theils im Süsswasser, theils
+im Meere nachgewiesen haben. Um so mehr will ich aber hervorheben,
+dass diese Beobachtungen seitdem von einer Anzahl bewährter
+Forscher wiederholt und bestätigt worden sind. Einige von diesen
+Moneren scheinen sogar im süssen Wasser sehr verbreitet zu sein,
+so namentlich die Gattungen Protamoeba und Vampyrella. _P. agilis_
+und _V. spirogyrae_ kommen in Jena fast jeden Sommer gelegentlich
+zur Beobachtung. _P. primitiva_ und _V. vorax_ sind von mehreren
+verschiedenen Beobachtern in sehr entlegenen Gegenden gesehen worden.
+Andere neue Moneren-Formen sind erst ganz neuerdings von ~Cienkowski~
+und ~Oskar Grimm~ beobachtet. Wenn erst die allgemeine Aufmerksamkeit
+der Mikroskopiker sich mehr diesen höchst einfachen Organismen
+zuwendet, steht zu erwarten, dass unsere Kenntniss derselben sich noch
+beträchtlich erweitern und vertiefen wird.
+
+Ganz abgesehen also davon, ob Bathybius ein echtes Moner ist oder
+nicht, kennen wir jetzt bereits mit Sicherheit eine Anzahl ~echter
+Moneren~, deren fundamentale Bedeutung von ersteren ganz unabhängig
+ist. Wir wissen, dass noch heute eine Anzahl von niedrigsten
+Lebensformen in den Gewässern unseres Planeten existiren, welche
+nicht nur die einfachsten unter allen wirklich beobachteten
+Organismen, sondern überhaupt die ~denkbar einfachsten~ lebenden
+Wesen sind. Ihr ganzer Körper besteht in vollkommen entwickeltem
+und fortpflanzungsfähigem Zustande aus nichts weiter als aus
+einem strukturlosen Protoplasma-Klümpchen, dessen wechselnde,
+formveränderliche Fortsätze alle Lebensthätigkeiten gleichzeitig
+besorgen, Bewegung und Empfindung, Stoffwechsel und Ernährung,
+Wachsthum und Fortpflanzung. Morphologisch betrachtet ist der
+Körper eines solchen Moners so einfach wie derjenige irgend eines
+anorganischen Krystalles. Verschiedene Theilchen sind darin überhaupt
+nicht zu unterscheiden; vielmehr ist jedes Theilchen dem andern
+gleichwerthig. Diese wichtigen Thatsachen und die daraus sich
+ergebenden weitreichenden Folgerungen gelten für ~alle Moneren~ ohne
+Ausnahme — mit oder ohne Bathybius; — und es ist daher für die Theorie
+ganz gleichgültig, ob der Bathybius existirt oder nicht.
+
+Wenn wir diese Moneren als »absolut einfache Organismen« bezeichnen,
+so ist damit nur ihre ~morphologische Einfachheit~, der Mangel
+jeder Zusammensetzung aus verschiedenen Organen, ausgesprochen.
+In chemisch-physikalischer Beziehung können dieselben noch sehr
+zusammengesetzt sein; ja wir werden ihnen sogar auf alle Fälle eine
+~sehr verwickelte Molecular-Structur~ zuschreiben müssen, wie allen
+eiweissartigen Körpern überhaupt. Viele betrachten den schleimartigen
+Eiweisskörper der Moneren als eine einzige chemische Eiweissverbindung,
+Andere als ein Gemenge von mehreren solcher Verbindungen, noch Andere
+als eine Emulsion oder ein feinstes Gemenge von eiweissartigen und
+fettartigen Theilchen. Diese Frage ist für unsere Auffassung und für
+die allgemeine biologische Bedeutung der Moneren von untergeordneter
+Bedeutung. Denn auf alle Fälle — mag diese oder jene Ansicht richtig
+sein — bleiben die Moneren in ~anatomischer~ Hinsicht ~vollkommen
+einfach~: Organismen ohne Organe. Sie beweisen unwiderleglich,
+dass das Leben nicht an eine bestimmte anatomische Zusammensetzung
+des lebendigen Körpers, nicht an ein Zusammenwirken verschiedener
+Organe, sondern an eine gewisse chemisch-physikalische Beschaffenheit
+der formlosen Materie gebunden ist, an die eiweissartige Substanz,
+welche wir Sarcode oder Protoplasma nennen, eine ~stickstoffhaltige
+Kohlenstoffverbindung in fest-flüssigem Aggregatzustande~.
+
+~Das Leben ist also nicht Folge der Organisation, sondern umgekehrt.~
+Das formlose Protoplasma bildet die organisirten Formen. Da ich
+die ausserordentlich hohe Bedeutung, welche die Moneren in dieser
+Beziehung, wie in vielen andern Beziehungen besitzen, bereits in den
+früher angeführten Schriften ausführlich erörtert habe, kann ich hier
+einfach darauf verweisen. Nur die fundamentale Bedeutung, welche die
+Moneren für die hochwichtige Frage von der ~Urzeugung~ behaupten, sei
+hier nochmals ausdrücklich hervorgehoben. ~Die ältesten Organismen,
+welche durch Urzeugung aus anorganischer Materie entstanden, konnten
+nur Moneren sein.~
+
+Gerade diese allgemeine Bedeutung der Moneren für die Lösung
+der grössten biologischen Räthsel ist es, welche sie zu einem
+besonderen Steine des Anstosses und Aergernisses für die Gegner
+der Entwickelungslehre macht. Natürlich benutzen die Letzteren jede
+Gelegenheit, ihre Existenz zu bestreiten, ähnlich wie es auch mit
+dem berühmten ~Eozoon canadense~ geschah, jener vielbestrittenen
+ältesten Versteinerung der laurentischen Formation. Die erfahrensten
+und urtheilsfähigsten Kenner der Rhizopoden-Classe, an ihrer Spitze
+Professor ~Carpenter~ in London und der verstorbene berühmte Anatom
+~Max Schultze~ in Bonn, haben übereinstimmend die feste Ueberzeugung
+gewonnen, dass das echte nordamerikanische ~Eozoon~ (aus den
+laurentischen Schichten in Canada) ein wirklicher ~Rhizopode~ und
+zwar ein dem ~Polytrema~ nächstverwandtes ~Polythalamium~ ist. Ich
+selbst habe mich viele Jahre hindurch ganz speciell mit dem Studium
+der Rhizopoden beschäftigt. Ich habe die zahlreichen, schönen
+Eozoon-Präparate von ~Carpenter~ und von ~Max Schultze~ selbst genau
+untersucht und hege danach nicht den mindesten Zweifel mehr, dass
+dasselbe wirklich ein echtes Polythalamium und kein Mineral ist.
+
+Aber gerade wegen der ausserordentlichen principiellen Bedeutung des
+Eozoon, weil dadurch die Zeitdauer der organischen Erdgeschichte um
+viele Millionen Jahre hinauf gerückt, die uralte silurische Formation
+als verhältnissmässig junge erkannt und so der Entwickelungslehre ein
+grosser Dienst geleistet wird, gerade deshalb fahren die Gegner der
+letzteren fort, unbeirrt zu behaupten, dass das Eozoon kein organischer
+Rest, sondern ein Mineral sei. Wie aber die hohe Bedeutung des Eozoon
+durch diese fruchtlosen Angriffe unkundiger Gegner erst recht in ihr
+volles Licht gesetzt worden ist, so gilt dasselbe auch von den Moneren
+— mit oder ohne Bathybius! Die echten Moneren bleiben ein fester
+Grundstein der Entwickelungslehre!
+
+[Illustration]
+
+
+
+
+Anhang.
+
+System der Protisten.
+
+
+Erste Classe des Protistenreiches.
+
+1. =Monera= (HAECKEL) =Urlinge=.
+
+Organismen ohne Organe. Der ganze Körper dieser einfachsten und
+niedrigsten Organismen besteht in vollkommen entwickeltem Zustande aus
+weiter nichts, als aus einem Stückchen ~Plasson~ oder »Urschleim«,
+einer eiweissartigen Verbindung, die noch nicht in Protoplasma und
+Nucleus differenzirt ist. Jedes Moner ist also eine ~Cytode~, noch
+keine Zelle. Form meistens unbestimmt, mit wechselnden Fortsätzen.
+Bewegung bald durch Lappenfüsschen, bald durch Wurzelfüsschen, bald
+durch Flimmerfüsschen. Nahrungsaufnahme verschieden. Fortpflanzung
+~ungeschlechtlich~, durch Theilung, Knospung oder Sporenbildung. Leben
+im Wasser, meistens im Meere, auch parasitisch in anderen Organismen.
+
+
+Erste Ordnung der Moneren:
+
+~Lobomonera~ (HAECKEL). Lappen-Urlinge. Fig. 47.
+
+Moneren von unbestimmter wechselnder Form, deren Bewegungen durch
+~Lappenfüsschen~ (_Lobopodia_) geschehen: stumpfe, fingerförmige, meist
+unverästelte Fortsätze, wie bei den ~Amoeben~.
+
+~Gattung~: Protamoeba (Arten: P. primitiva, P. agilis etc.) Fig. 47.
+
+
+Zweite Ordnung der Moneren:
+
+~Rhizomonera~ (HAECKEL). Wurzel-Urlinge. Fig. 48, 49.
+
+Moneren von unbestimmter wechselnder Form, deren Bewegungen durch
+~Wurzelfüsschen~ (_Pseudopodia_) geschehen: feine, lange, fadenförmige,
+meist verästelte und netzförmig sich verbindende Fortsätze, wie bei den
+~Rhizopoden~.
+
+~Gattungen~: Protomyxa (aurantiaca) Fig. 48. Vampyrella (Spirogyrae).
+Bathybius (Haeckelii) Fig. 49.
+
+
+Dritte Ordnung der Moneren:
+
+~Tachymonera~ (HAECKEL). Geissel-Urlinge. Fig. 50. (Synonym:
+_Schizomycetes_. Spaltpilze. ~Bacterien.~)
+
+Moneren von bestimmter, meist, stabförmiger oder fadenförmiger Gestalt,
+deren zitternde oder schwingende lebhafte Bewegungen (wohl immer)
+durch äusserst feine ~Geisseln~ (Flagella) geschehen, wie bei den
+Geisselschwärmern (_Flagellata_). Fortpflanzung ungeschlechtlich,
+meistens durch Quertheilung. Erzeugen Zersetzung und Fäulniss in den
+organischen Flüssigkeiten, in denen sie leben. Wahrscheinlich die
+Ursachen vieler Krankheiten.
+
+~Gattungen~: Bacterium (monas). Vibrio (lineola). Spirillum
+(tremulans). Fig. 50.
+
+
+Zweite Classe des Protistenreiches.
+
+2. =Lobosa= (CARPENTER). =Lappinge=.
+
+(Synonym: _Amoebina._ Infusoria rhizopoda. _Protoplasta._)
+
+Einzellige Organismen (selten Syncytien), deren Zellenleib bald
+nackt (_Gymnolobosa_), bald in einer verschieden gestalteten Schale
+theilweise verborgen (_Thecolobosa_) ist. Die Zellen bewegen sich
+durch ~Lappenfüsschen~ (_Lobopodia_): stumpfe, fingerförmige,
+meist unverästelte Fortsätze, die an verschiedenen Stellen der
+Oberfläche entstehen und vergehen. Die Nahrung wird durch diese
+Lappenfüsschen umflossen und in das Innere der Zelle hineingedrückt.
+Der Protoplasma-Leib der Zelle sondert sich häufig in eine helle,
+structurlose, festere ~Rindenschicht~ (_Exoplasma_) und eine trübe,
+feinkörnige, weichere ~Markschicht~ (_Endoplasma_). Oft enthält
+derselbe eine oder mehrere contractile Blasen (Vacuolen); bald
+beständig, bald unbeständig. Der Zellkern oder ~Nucleus~ ist meist
+einfach, selten mehrfach vorhanden. Fortpflanzung ~ungeschlechtlich~,
+meist durch Theilung, seltener durch Knospung oder Sporenbildung. Die
+Lobosen leben meistens im Wasser, seltener in der Erde oder parasitisch
+in anderen Organismen.
+
+
+Erste Ordnung der Lobosen:
+
+~Gymnolobosa~ (HAECKEL). Nackte Lappinge. Fig. 1.
+
+Lobosen mit nacktem, weichem Zellenleibe, ohne Schale.
+
+~Gattungen~: Amoeba (princeps). Podostoma (filigerum). Petalopus
+(diffluens).
+
+
+Zweite Ordnung der Lobosen:
+
+~Thecolobosa~ (HAECKEL). Beschalte Lappinge. Fig. 5, 6. (Synonym:
+Lepamoebae. Arcellinae. Amoebae cataphractae).
+
+Lobosen mit einer Schale oder Zellmembran, von welcher der weiche
+Zellenleib theilweise bedeckt wird.
+
+~Gattungen~: Arcella (vulgaris). Difflugia (oblonga), Fig. 5. Quadrula
+(symmetrica), Fig. 6.
+
+
+Dritte Classe des Protistenreiches.
+
+3. =Gregarinae= (DUFOUR). =Gregaringe.=
+
+Einzellige Organismen oder Ketten von wenigen, an einander gereihten
+Zellen, deren Leib von einer weichen, dicken, dehnbaren Haut allseitig
+umschlossen ist. Diese ~Zellmembran~ ist glatt, ohne Oeffnung, an
+einem Ende des Körpers oft mit hakenförmigen Haftapparaten versehen.
+Das ~Protoplasma~ ist sehr dehnbar und contractil, mit vielen Körnchen
+durchsetzt. Der ~Zellkern~ gross, meist ein helles kugeliges Bläschen,
+mit einem Nucleolus. Die wurmähnlichen Bewegungen der kriechenden
+Zellen geschehen durch Zusammenziehungen der (unmittelbar unter der
+Membran liegenden) Rindenschicht des Protoplasma, welche bisweilen
+in muskelähnliche Fäserchen differenzirt ist. Alle Gregarinen leben
+~parasitisch~ im Darm oder in der Leibeshöhle (seltener in den
+Geweben) von Thieren (besonders von Würmern und Gliederthieren). Sie
+ernähren sich vom Safte dieser Wohnthiere, der durch die Membran der
+schmarotzenden Zellen in das Innere ihres Protoplasma hindurchschwitzt
+(Endosmose). Fortpflanzung ~ungeschlechtlich~, durch Theilung oder
+durch Sporenbildung. Im letzteren Falle zieht sich eine einzelne
+Gregarine, oder mehrere mit einander verschmelzende Gregarinen, kugelig
+zusammen und umgeben sich mit einer Kapsel. Die Zellkerne verschwinden
+und das Protoplasma zerfällt in zahlreiche Keimzellen oder ~Sporen~
+(Psorospermien, Pseudonavicellen). Später schlüpft aus jeder Spore
+ein ~Moner~ aus, welches sich durch Neubildung eines Nucleus in eine
+~Amoebe~ verwandelt. Indem letztere sich mit einen Membran umhüllt,
+wird sie zur ~Gregarine~.
+
+
+Erste Ordnung der Gregarinen:
+
+~Monocystida~ (STEIN). Einzellige Gregaringe.
+
+Gregarinen-Leib eine einfache Zelle, mit einem einzigen Kern.
+
+~Gattung~: Monocystis (agilis). Fig. 7.
+
+
+Zweite Ordnung der Gregarinen:
+
+~Polycystida~ (HAECKEL). Vielzellige Gregaringe.
+
+Gregarinen-Leib eine Kette von zwei oder drei (selten mehr) an einander
+gereihten Zellen, jede Zelle mit einem Kern.
+
+~Gattung~: Didymophyes (paradoxa).
+
+
+Vierte Classe des Protistenreiches.
+
+4. =Flagellata= (EHRENBERG). =Geisslinge.=
+
+(Synonym: _Mastigaria_. Geisselschwärmer. Geissel-Infusorien.)
+
+Einzellige Organismen, seltener Coenobien oder Zellenhorden: Gemeinden
+von mehreren oder vielen locker verbundenen Zellen. Bewegen sich durch
+~Geisseln~ (_Flagella_), einen langen, fadenförmigen Fortsatz (oder
+mehreren, an einem Punkte befestigten) des Protoplasma, welche hin und
+her schwingen, wie eine Peitsche. Zellenleib bald nackt, bald von einer
+Hülle umschlossen, aus deren Oeffnung die schwingende Geissel vortritt.
+Selten sind die Flagellaten auf Gegenständen im Wasser festgewachsen,
+meistens schwimmen sie frei umher. Bei vielen wechseln ruhende und
+bewegliche Zustände mit einander ab; und dann geschieht die Vermehrung
+meist während des Ruhezustandes, durch Theilung. Nahrungsaufnahme bald
+durch Aufsaugung (Endosmose), bald durch einen Zellmund (Cytostoma).
+Vermehrung ~ungeschlechtlich~, meist durch Theilung, seltener durch
+Knospung oder Sporenbildung. Bei einigen (Volvocinen) Anfänge
+geschlechtlicher Sonderung.
+
+
+Erste Ordnung der Flagellaten:
+
+~Nudoflagellata~ (HAECKEL). Nackt-Geissler. Fig. 8.
+
+Geisslinge mit nacktem Zellenleibe, ohne Wimperkranz.
+
+~Gattungen~: Euglena (viridis). Astasia (haematodes). Phacus
+(longicauda, Fig. 8).
+
+
+Zweite Ordnung der Flagellaten:
+
+~Thecoflagellata~ (HAECKEL). Hüll-Geissler. Fig. 10.
+
+Geisslinge, ohne Wimperkranz, deren Zellenleib von einer Hülle oder
+Schale umschlossen ist. Die Geisseln treten aus einer Oeffnung der
+Schale hervor. Oft ist die Schale auf einem sitzenden Stiele angeheftet.
+
+~Gattungen~: Salpingoeca (marina). Dinobryon (sertularia).
+
+
+Dritte Ordnung der Flagellaten:
+
+~Cilioflagellata~ (J. MÜLLER). Wimper-Geissler. Fig. 9.
+
+Geisslinge mit einem Kranze von kurzen Wimpern um die Mitte des
+Zellenleibes, welcher von einer zweiklappigen Schale umschlossen ist.
+Zwischen beiden Schalenhälften tritt frei die lange Geissel und der
+Wimperkranz vor.
+
+~Gattungen~: Peridinium (oculatum) Ceratium (tripus) Fig. 9.
+
+
+Vierte Ordnung der Flagellaten:
+
+~Cystoflagellata~ (HAECKEL). Blasen-Geissler. Fig. 11.
+
+Geisslinge ohne Wimperkranz, mit grossem, blasenförmigen Zellenleibe,
+welcher ausser der Geissel einen eigenthümlichen Peitschen-Anhang und
+einen stabförmigen Körper im Innern besitzt.
+
+~Gattungen~: Noctiluca (miliaris) Fig. 11. Leptodiscus (medusoides).
+
+
+Fünfte Classe des Protistenreiches.
+
+5. =Catallacta= (HAECKEL). =Mittlinge.=
+
+Einzellige Organismen, welche eine Zeitlang zu einer ~Zellenhorde~
+(~Coenobium~) vereinigt sind, später isolirt leben. Die Zellenhorden
+oder Coenobien sind schwimmende Gallertkugeln, zusammengesetzt aus
+zahlreichen Zellen, welche im Centrum der Kugel durch Fortsätze
+vereinigt sind, während an der Oberfläche die schwingenden Flimmerhaare
+vortreten. Die ~Einsiedler-Zellen~ (~Monocyten~), welche durch
+Zerfall der Coenobien entstehen, bewegen sich anfangs schwimmend,
+gleich ~Flagellaten~ umher; dann verwandeln sie sich in kriechende
+~Amoeben~-ähnliche Zellen; schliesslich ziehen sie sich kugelig
+zusammen und kapseln sich ein. Innerhalb dieses Ruhezustandes
+entsteht durch wiederholte Theilung der Zelle ein neues kugelförmiges
+Coenobium, welches die Hülle durchbricht und frei umherschwimmt. Diese
+~ungeschlechtliche~ Fortpflanzung erinnert an die Eifurchung der
+Thiere. Die Catallacten leben theils im Meere, theils im Süsswasser.
+
+~Gattungen~: Magosphaera (planula) Fig. 46. Synura (uvella).
+
+
+Sechste Classe des Protistenreiches.
+
+6. =Ciliata= (J. MÜLLER). =Wimperlinge.=
+
+(Synonym: Infusionsthierchen oder Infusoria im engsten Sinne).
+
+~Einzellige~ Organismen, sehr selten ~Zellhorden~ oder Coenobien,
+welche aus mehreren, locker verbundenen Zellen zusammengesetzt sind.
+Bewegung durch zahlreiche kurze ~Wimpern~ (~Cilia~). Zellenleib
+meistens nackt, seltener von einer Hülle oder Schale theilweise
+umschlossen. Der Protoplasma-Leib der Zelle sondert sich meist in
+eine helle, festere, hyaline Rindenschicht (_Exoplasma_) und eine
+trübe, feinkörnige, weichere ~Markschicht~ (_Endoplasma_). Aus der
+Rindenschicht treten stets zahlreiche kurze Wimperhärchen oder Cilien
+hervor, welche lebhaft und willkürlich bewegt werden. Meistens laufen
+oder schwimmen die Wimperthierchen rasch umher mittelst der Bewegungen
+ihrer Wimpern; bei festsitzenden dienen letztere dazu, durch den
+im Wasser erzeugten Strudel stets frisches Wasser und Nahrung dem
+Zellmunde zuzuführen. Der ~Zellmund~ (_Cytostoma_) ist eine constante
+Oeffnung in der Rindenschicht und lässt verschluckte Bissen in die
+innere weichere Markmasse des Zellenleibes eintreten, wo sie verdaut
+werden. An der Innenfläche der Rindenschicht liegt eine ~contractile
+Blase~ (eine constante Vacuole), welche meistens durch einen kurzen
+Kanal nach aussen zu münden scheint. Der ~Zellkern~ ist gross,
+verschieden gestaltet, meistens einfach, sehr selten mehrfach. Die
+Fortpflanzung geschieht meistens ~ungeschlechtlich~, durch Theilung
+(Quertheilung oder Längstheilung), seltener durch Knospung. Wie weit
+ausserdem Fortpflanzung durch Sporenbildung (oder vielleicht durch
+geschlechtliche Zeugung einfachster Art), verbunden mit Conjugation, in
+dieser Classe verbreitet ist, erscheint noch nicht sicher festgestellt.
+Die Classe der Wimperthierchen oder Wimperlinge ist sehr umfangreich
+und überall im Süsswasser und Meere verbreitet.
+
+
+Erste Ordnung der Ciliaten.
+
+~Holotricha~ (STEIN). Ueberall behaarte Wimperlinge.
+
+Die ganze Oberfläche des Zellenleibes gleichmässig mit kurzen feinen
+Wimperhärchen bedeckt.
+
+~Gattungen~: Glaucoma (scintillans). Paramecium (aurelia). Trachelius
+(ovum). Prorodon (teres) Fig. 15.
+
+
+Zweite Ordnung der Ciliaten.
+
+~Heterotricha~ (STEIN). Verschieden behaarte Wimperlinge.
+
+Die ganze Oberfläche des Zellenleibes gleichmässig mit kurzen feinen
+Wimperhärchen bedeckt; ausserdem noch ein Kranz oder Gürtel von
+stärkeren und grösseren Wimpern (Griffeln oder Borsten) um den Zellmund
+herum.
+
+~Gattungen~: Bursaria (truncatella). Stentor (polymorphus) Fig. 12.
+Freia (elegans) Fig. 14. Spirustomum (teres).
+
+
+Dritte Ordnung der Ciliaten:
+
+~Hypotricha~ (STEIN). Unterseits behaarte Wimperlinge.
+
+Zellenleib blattförmig zusammengedrückt, an der oberen (oder Rücken-)
+Seite nackt, an der unteren (oder Bauch-) Seite mit kleineren und
+grösseren Wimpern bedeckt.
+
+~Gattungen~: Chilodon (cucullulus). Euplotes (charon). Oxytricha
+(pellionella). Aspidisca (costata).
+
+
+Vierte Ordnung der Ciliaten:
+
+~Peritricha~ (STEIN). Ringförmig behaarte Wimperlinge.
+
+Zellenleib drehrund, grösstentheils nackt, nur mit einem Gürtel
+(seltener zwei Gürteln) von Wimperhaaren versehen.
+
+~Gattungen~: Dictyocysta (templum). Ophrydium (versatile). Trichodina
+(pediculus). Vorticella (campanula).
+
+
+Siebente Classe des Protistenreiches:
+
+7. =Acinetae= (EHRENBERG). =Starrlinge.=
+
+(Synonym: Infusoria suctoria. Saug-Infusorien.)
+
+~Einzellige~ Organismen, seltener ~Zellenhorden~ (Coenobia) oder
+Zellenfusionen (~Syncytia~), welche aus mehreren, locker oder enger
+verbundenen Zellen zusammengesetzt sind. Zellenleib von einer ~Membran~
+oder Kapsel umschlossen, durch welche sehr feine, zerstreute oder
+büschelförmig vereinigte ~Saugröhren~ hervortreten. Mittelst dieser
+borstenförmigen, am freien Ende mit einem Saugnäpfchen oder Knöpfchen
+versehenen Saugröhren heften sich die Acineten an Ciliaten und
+anderen Protisten an und saugen deren Protoplasma aus (ähnlich wie
+die Vampyrellen unter den Moneren). Im Innern des Protoplasma findet
+sich neben dem ~Zellkern~ oft eine contractile Blase (~Vacuole~).
+Fortpflanzung ~ungeschlechtlich~, bald durch Theilung, bald durch
+Knospung, bald durch Schwärmsporen. Letztere entstehen im Innern des
+Zellenleibes, durchbrechen denselben und schwimmen mittelst feiner
+Wimperhärchen umher, zwischen welchen feinste Saugröhrchen sitzen.
+Die Acineten leben sowohl im süssen Wasser als im Meere, und sitzen
+meistens unbeweglich auf Stielen fest; seltener schwimmen sie frei
+umher.
+
+
+Erste Ordnung:
+
+~Monacinetae~ (HAECKEL). Einzel-Starrlinge. Fig. 16, 17.
+
+Einzellige Acineten, deren einfacher Zellenleib nur einen einzigen Kern
+enthält.
+
+~Gattungen~: Podophrya (Cyclopum). Acinetella (mystacina).
+
+
+Zweite Ordnung:
+
+~Synacinetae~ (HAECKEL). Horden-Starrlinge.
+
+Mehrzellige Acineten, deren verästelter Zellenleib mehrere Kerne
+enthält.
+
+~Gattungen~: Dendrosoma (radians).
+
+
+Achte Classe des Protistenreiches.
+
+8. =Labyrinthuleae= (CIENKOWSKI). =Labyrinthinge.=
+
+~Zellenhorden~ (_Coenobia_), welche aus zahlreichen gleichartigen,
+beweglichen Zellen locker zusammengesetzt sind. Die Zellen sind
+meistens spindelförmig, umschliessen einen ~Kern~ und können ihre
+Gestalt ändern. Sie leben in grossen Haufen gesellig beisammen, und
+bewegen sich in eigenthümlicher, noch unerklärter Weise rutschend oder
+gleitend umher (ähnlich manchen Diatomeen). Die Bewegung geschieht
+nicht frei im Wasser, sondern ausschliesslich in einer eigenthümlichen
+~Fadenbahn~ (_Linodium_), einem Gerüste von starren, baumförmig
+verästelten und netzförmig verbundenen Fäden. Diese Fäden besitzen
+faserige Structur und werden von den wandernden Zellen ausgeschieden.
+Auf den mannigfachsten Umwegen gleiten die Spindelzellen in der
+Fadenbahn umher, sammeln sich später in Haufen und kapseln sich ein.
+Bei dieser ~Encystirung~ erhält jede Zelle eine Membran, und die ganze
+gesammelte Horde eine Rindenkapsel. In jeder einzelnen Zelle entstehen
+später vier junge Zellen (~Tetrasporen~). Die Labyrinthuleen leben im
+Meere.
+
+~Gattung~: Labyrinthula. (Arten: L. vitellina. L. macrocystis.)
+
+
+Neunte Klasse des Protistenreiches.
+
+9. =Bacillariae.= =Schachtlinge.=
+
+(Synonym: Diatomeae. Diatomaceae. Stabthierchen.)
+
+~Einzellige~ Organismen oder ~Zellenhorden~ (Coenobia); lockere
+Gesellschaften von mehreren Zellen, welche in Gallertmassen oder auf
+gemeinsamen, verzweigten Stielen vereinigt sind. Der Zellenleib ist
+stets von einer ~zweiklappigen Kieselschale~ umschlossen, deren beide
+Hälften so ineinander geschoben sind, wie eine ~Schachtel~ und ihr
+~Deckel~. Meistens bewegen sich die Zellen rutschend oder schwimmend
+umher, wahrscheinlich mittelst eines äusserst feinen Wimperkranzes,
+welcher in dem engen Spalte zwischen der Schachtel und ihrem Deckel
+frei vortritt. Ernährung und Stoffwechsel wie bei den einzelligen
+Algen. Fortpflanzung ~ungeschlechtlich~, durch Theilung. Im Beginn
+der Theilung schieben sich die beiden Klappen der schachtelähnlichen
+Kieselschalen auseinander; der Kern theilt sich in zwei auseinander
+weichende Hälften, ebenso das Protoplasma. Darauf bildet sich
+jede Tochterzelle eine neue Schalenhälfte zu der alten Hälfte,
+die den Schachteldeckel bildet. Die so entstehenden Generationen
+werden fortgesetzt immer kleiner, bis zuletzt eine Generation (von
+~Auxosporen~) entsteht, welche die ganze Kieselschale abwirft, mächtig
+wächst und dann eine neue Kieselschale erster Grösse bildet. Die
+Diatomeen oder Bacillarien leben in zahllosen, zierlichen Formen
+überall im Meere und im Süsswasser.
+
+
+Erste Ordnung der Bacillarien:
+
+~Naviculatae~ (EHRENBERG). Kahn-Schachtlinge. Fig. 45.
+
+~Gattungen~: Navicula (gracilis). Cocconeis (placentula).
+
+
+Zweite Ordnung der Bacillarien:
+
+~Echinellatae~ (EHRENBERG). Palm-Schachtlinge.
+
+~Gattungen~: Cocconema (cistula). Achnanthes (longipes).
+
+
+Dritte Ordnung der Bacillarien:
+
+~Lacernatae~ (EHRENBERG). Gallert-Schachtlinge.
+
+~Gattungen~: Frustulia (salina). Gloeonema (paradoxum).
+
+
+Zehnte Klasse des Protistenreiches.
+
+10. =Fungi= (LINNE.). =Pilze.=
+
+~Polyplastide~ (sehr selten monoplastide) Organismen, deren Körper
+nicht aus echten (kernhaltigen) Zellen, sondern aus fadenförmigen
+(kernlosen) ~Cytoden~ zusammengesetzt ist (~Hyphen~). Diese
+Fadenschläuche oder Hyphen bilden durch seitliche Sprossung und
+quere Gliederung der Aeste ein vielfach verzweigtes ~Faden-Geflecht~
+(_Mycelium_), welches parasitisch in oder auf anderen Organismen
+(oder von deren Zersetzungs-Producten) lebt. Später entwickelt
+sich aus diesem Mycelium ein ansehnlicher, höchst mannigfaltig
+gebauter ~Fruchtkörper~ (_Stroma_), welcher an bestimmten Stellen
+ein ~Sporenlager~ (_Hymenium_) bildet. In letzterem entstehen
+die Keimzellen oder ~Sporen~ meistens ~ungeschlechtlich~, selten
+geschlechtlich (in Folge eines eigenthümlichen Befruchtungs-Vorganges).
+Der ~Stoffwechsel~ der Pilze ist ~thierisch~, nicht pflanzlich. Niemals
+bilden die Pilze Chlorophyll und Amylum, wie die echten Pflanzen.
+~Nirgends~ findet sich im Pilzkörper ein ~Zellkern~, wie er in den
+Zellen aller echten Thiere und Pflanzen überall vorkommt.
+
+
+Erste Ordnung der Pilze:
+
+~Phycomycetes.~ Tangpilze.
+
+~Gattungen~: Mucor (mucedo). Penicillium (glaucum).
+
+
+Zweite Ordnung der Pilze:
+
+~Coniomycetes.~ Rostpilze.
+
+~Gattungen~: Ustilago (segetum). Puccinia (graminis).
+
+
+Dritte Ordnung der Pilze:
+
+~Ascomycetes.~ Schlauchpilze.
+
+~Gattungen~: Morchella (esculenta). Claviceps (purpurea).
+
+
+Vierte Ordnung der Pilze:
+
+~Gastromycetes.~ Bauchpilze.
+
+~Gattungen~: Lycoperdon (bovista). Phallus (impudicus).
+
+
+Fünfte Ordnung der Pilze:
+
+~Hymenomycetes.~ Hutpilze.
+
+~Gattungen~: Agaricus (campestris). Boletus (laricis). Fig. 44.
+
+
+Elfte Classe des Protistenreiches.
+
+11. =Myxomycetes= (WALLROTH). =Netzinge.=
+
+(Synonym: ~Mycetozoa.~ ~Myxogasteres.~ Schleimpilze.)
+
+Organismen, welche in vollkommen entwickeltem und frei
+beweglichem Zustande ein ~Plasmodium~ darstellen: einen formlosen
+Protoplasmakörper, welcher aus vielen verschmolzenen Zellen
+zusammengesetzt ist, deren Kerne sich aufgelöst haben. Dieses
+Plasmodium kriecht frei umher, gleich einem colossalen Rhizopoden,
+und bildet ausgedehnte netzförmige Körper, indem an der Oberfläche
+formwechselnde, unbeständige ~Scheinfüsse~ (_Pseudopodia_)
+hervortreten, deren Aeste an den Berührungsstellen zusammenfliessen.
+Die Plasmodien ernähren sich von organischen Körpern ebenso wie die
+echten Rhizopoden (Thalamophoren) und Radiolarien. Nach vollendetem
+Wachsthum zieht sich das Plasmodium auf einen rundlichen Klumpen
+zusammen und verwandelt sich in einen blasenförmigen ~Fruchtkörper~
+(_Sporocystis_). Diese ~Sporenblase~ ist von einer festen,
+structurlosen Haut allseitig umschlossen. Innerhalb derselben
+zerfällt das Protoplasma in zahllose kleine ~Keimzellen~ (_Sporae_),
+zwischen welchen sich meistens ein Geflecht von haarfeinen Fäden
+entwickelt (_Capillitium_). Später platzen die Fruchtkörper und die
+Sporen werden frei. Aus der Hülle einer jeden Spore schlüpft eine
+amoebenartige, kernhaltige Zelle aus. Diese ~Amoeben~ verwandeln
+sich in ~Flagellaten~, indem an einem Ende eine schwingende Geissel
+vortritt. So schwimmen sie als »Schwärmsporen« umher, vermehren sich
+durch Theilung und gehen dann wieder in amoebenähnliche Zellen über,
+welche umherkriechen. Durch Zusammenfliessen vieler solcher Amoeben
+entstehen die Plasmodien. Diese leben schmarotzend auf verwesenden
+Pflanzen (faulen Blättern etc.).
+
+
+Erste Ordnung der Myxomyceten:
+
+~Physareae.~ Physareen.
+
+~Gattungen~: Physarum (albipes). Aethalium (septicum). Fig. 42, 43.
+
+
+Zweite Ordnung der Myxomyceten:
+
+~Stemoniteae.~ Stemoniteen.
+
+~Gattungen~: Stemonitis (typhoides). Diachea (elegans).
+
+
+Dritte Ordnung der Myxomyceten:
+
+~Trichiaceae.~ Trichiaceen.
+
+~Gattungen~: Licea (serpula). Arcyria (lateritia).
+
+
+Vierte Ordnung der Myxomyceten:
+
+~Lycogaleae.~ Lycogaleen.
+
+~Gattungen~: Lycogala (epidendron). Reticularia (maxima).
+
+
+Zwölfte Classe des Protistenreiches.
+
+12. =Thalamophora= (HERTWIG). =Kammerlinge.=
+
+(Synonym: Acyttaria. Reticularia. Rhizopoda.)
+
+Organismen, welche in entwickeltem Zustande ein ~Syncytium~ darstellen,
+einen beweglichen Protoplasma-Körper, der viele Zellkerne enthält;
+selten ist der Körper einzellig und enthält nur einen Kern. Von
+der Oberfläche des Protoplasma strahlen sehr zahlreiche und feine
+Scheinfüsschen (_Pseudopodia_) aus: dünne Fäden, welche sich
+verästeln und an den Berührungsstellen netzförmig verschmelzen. Diese
+Pseudopodien dienen sowohl zur Ortsbewegung und zur Empfindung, wie zur
+Ernährung, indem die Acyttarien fremde organische Körperchen mittelst
+derselben in ihr Inneres einziehen und dort auflösen. Stets ist das
+Syncytium von einer ~Schale~ umschlossen, die äusserst vielgestaltig
+ist. Die Pseudopodien treten entweder aus einer einzigen grösseren
+Oeffnung der Schale hervor (_Imperforata_), oder aus zahlreichen
+feinen Sieblöchern der Schale (_Foraminifera_). Meist besteht die
+Schale aus kohlensaurem Kalk, seltener aus Kieselerde oder aus einer
+organischen Substanz. Die Fortpflanzung erfolgt ~ungeschlechtlich~,
+selten durch Theilung oder Knospung, meistens durch Sporenbildung.
+Die meisten Acyttarien leben im Meere, einige im süssen Wasser; die
+meisten kriechen auf dem Boden, wenige schwimmen an der Oberfläche; nur
+einzelne sitzen auf einem Stiele fest.
+
+
+Erste Ordnung der Thalamophoren:
+
+~Monostegia~ (D’ORB.). Dichtschalige Einkammerlinge. Fig. 19.
+
+Schale einkammerig, dicht, nicht siebförmig durchlöchert, nur mit einer
+einzigen grösseren Oeffnung an einem Pole der Axe, selten mit zwei
+grösseren Oeffnungen, an beiden entgegengesetzten Polen derselben.
+(_Imperforata monostegia_).
+
+~Gattungen~: Gromia (oviformis) Fig. 19. Lagynis (baltica). Squamulina
+(laevis). Cornuspira (planorbis).
+
+
+Zweite Ordnung der Thalamophoren:
+
+~Polystegia~ (HAECKEL). Dichtschalige Vielkammerlinge.
+
+Schale vielkammerig, dicht, nicht siebförmig durchlöchert, mit einer
+einzigen grossen Oeffnung, am Ende der jüngsten Kammer. (_Imperforata
+polystegia_).
+
+~Gattungen~: Miliola (cyclostoma). Peneroplis (dendritina). Lituola
+(nautiloides). Parkeria (ingens).
+
+
+Dritte Ordnung der Thalamophoren:
+
+~Monothalamia~ (M. SCHULTZE). Siebschalige Einkammerlinge.
+
+Schale einkammerig, siebförmig von zahlreichen feinen Löchern
+durchbrochen, ausserdem meist eine grosse Oeffnung an einem Pole der
+Längsaxe. (_Foraminifera monothalamia_).
+
+~Gattungen~: Orbulina (universa). Entosolenia (globosa). Lagena
+(vulgaris).
+
+
+Vierte Ordnung der Thalamophoren:
+
+~Polythalamia~ (BREYN). Siebschalige Vielkammerlinge. Fig. 20–24.
+
+Schale vielkammerig, siebförmig von zahlreichen feinen Löchern
+durchbrochen, ausserdem oft eine grosse Oeffnung am Ende der jüngsten
+Kammer. (_Foraminifera polythalamia_).
+
+~Gattungen~: Nodosaria (radicula). Rotalia (veneta). Globigerina
+(bulloides). Textularia (variabilis). Alveolina (vulgaris). Nummulites
+(lentiformis).
+
+
+Dreizehnte Klasse des Protistenreiches.
+
+13. =Heliozoa= (HAECKEL). =Sonnlinge.=
+
+Organismen, welche in entwickeltem Zustande bald eine einzige
+kugelige ~Zelle~, bald ein kugeliges ~Syncytium~ darstellen,
+welches aus mehreren verschmolzenen Zellen besteht. Im ersteren
+Falle ist ein einziger ~Zellkern~, im letzteren mehrere Kerne im
+Innern der Protaplasma-Kugel eingeschlossen. Letztere ist in eine
+feinkernige innere ~Markmasse~ (_Endoplasma_) und eine schaumige
+äussere ~Rindenschicht~ (_Exoplasma_) gesondert. Das Protaplasma
+der Rindenschicht bildet Vacuolen (oder vergängliche, contractile
+Wasserbläschen). Von seiner Oberfläche strahlen rings zahlreiche
+haarfeine Fäden aus, die gewöhnlich einfach, nicht verästelt, ziemlich
+starr sind und wenig Neigung zur Verschmelzung besitzen. Bald ist
+der Körper ganz weich und nackt; bald bildet er ein festes Skelet,
+welches aus vielen zerstreuten Nadeln (_Spicula_) zusammengesetzt ist,
+oder eine Gitterschale darstellt. Meistens schweben die Heliozoen
+frei im Wasser; seltener sind sie festgewachsen. Fortpflanzung
+~ungeschlechtlich~, bald durch Theilung, bald durch Sporenbildung. Die
+Heliozoen leben sowohl im süssen Wasser, als im Meere.
+
+
+Erste Ordnung der Heliozoen:
+
+~Aphrothoraca~ (HAECKEL). Nackte Sonnlinge. Fig. 40, 41.
+
+Nackte Heliozoen, mit weichem, schaumigem Körper, ohne Skelet.
+
+~Gattungen~: Actinophrys (sol). Actinosphaerium (Eichhornii).
+
+
+Zweite Ordnung der Heliozoen:
+
+~Chalarothoraca~ (HERTWIG). Bestachelte Sonnlinge.
+
+Heliozoen mit einem Skelet, welches aus Spicula oder zerstreuten
+Stäbchen (radialen Stacheln oder tangentialen Nadeln) zusammengesetzt
+ist.
+
+~Gattungen~: Acanthocystis (spinifera). Heterophrys (marina).
+
+
+Dritte Ordnung der Heliozoen:
+
+~Desmothoraca~ (HERTWIG). Beschalte Sonnlinge.
+
+Heliozoen mit einem Skelet, welches eine kugelige, von Löchern
+durchbrochene Schale bildet.
+
+~Gattungen~: Hedriocystis (pellucida). Hyalolampe (fenestrata).
+
+
+Vierzehnte Classe des Protistenreiches.
+
+14. =Radiolaria= (J. MÜLLER). =Strahlinge.=
+
+Organismen, welche in entwickeltem Zustande aus zwei verschiedenen
+Haupttheilen bestehen, einer inneren, festen, mit Zellen gefüllten
+~Central-Kapsel~ (_Capsula centralis_) und einem äusseren ~Syncytium~,
+einer Protoplasma-Masse, welche die erstere allseitig umgiebt, und
+von welcher ausserdem zahlreiche ~Scheinfüsschen~ oder ~Pseudopodien~
+ausstrahlen; letztere verhalten sich ganz wie diejenigen der
+Acyttarien. Der wesentliche Unterschied von den letzteren besteht in
+der stets vorhandenen Centralkapsel; diese ist der Sporenblase der
+Myxomyceten vergleichbar und stellt einen Fruchtkörper (_Sporangium_)
+dar, indem ihr gesammter Inhalt sich in ~Keimzellen~ (_Sporae_)
+verwandelt. Ausserhalb der Centralkapsel finden sich meist noch
+eigenthümliche ~gelbe Zellen~, welche ~Stärkemehl~ enthalten. Nur
+wenige Radiolarien sind weich und nackt; die meisten besitzen ein
+~Skelet~, welches aus Nadeln (_Spicula_), einem Balkengeflecht oder
+einer Schale besteht; diese ist meistens aus ~Kieselerde~ gebildet,
+von äusserst mannigfaltigen und zierlichen Formen. Die Ernährung der
+Radiolarien geschieht wie bei den Acyttarien durch die Pseudopodien.
+Die Fortpflanzung erfolgt ~ungeschlechtlich~, selten durch Theilung,
+meistens durch Sporenbildung. Die Sporen, welche innerhalb der
+Centralkapsel entstehen und aus dieser ausschwärmen, sind mit Geisseln
+versehene ~Schwärmsporen~. Alle Radiolarien leben im Meere und schweben
+theils an der Oberfläche, theils in verschiedenen Tiefen.
+
+
+Erste Ordnung der Radiolarien:
+
+~Pancollae~ (HAECKEL). Gallert-Strahlinge. Fig. 26.
+
+Radiolarien ohne Skelet, oder mit einem Skelet, welches bloss aus
+zerstreuten soliden Nadeln zusammengesetzt ist.
+
+~Gattungen~: Thalassicolla (nucleata). Collozoum (inerme).
+Thalassosphaera (bifurca). Sphaerozoum (punctatum).
+
+
+Zweite Ordnung der Radiolarien:
+
+~Panacanthae~ (HAECKEL). Stachel-Strahlinge. Fig. 32, 33.
+
+Skelet besteht aus radialen soliden Stacheln, welche im Mittelpunkt der
+Central-Kapsel in einander gestemmt, locker verbunden oder verwachsen
+sind. (Acanthometrida s. a.)
+
+~Gattungen~: Acanthometra (Mülleri). Dorataspis (bipennis).
+
+
+Dritte Ordnung der Radiolarien:
+
+~Pansoleniae~ (HAECKEL). Röhren-Strahlinge.
+
+Skelet besteht aus einzelnen hohlen Röhren, welche bald locker
+zerstreut, bald in radialer oder concentrischer Anordnung verbunden
+sind.
+
+~Gattungen~: Aulacantha (scolymantha). Aulosphaera (trigonopa).
+Coelodendrum (gracillimum).
+
+
+Vierte Ordnung der Radiolarien:
+
+~Plegmideae~ (HAECKEL). Schwamm-Strahlinge. Fig. 34.
+
+Skelet besteht aus einem lockeren oder dichteren Geflecht von feinen
+Kieselstäbchen, welche ohne bestimmte Anordnung (schwammähnlich)
+verbunden sind. (Wachsthum vielseitig).
+
+~Gattungen~: Acanthodesmia (vinculata). Spongurus (cylindricus).
+Spongodiscus (mediterraneus). Spongasteriscus (quadricornis).
+
+
+Fünfte Ordnung der Radiolarien:
+
+~Sphaerideae~ (HAECKEL). Kugel-Strahlinge. Fig. 25, 29, 30.
+
+Skelet besteht aus einer einzigen Gitterkugel oder aus mehreren
+concentrischen Gitterkugeln, welche durch radiale Stäbe verbunden sind.
+(Wachsthum radial).
+
+~Gattungen~: Ethmosphaera (siphonophora). Collosphaera (Huxleyi).
+Cladococcus (cervicornis). Haliomma (castanea). Actinomma (drymodes).
+
+
+Sechste Ordnung der Radiolarien:
+
+~Discideae~ (HAECKEL). Scheiben-Strahlinge. Fig. 37.
+
+Skelet scheibenförmig, aus zwei parallelen Siebplatten zusammengesetzt,
+zwischen welchen durch Kreuzung von concentrischen und radialen
+Gitterstäben zahlreiche kleine Kammern gebildet werden. (Wachsthum
+concentrisch).
+
+~Gattungen~: Trematodiscus (sorites). Euchitonia (Mülleri). Coccodiscus
+(Darwinii). Astromma (Aristotelis).
+
+
+Siebente Ordnung der Radiolarien:
+
+~Cyrtideae~ (HAECKEL). Kegel-Strahlinge. Fig. 35, 36.
+
+Skelet eine Gitterschale, welche durch eine Hauptaxe mit zwei
+verschiedenen Polen charakterisirt ist. Grundform daher kegelförmig.
+Durch ringförmige Einschnürungen ist die Schale oft in mehrere, hinter
+oder neben einander liegende Kammern abgetheilt. (Wachsthum unipolar).
+
+~Gattungen~: Cyrtocalpis (amphora). Petalospyris (arachnoides).
+Eucecryphalus (Gegenbauri). Eucyrtidium (lagena). Botryocampe
+(hexathalamia).
+
+[Illustration]
+
+
+Druck von Hüthel & Herrmann in Leipzig.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75352 ***
