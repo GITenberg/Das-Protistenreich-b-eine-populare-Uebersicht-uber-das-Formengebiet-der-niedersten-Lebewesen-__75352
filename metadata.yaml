@@ -1,0 +1,36 @@
+_repo: Das-Protistenreich-b-eine-populare-Uebersicht-uber-das-Formengebiet-der-niedersten-Lebewesen-__75352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ernst_Haeckel
+    - https://en.wikipedia.org/wiki/Ernst_Haeckel
+description: ''
+gutenberg_issued: '2025-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75352'
+language: de
+pgterms:marc905: 20070310050839haeckel
+pgterms:marc906: '1878'
+pgterms:marc907: DE
+production_note: Peter Becker, Alpo Tiilikka, Adrian Mastronardi and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bErnst Gunther''s Verlag, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Protista'
+- !lcsh 'Unicellular organisms'
+- !lcc 'QH'
+- GITenberg
+title: 'Das Protistenreich : $b eine populäre Uebersicht über das Formengebiet der
+  niedersten Lebewesen; Mit einem wissenschaftlichen Anhange: System der Protisten'
+url: http://www.gutenberg.org/ebooks/75352
